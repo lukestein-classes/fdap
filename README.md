@@ -1,6 +1,6 @@
 # FDAP Student Resources
 
-This repository has material that supplements what is supplements on the FIN 6200 Canvas page. It exists mainly to provide publicly accessible URLs for shared data files (in `/data/`) and template notebook files (in `/templates/`).
+This repository has material that supplements what is supplements on the Babson FIN 6200 Canvas page. It exists mainly to provide publicly accessible URLs for shared data files (in `/data/`) and template notebook files (in `/templates/`).
 
 - [Data files](https://github.com/lukestein-classes/fdap_public/tree/main/data)
 - [Template notebooks](https://github.com/lukestein-classes/fdap_public/tree/main/templates)
