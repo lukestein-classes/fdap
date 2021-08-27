@@ -8,6 +8,12 @@ You can run template notebooks in your web browser using Google Colab [![Open In
 
 ## Python
 
+### Installation
+You can run Python notebooks in the cloud using [https://colab.research.google.com](Google Colab) or [https://mybinder.org](Binder), but will probably want a local installation. I strongly recommend you use the [Anaconda](https://www.anaconda.com/products/individual) Python distribution.
+
+Anaconda includes (almost) everything you need to get going, but in line with [https://aeturrell.github.io/coding-for-economists/code-preliminaries.html#installing-an-integrated-development-environment-ide](these recommendations), I prefer to work in [https://code.visualstudio.com](Visual Studio Code) with some add-in extensions.
+
+
 ### Packages
 - NumPy
 - pandas
