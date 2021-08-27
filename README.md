@@ -2,9 +2,12 @@
 
 This repository supplements material available on the FIN 6200 Canvas page. It mainly exists to provide accessible URLs for shared data files (in `/data/`) and template notebook files (in `/templates/`).
 
-You can also run the template notebooks in your web browser using Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukestein-classes/fdap_public/HEAD). Note that you **must** download saved versions of any changes you make to Binder notebooks if you'd like to keep them; they are **not** saved for you in the cloud.
+- [Data files](https://github.com/lukestein-classes/fdap_public/tree/main/data)
+- [Template notebooks](https://github.com/lukestein-classes/fdap_public/tree/main/templates)
 
-You can run template notebooks in your web browser using Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukestein-classes/fdap_public/blob/master), though these notebooks will not be able to access data in the repository.
+You can run the template notebooks in your web browser using Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukestein-classes/fdap_public/HEAD). Note that you **must** download saved versions of any changes you make to Binder notebooks if you'd like to keep them; they are **not** saved for you in the cloud.
+
+You can also run template notebooks in your web browser using Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukestein-classes/fdap_public/blob/master), though these notebooks will not be able to access data in the repository.
 
 ## Python
 
