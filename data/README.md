@@ -8,7 +8,7 @@ Caution: Data is undocumented, and variables may not be what you expect!
 
 ## Sources
 
-### Daily S&P 500 data
+### Daily S&P 500 data (`sp500d.csv`)
 ```python
 wrds_username = "YOUR_USERNAME"
 db = wrds.Connection(wrds_username = wrds_username)
@@ -18,7 +18,7 @@ db.close()
 sp500d.to_csv(r'sp500d.csv')
 ```
 
-### Monthly S&P 500 data
+### Monthly S&P 500 data (`sp500m.csv`)
 ```python
 wrds_username = "YOUR_USERNAME"
 db = wrds.Connection(wrds_username = wrds_username)
@@ -27,3 +27,6 @@ db.close()
 
 sp500m.to_csv(r'sp500m.csv')
 ```
+
+### Monthly tech stock returns (`tech-returns.csv`)
+Source: [Cameron Pfiffer](https://cameron.pfiffer.org)
