@@ -9,9 +9,9 @@ You can run template notebooks in your web browser using Google Colab [![Open In
 ## Python
 
 ### Installation
-You can run Python notebooks in the cloud using [https://colab.research.google.com](Google Colab) or [https://mybinder.org](Binder), but will probably want a local installation. I strongly recommend you use the [Anaconda](https://www.anaconda.com/products/individual) Python distribution.
+You can run Python notebooks in the cloud using [Google Colab](https://colab.research.google.com) or [Binder](https://mybinder.org), but will probably want a local installation. I strongly recommend you use the [Anaconda](https://www.anaconda.com/products/individual) Python distribution.
 
-Anaconda includes (almost) everything you need to get going, but in line with [https://aeturrell.github.io/coding-for-economists/code-preliminaries.html#installing-an-integrated-development-environment-ide](these recommendations), I prefer to work in [https://code.visualstudio.com](Visual Studio Code) with some add-in extensions.
+Anaconda includes (almost) everything you need to get going, but in line with [these recommendations](https://aeturrell.github.io/coding-for-economists/code-preliminaries.html#installing-an-integrated-development-environment-ide), I prefer to work in [Visual Studio Code](https://code.visualstudio.com) with some add-in extensions.
 
 
 ### Packages
@@ -25,7 +25,7 @@ Anaconda includes (almost) everything you need to get going, but in line with [h
 - [Python documentation official “An Informal Introduction to Python”](https://docs.python.org/3/tutorial/introduction.html#)
 - [Think Python](https://greenteapress.com/wp/think-python-2e/) (and [repo](https://github.com/AllenDowney/ThinkPython2))
 - [Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) (and [repo](https://github.com/jakevdp/WhirlwindTourOfPython))
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (and [repo](https://github.com/
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (and [repo](https://github.com/jakevdp/PythonDataScienceHandbook))
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/)
 
 
