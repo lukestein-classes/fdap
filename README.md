@@ -22,7 +22,7 @@ Anaconda includes (almost) everything you need to get going, but in line with [h
 - [WRDS](https://github.com/wharton/wrds)
 
 ### Books
-- [Python documentation official "An Informal Introduction to Python"](https://docs.python.org/3/tutorial/introduction.html#)
+- [Python documentation official “An Informal Introduction to Python”](https://docs.python.org/3/tutorial/introduction.html#)
 - [Think Python](https://greenteapress.com/wp/think-python-2e/) (and [repo](https://github.com/AllenDowney/ThinkPython2))
 - [Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) (and [repo](https://github.com/jakevdp/WhirlwindTourOfPython))
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (and [repo](https://github.com/
