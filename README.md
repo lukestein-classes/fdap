@@ -1,4 +1,4 @@
-# FDAP (Financial Data Analysis and Practice) Student Resources
+# FDAP Student Resources
 
 This repository has material that supplements what is supplements on the FIN 6200 Canvas page. It exists mainly to provide publicly accessible URLs for shared data files (in `/data/`) and template notebook files (in `/templates/`).
 
