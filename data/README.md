@@ -6,9 +6,8 @@ GitHub requires that files be less than 100MB (50MB recommended). Additional sub
 1. Data may not be up to date (and may be inaccurate for other reasons); do not rely on materials in this repository for any critical analysis
 2. Data is undocumented, and variables may not be what you expect
 
-## Sources
-
 ### Daily S&P 500 data (`sp500d.csv`)
+Source: CRSP via WRDS
 ```python
 wrds_username = "YOUR_USERNAME"
 db = wrds.Connection(wrds_username = wrds_username)
@@ -19,6 +18,7 @@ sp500d.to_csv(r'sp500d.csv')
 ```
 
 ### Monthly S&P 500 data (`sp500m.csv`)
+Source: CRSP via WRDS
 ```python
 wrds_username = "YOUR_USERNAME"
 db = wrds.Connection(wrds_username = wrds_username)
