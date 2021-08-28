@@ -2,9 +2,9 @@
 
 GitHub requires that files be less than 100MB (50MB recommended). Additional submissions welcome!
 
-Data may not be up to date (and may be inaccurate for other reasons). Do not rely on materials in this repository for any critical analysis.
-
-Caution: Data is undocumented, and variables may not be what you expect!
+**Caution:**
+1. Data may not be up to date (and may be inaccurate for other reasons); do not rely on materials in this repository for any critical analysis
+2. Data is undocumented, and variables may not be what you expect
 
 ## Sources
 
