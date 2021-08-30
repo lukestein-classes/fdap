@@ -16,7 +16,6 @@ Python notebooks can run in the cloud using [Google Colab](https://colab.researc
 
 Anaconda includes (almost) everything you need to get going, but in line with [these recommendations](https://aeturrell.github.io/coding-for-economists/code-preliminaries.html#installing-an-integrated-development-environment-ide), I prefer to work in [Visual Studio Code](https://code.visualstudio.com) with some add-in extensions.
 
-
 ### Packages
 - [NumPy](https://numpy.org) (scientific computing)
 - [pandas](https://pandas.pydata.org) (data analysis)
@@ -32,6 +31,11 @@ Anaconda includes (almost) everything you need to get going, but in line with [t
 - [Python for Data Analysis](https://amzn.to/3joJQAa)
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/)
 
+### Other References
+- [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
+- [Dive into Python](https://diveinto.org/python3/table-of-contents.html)
+- [Jupyter Notebook gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+- [Kaggle Welcome to Data Visualization](https://www.kaggle.com/residentmario/welcome-to-data-visualization) (uses Python, Pandas, and Seaborn)
 
 ## Data
 - [Bloomberg Anywhere](https://bba.bloomberg.com)
