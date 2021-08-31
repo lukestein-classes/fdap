@@ -1,4 +1,4 @@
-# Sample data files
+# FDAP Sample Data Files
 
 GitHub requires that files be less than 100MB (50MB recommended). Additional submissions welcome!
 
@@ -7,6 +7,8 @@ GitHub requires that files be less than 100MB (50MB recommended). Additional sub
 2. Data is undocumented, and variables may not be what you expect
 
 ### Daily S&P 500 data (`sp500d.csv`)
+**[Link](sp500d.csv)**
+
 Source: CRSP via WRDS
 ```python
 wrds_username = "YOUR_USERNAME"
@@ -18,6 +20,8 @@ sp500d.to_csv(r'sp500d.csv')
 ```
 
 ### Monthly S&P 500 data (`sp500m.csv`)
+**[Link](sp500m.csv)**
+
 Source: CRSP via WRDS
 ```python
 wrds_username = "YOUR_USERNAME"
@@ -29,4 +33,6 @@ sp500m.to_csv(r'sp500m.csv')
 ```
 
 ### Monthly tech stock returns (`tech-returns.csv`)
+**[Link](tech-returns.csv)**
+
 Source: [Cameron Pfiffer](https://cameron.pfiffer.org)
