@@ -44,17 +44,17 @@ This course schedule **will** change during the semester. Topic changes may be a
 |   P1   | Introduction |     |
 |   P2   | Pandas       |     |
 |   P3   | Numpy        |     |
-|   P4   | Statsmodels  |     |
+|   P4   | statsmodels  |     |
 
 ### Statistics and Inference
 
 | Module | Topic        | Resources |
 | :----: | ------------ | --- |
-|   S1   |  |     |
+|   S1   |              |     |
 
 
 ### Applications
 
 | Module | Topic        | Resources |
 | :----: | ------------ | --- |
-|   A1   |  |     |
+|   A1   |              |     |

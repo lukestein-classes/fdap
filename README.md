@@ -17,7 +17,7 @@ Python notebooks can run in the cloud using [Google Colab](https://colab.researc
 
 Anaconda includes (almost) everything you need to get going, but in line with [these recommendations](https://aeturrell.github.io/coding-for-economists/code-preliminaries.html#installing-an-integrated-development-environment-ide), I prefer to work in [Visual Studio Code](https://code.visualstudio.com) with some add-in extensions.
 - [Python with Anaconda and VS Code installation instructions](https://aeturrell.github.io/coding-for-economists/code-preliminaries.html#installing-python)
-- [Getting Started with Jupyter Notebooks in VS Code](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Getting-Started-with-Jupyter-Notebooks-in-VS-Code) (video)
+- [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) (and [video](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Getting-Started-with-Jupyter-Notebooks-in-VS-Code))
 
 ### Packages
 - [NumPy](https://numpy.org) (scientific computing)
