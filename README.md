@@ -3,8 +3,8 @@
 This repository has material that supplements what is posted on the Babson FIN 6200 Canvas page. It exists mainly to provide publicly accessible URLs for shared data files (in `/data/`) and template notebook files (in `/templates/`), a course schedule, and links to external resources.
 
 - [Course schedule](schedule)
-- [Data files](https://github.com/lukestein-classes/fdap_public/tree/main/data)
-- [Template notebooks](https://github.com/lukestein-classes/fdap_public/tree/main/templates)
+- [Data files](data)
+- [Template notebooks](templates)
 
 You can run the notebooks in your web browser using Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukestein-classes/fdap_public/HEAD). Note that you **must** download saved versions of any changes you make to Binder notebooks if you'd like to keep them; they are **not** saved for you in the cloud.
 
