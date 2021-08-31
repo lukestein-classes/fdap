@@ -1,8 +1,8 @@
 # FDAP Template Notebooks
 
 You can run the notebooks in your web browser using
-- Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukestein-classes/fdap_public/templates/HEAD)
-- Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukestein-classes/fdap_public/templates/blob/master) (though you may not be able to access data in the repository)
+- Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukestein-classes/fdap_public/HEAD)
+- Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukestein-classes/fdap_public/blob/master) (though you may not be able to access data in the repository)
 
 **Caution:**
 1. You **must** download saved versions of any changes you make to online notebooks if you'd like to keep them; they are **not** saved for you in the cloud
