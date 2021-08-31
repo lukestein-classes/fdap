@@ -6,7 +6,9 @@ GitHub requires that files be less than 100MB (50MB recommended). Note that by d
 1. Data may not be up to date (and may be inaccurate for other reasons); do not rely on materials in this repository for any critical analysis
 2. Data is undocumented, and variables may not be what you expect
 
-### Daily S&P 500 data ([`sp500d.csv`](sp500d.csv))
+### Daily S&P 500 data
+Link: [`sp500d.csv`](sp500d.csv)
+
 Source: CRSP via WRDS
 ```python
 wrds_username = "YOUR_USERNAME"
@@ -17,7 +19,9 @@ db.close()
 sp500d.to_csv(r'sp500d.csv')
 ```
 
-### Monthly S&P 500 data ([`sp500m.csv`](sp500m.csv))
+### Monthly S&P 500 data
+Link: [`sp500m.csv`](sp500m.csv)
+
 Source: CRSP via WRDS
 ```python
 wrds_username = "YOUR_USERNAME"
@@ -28,7 +32,9 @@ db.close()
 sp500m.to_csv(r'sp500m.csv')
 ```
 
-### Monthly tech stock returns ([`monthly-tech.csv`](monthly-tech.csv))
+### Monthly tech stock returns
+Link: [`monthly-tech.csv`](monthly-tech.csv)
+
 Source: [Cameron Pfiffer](https://cameron.pfiffer.org)
 
 
