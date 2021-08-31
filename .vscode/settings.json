@@ -9,5 +9,6 @@
         "Turrell",
         "Vander",
         "dataprep"
-    ]
+    ],
+    "python.pythonPath": "/Users/lcdstein/opt/miniconda3/envs/fdap/bin/python"
 }
