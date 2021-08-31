@@ -20,11 +20,14 @@ Anaconda includes (almost) everything you need to get going, but in line with [t
 - [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) (and [video](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Getting-Started-with-Jupyter-Notebooks-in-VS-Code))
 
 ### Packages
+These are the critical packages we will rely on; if you need a package not included with Anaconda, you should *first* try to install it using `conda install` and only if that doesn’t work, install using `pip`
 - [NumPy](https://numpy.org) (scientific computing)
 - [pandas](https://pandas.pydata.org) (data analysis)
 - [Seaborn](https://seaborn.pydata.org) (data visualization) and an [overview of Python visualization tools](https://pbpython.com/visualization-tools-1.html)
 - [Pandas data reader](https://pydata.github.io/pandas-datareader/) (access to sources including Yahoo Finance and FRED)
 - [WRDS](https://github.com/wharton/wrds) (access to the authoritative source of historical financial data)
+
+Additional packages that may be useful include [Pandas profiling](https://github.com/pandas-profiling/pandas-profiling) (automated EDA), [Pyjanitor](https://pyjanitor.readthedocs.io) (data cleaning), and [dataprep](https://pypi.org/project/dataprep/) (data cleaning and automated EDA)
 
 ### Books
 - [Python’s official “Informal Introduction”](https://docs.python.org/3/tutorial/introduction.html)
