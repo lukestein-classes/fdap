@@ -1,6 +1,6 @@
 # FDAP Sample Data Files
 
-GitHub requires that files be less than 100MB (50MB recommended). Additional submissions welcome!
+GitHub requires that files be less than 100MB (50MB recommended). Additional submissions welcome! Note that by default GitHub does not turn `csv` files into downloads, so you may have to choose `Save As…` in your web browser.
 
 **Caution:**
 1. Data may not be up to date (and may be inaccurate for other reasons); do not rely on materials in this repository for any critical analysis
