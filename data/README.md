@@ -32,7 +32,7 @@ db.close()
 sp500m.to_csv(r'sp500m.csv')
 ```
 
-### Monthly tech stock returns (`tech-returns.csv`)
-**[Link](tech-returns.csv)**
+### Monthly tech stock returns (`monthly-tech.csv`)
+**[Link](monthly-tech.csv)**
 
 Source: [Cameron Pfiffer](https://cameron.pfiffer.org)
