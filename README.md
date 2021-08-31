@@ -26,7 +26,6 @@ These are the critical packages we will rely on; if you need a package not inclu
 Additional packages that may be useful include [Pandas profiling](https://github.com/pandas-profiling/pandas-profiling) (automated EDA), [Pyjanitor](https://pyjanitor.readthedocs.io) (data cleaning), and [dataprep](https://pypi.org/project/dataprep/) (data cleaning and automated EDA)
 
 ### Books
-- [Python’s official “Informal Introduction”](https://docs.python.org/3/tutorial/introduction.html)
 - [Think Python](https://greenteapress.com/wp/think-python-2e/) (and [repo](https://github.com/AllenDowney/ThinkPython2)), Allen B. Downey
 - [Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) (and [repo](https://github.com/jakevdp/WhirlwindTourOfPython)), Jake VanderPlas
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (and [repo](https://github.com/jakevdp/PythonDataScienceHandbook)), Jake VanderPlas
@@ -37,7 +36,6 @@ Additional packages that may be useful include [Pandas profiling](https://github
 
 ### Other References
 - [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
-- [Dive into Python](https://diveinto.org/python3/table-of-contents.html)
 - [Kaggle Welcome to Data Visualization](https://www.kaggle.com/residentmario/welcome-to-data-visualization) (uses Python, Pandas, and Seaborn)
 - [How to read most commonly used file formats in Data Science (using Python)`](https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/)
 
