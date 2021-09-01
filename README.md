@@ -26,12 +26,12 @@ These are the critical packages we will rely on; if you need a package not inclu
 Additional packages that may be useful include [Pandas profiling](https://github.com/pandas-profiling/pandas-profiling) (automated EDA), [Pyjanitor](https://pyjanitor.readthedocs.io) (data cleaning), and [dataprep](https://pypi.org/project/dataprep/) (data cleaning and automated EDA)
 
 ### Books
-- [Think Python](https://greenteapress.com/wp/think-python-2e/) (and [repo](https://github.com/AllenDowney/ThinkPython2)), Allen B. Downey
+- [Think Python](https://greenteapress.com/wp/think-python-2e/) (2nd ed., and [repo](https://github.com/AllenDowney/ThinkPython2)), Allen B. Downey
 - [Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) (and [repo](https://github.com/jakevdp/WhirlwindTourOfPython)), Jake VanderPlas
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (and [repo](https://github.com/jakevdp/PythonDataScienceHandbook)), Jake VanderPlas
-- [Python for Data Analysis](https://amzn.to/3joJQAa), Wes McKinney
+- [Python for Data Analysis](https://amzn.to/3joJQAa) (2nd ed.), Wes McKinney
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/), Arthur Turrell
-- [Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/teaching/python/notes/), Kevin Sheppard
+- [Introduction to Python for Econometrics, Statistics and Data Analysis](https://www.kevinsheppard.com/teaching/python/notes/) (4th ed.), Kevin Sheppard
 - [pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/)
 
 ### Other References
