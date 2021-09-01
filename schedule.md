@@ -13,15 +13,15 @@ We will also have several **combined meetings** where multiple sections will mee
 |   3  |   9/15    |   [P1](#python)                        |               |
 |   4  |   9/20    |   [P2](#python)                        |  HW2          |
 |   5  |   9/22    |   cont.                                |               |
-|   6  |   9/27    |   cont.                                |  HW3          |
-|   7  |   9/29    |   [A1](#applications)                  |               |
-|   8  |   10/4    |   [P3](#python), [D1](#financial-data) |  HW4          |
-|   9  |   10/6    |   [S2](#statistics-and-inference)      |               |
+|   6  |   9/27    |   [A1](#applications)                  |  HW3          |
+|   7  |   9/29    |   [P3](#python), [D1](#financial-data) |               |
+|   8  |   10/4    |   [S2](#statistics-and-inference)      |  HW4          |
+|   9  |   10/6    |   [A2](#applications), [P4](#python)   |               |
 |      | **10/11** |  *No class (Indigenous Peoples’ Day)*  |               |
 |  10  | **10/12** |   [D2](#financial-data)                |  HW5          |
-|  11  |   10/13   |   [A2](#applications), [P4](#python)   |               |
-|  12  |   10/18   |   [S3](#statistics-and-inference)      |  HW6          |
-|  13  |   10/20   |   [D3](#financial-data), [P5](#python) |               |
+|  11  |   10/13   |   [S3](#statistics-and-inference)      |               |
+|  12  |   10/18   |   [P5](#python)                        |  HW6          |
+|  13  |   10/20   |   [D3](#financial-data)                |               |
 |  14  |   10/25   |   [S4](#statistics-and-inference)      |  HW7          |
 |  15  |   10/27   |   [S5](#statistics-and-inference)      |               |
 |  16  |   11/1    |   [A3](#applications), [S6](#statistics-and-inference)    |  HW8          |
@@ -44,18 +44,18 @@ We will also have several **combined meetings** where multiple sections will mee
 
 | Module | Topic                                | Resources             |
 | :----: | ------------------------------------ | --------------------- |
-|   P1   |  Introduction                        |                       |
-|   P2   |  Program structure                   |                       |
-|   P3   |  Pandas                              |                       |
-|   P4   |  Seaborn                             |                       |
-|   P5   |  statsmodels                         |                       |
-|   P6   |  Numpy                               |                       |
+|   P1   |  Introduction to Python              | [TP](https://greenteapress.com/wp/think-python-2e/) 1–3, 8, 10–12 <br> [WTP](https://jakevdp.github.io/WhirlwindTourOfPython/) 1–7 <br> CfE Coding [1](https://aeturrell.github.io/coding-for-economists/code-preliminaries.html), [4](https://aeturrell.github.io/coding-for-economists/code-where.html), [2.1–2.8](https://aeturrell.github.io/coding-for-economists/code-basics.html)  |
+|   P2   |  Control flow and data structures    | [TP](https://greenteapress.com/wp/think-python-2e/) 5–7 <br> [WTP](https://jakevdp.github.io/WhirlwindTourOfPython/) 8–14 <br> CfE Coding [2.9–2.17](https://aeturrell.github.io/coding-for-economists/code-basics.html)  |
+|   P3   |  Data manipulation                   | PDSH [3](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#3.-Data-Manipulation-with-Pandas) <br> CfE Data [1](https://aeturrell.github.io/coding-for-economists/data-analysis-quickstart.html)–[2](https://aeturrell.github.io/coding-for-economists/data-intro.html)  |
+|   P4   |  Visualization                       | PDSH [4.14](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html)  <br>  [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html) API overview and Plotting functions |
+|   P5   |  Regression and statistics           |                       |
+|   P6   |  Numerical Python                    | PDSH [2](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#2.-Introduction-to-NumPy)                      |
 
 ### Statistics and Inference
 
 | Module | Topic                                | Resources             |
 | :----: | ------------------------------------ | --------------------- |
-|   S1   |  Introduction to Data                |  IMS 1–3              |
+|   S1   |  Introduction to data                |  IMS 1–3              |
 |   S2   |  Exploratory data analysis (EDA)     |  IMS 4–6              |
 |   S3   |  Regression modeling                 |  IMS 7–10             |
 |   S4   |  Foundations of inference            |  IMS 11–15            |
@@ -71,7 +71,7 @@ We will also have several **combined meetings** where multiple sections will mee
 |   D3   |  CRSP                                |                       |
 |   D4   |  Alternative data                    |                       |
 
-### Applications
+### Financial Applications
 
 | Module | Topic                                | Resources             |
 | :----: | ------------------------------------ | --------------------- |
