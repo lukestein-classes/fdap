@@ -46,7 +46,7 @@ Additional packages that may be useful include [Pandas profiling](https://github
 ## Financial Data
 - [Bloomberg Anywhere](https://bba.bloomberg.com)
 - [Open Source Asset Pricing](https://www.openassetpricing.com/data/)
-- [Wharton Research Data Services (WRDS)](https://wrds-www.wharton.upenn.edu)
+- [Wharton Research Data Services (WRDS)](http://wrds.wharton.upenn.edu/)
   - Datasets [by concept](https://wrds-www.wharton.upenn.edu/pages/browse-data-concept/) and [by product](https://wrds-www.wharton.upenn.edu/users/products/)
   - [CRSP Methodologies](http://www.crsp.org/products/documentation/crsp-calculations)
 
