@@ -17,10 +17,10 @@ Anaconda includes (almost) everything you need to get going, but in line with [t
 
 ### Packages
 These are the critical packages we will rely on; if you need a package not included with Anaconda, you should *first* try to install it using `conda install` and only if that doesn’t work, install using `pip`
-- [NumPy](https://numpy.org) (scientific computing)
 - [pandas](https://pandas.pydata.org) (data analysis)
-- [Seaborn](https://seaborn.pydata.org) (data visualization) and an [overview of Python visualization tools](https://pbpython.com/visualization-tools-1.html)
 - [Pandas data reader](https://pydata.github.io/pandas-datareader/) (access to sources including Yahoo Finance and FRED)
+- [Seaborn](https://seaborn.pydata.org) (data visualization) and an [overview of Python visualization tools](https://pbpython.com/visualization-tools-1.html)
+- [NumPy](https://numpy.org) (scientific computing)
 - [WRDS](https://github.com/wharton/wrds) (access to the authoritative source of historical financial data)
 
 Additional packages that may be useful include [Pandas profiling](https://github.com/pandas-profiling/pandas-profiling) (automated EDA), [Pyjanitor](https://pyjanitor.readthedocs.io) (data cleaning), and [dataprep](https://pypi.org/project/dataprep/) (data cleaning and automated EDA)
@@ -35,6 +35,7 @@ Additional packages that may be useful include [Pandas profiling](https://github
 - [pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/)
 
 ### Other References
+- Cheatsheets: [Python basics](cheatsheets/pythonbasics.pdf), [pandas basics](cheatsheets/pandasbasics.pdf), [pandas advanced](cheatsheets/pandas.pdf), [Seaborn](cheatsheets/seaborn.pdf), [NumPy](cheatsheets/numpy.pdf), and [importing data](cheatsheets/importingdata.pdf)
 - [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
 - [Kaggle Welcome to Data Visualization](https://www.kaggle.com/residentmario/welcome-to-data-visualization) (uses Python, Pandas, and Seaborn)
 - [How to read most commonly used file formats in Data Science (using Python)`](https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/)
