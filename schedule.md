@@ -12,8 +12,8 @@ We will also have several **combined meetings** where multiple sections will mee
 |   2  |   9/13    |   [S1](#statistics-and-inference)      |  HW1          |
 |   3  |   9/15    |   [P1](#python)                        |               |
 |   4  |   9/20    |   [P2](#python)                        |  HW2          |
-|   5  |   9/22    |   —                                    |               |
-|   6  |   9/27    |   —                                    |  HW3          |
+|   5  |   9/22    |   cont.                                |               |
+|   6  |   9/27    |   cont.                                |  HW3          |
 |   7  |   9/29    |   [A1](#applications)                  |               |
 |   8  |   10/4    |   [P3](#python), [D1](#financial-data) |  HW4          |
 |   9  |   10/6    |   [S2](#statistics-and-inference)      |               |
@@ -24,16 +24,16 @@ We will also have several **combined meetings** where multiple sections will mee
 |  13  |   10/20   |   [D3](#financial-data), [P5](#python) |               |
 |  14  |   10/25   |   [S4](#statistics-and-inference)      |  HW7          |
 |  15  |   10/27   |   [S5](#statistics-and-inference)      |               |
-|  16  |   11/1    |   [A3](#applications), [[S6](#statistics-and-inference)    |  HW8          |
-|  17  |   11/3    |   —                                    |               |
+|  16  |   11/1    |   [A3](#applications), [S6](#statistics-and-inference)    |  HW8          |
+|  17  |   11/3    |   cont.                                |               |
 |  18  |   11/8    |   [A4](#applications)                  |  HW9          |
 |  19  |   11/10   |   [P6](#python)                        |               |
 |  20  |   11/15   |   [A5](#applications)                  |  HW10         |
-|  21  |   11/17   |   —                                    |               |
+|  21  |   11/17   |   cont.                                |               |
 |  22  |   11/22   |   [D4](#financial-data)                |  HW11         |
 |  23  | **11/24** |  *Day before Thanksgiving; plan TBA*   |               |
 |  24  |   11/29   |   [A6](#applications)                  |               |
-|  25  |   12/1    |   —                                    |               |
+|  25  |   12/1    |   cont.                                |               |
 |  26  |   12/6    |   [A7](#applications)                  |  HW12         |
 |  27  |   12/8    |   Final presentations                  |               |
 |  28  |   12/13   |   Final presentations                  |               |
