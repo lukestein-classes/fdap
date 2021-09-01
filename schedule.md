@@ -49,7 +49,7 @@ We will also have several **combined meetings** where multiple sections will mee
 |   P3   |  Data manipulation                   | PDSH [3](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#3.-Data-Manipulation-with-Pandas) <br> [PESDA](https://www.kevinsheppard.com/teaching/python/notes/) 8–9, 15 <br> CfE Data [1](https://aeturrell.github.io/coding-for-economists/data-analysis-quickstart.html), [2](https://aeturrell.github.io/coding-for-economists/data-intro.html) <br> PDA 5, 7–8, 10-12  |
 |   P4   |  Visualization                       | PDSH [4.14](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html)  <br>  [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html) API overview and Plotting functions |
 |   P5   |  Regression and statistics           |  [PESDA](https://www.kevinsheppard.com/teaching/python/notes/) 19                     |
-|   P6   |  Numerical Python                    | PDSH [2](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#2.-Introduction-to-NumPy)  <br> [PESDA](https://www.kevinsheppard.com/teaching/python/notes/) 3, 11, 18                    |
+|   P6   |  Numerical Python                    | PDSH [2](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#2.-Introduction-to-NumPy)  <br> PDA 4 <br> [PESDA](https://www.kevinsheppard.com/teaching/python/notes/) 3, 11, 18   |
 
 ### Statistics and Inference
 
