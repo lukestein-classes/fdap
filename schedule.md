@@ -16,25 +16,25 @@ We will also have several **combined meetings** where multiple sections will mee
 |   6  |   9/27    |   [A1](#financial-applications)        |  HW3          |
 |   7  |   9/29    |   [P3](#python), [D1](#financial-data) |               |
 |   8  |   10/4    |   [S2](#statistics-and-inference)      |  HW4          |
-|   9  |   10/6    |   [A2](#financial-applications), [P4](#python)  |               |
+|   9  |   10/6    |   [P4](#python), [A2](#financial-applications)  |  |
 |      | **10/11** |  *No class (Indigenous Peoples’ Day)*  |               |
-|  10  | **10/12** |   [D2](#financial-data)                |  HW5          |
+|  10  | **10/12** |  *Tuesday class* <br> [D2](#financial-data)  |  HW5          |
 |  11  |   10/13   |   [S3](#statistics-and-inference)      |               |
 |  12  |   10/18   |   [P5](#python)                        |  HW6          |
-|  13  |   10/20   |   [D3](#financial-data)                |               |
-|  14  |   10/25   |   [S4](#statistics-and-inference)      |  HW7          |
+|  13  |   10/20   |   [S4](#statistics-and-inference), [D3](#financial-data) |  |
+|  14  | **10/25** |  *Meeting 9:45–11:30am and 12:45–2:30pm* <br> [A3](#financial-applications)  |  |
 |  15  |   10/27   |   [S5](#statistics-and-inference)      |               |
-|  16  |   11/1    |   [A3](#financial-applications), [S6](#statistics-and-inference)    |  HW8          |
-|  17  |   11/3    |   cont.                                |               |
-|  18  |   11/8    |   [A4](#financial-applications)        |  HW9          |
+|  16  | **11/1**  |  *Meeting 9:45–11:30am and 12:45–2:30pm* <br> [A3](#financial-applications)  |  HW7          |
+|  17  |   11/3    |   [S6](#statistics-and-inference), [A4](#financial-applications)  |  |
+|  18  |   11/8    |   [A5](#financial-applications)        |  HW8          |
 |  19  |   11/10   |   [P6](#python)                        |               |
-|  20  |   11/15   |   [A5](#financial-applications)        |  HW10         |
+|  20  |   11/15   |   [A6](#financial-applications)        |  HW9         |
 |  21  |   11/17   |   cont.                                |               |
-|  22  |   11/22   |   [D4](#financial-data)                |  HW11         |
+|  22  |   11/22   |   [D4](#financial-data)                |  HW10         |
 |  23  | **11/24** |  *Day before Thanksgiving; plan TBA*   |               |
-|  24  |   11/29   |   [A6](#financial-applications)        |               |
+|  24  |   11/29   |   [A7](#financial-applications)        |               |
 |  25  |   12/1    |   cont.                                |               |
-|  26  |   12/6    |   [A7](#financial-applications)        |  HW12         |
+|  26  |   12/6    |   [A8](#financial-applications)        |  HW11         |
 |  27  |   12/8    |   Final presentations                  |               |
 |  28  |   12/13   |   Final presentations                  |               |
 |  29  |   12/15   |   Wrap-up                              |               |
@@ -77,8 +77,9 @@ We will also have several **combined meetings** where multiple sections will mee
 | :----: | ------------------------------------ | --------------------- |
 |   A1   |  Fixed income                        |                       |
 |   A2   |  Equity returns                      |                       |
-|   A3   |  Foreign exchange                    |                       |
-|   A4   |  Factor models                       |                       |
-|   A5   |  Capital budgeting                   |                       |
-|   A6   |  Derivatives                         |                       |
-|   A7   |  Equity portfolios                   |                       |
+|   A3   |  Professional ethics                 |                       |
+|   A4   |  Foreign exchange                    |                       |
+|   A5   |  Factor models                       |                       |
+|   A6   |  Capital budgeting                   |                       |
+|   A7   |  Derivatives                         |                       |
+|   A8   |  Equity portfolios                   |                       |
