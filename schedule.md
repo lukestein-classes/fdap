@@ -13,10 +13,10 @@ We will also have several **combined meetings** where multiple sections will mee
 |   3  |   9/15    |   [P1](#python)                        |               |
 |   4  |   9/20    |   [P2](#python)                        |  HW2          |
 |   5  |   9/22    |   cont.                                |               |
-|   6  |   9/27    |   [A1](#applications)                  |  HW3          |
+|   6  |   9/27    |   [A1](#financial-applications)        |  HW3          |
 |   7  |   9/29    |   [P3](#python), [D1](#financial-data) |               |
 |   8  |   10/4    |   [S2](#statistics-and-inference)      |  HW4          |
-|   9  |   10/6    |   [A2](#applications), [P4](#python)   |               |
+|   9  |   10/6    |   [A2](#financial-applications), [P4](#python)  |               |
 |      | **10/11** |  *No class (Indigenous Peoples’ Day)*  |               |
 |  10  | **10/12** |   [D2](#financial-data)                |  HW5          |
 |  11  |   10/13   |   [S3](#statistics-and-inference)      |               |
@@ -24,17 +24,17 @@ We will also have several **combined meetings** where multiple sections will mee
 |  13  |   10/20   |   [D3](#financial-data)                |               |
 |  14  |   10/25   |   [S4](#statistics-and-inference)      |  HW7          |
 |  15  |   10/27   |   [S5](#statistics-and-inference)      |               |
-|  16  |   11/1    |   [A3](#applications), [S6](#statistics-and-inference)    |  HW8          |
+|  16  |   11/1    |   [A3](#financial-applications), [S6](#statistics-and-inference)    |  HW8          |
 |  17  |   11/3    |   cont.                                |               |
-|  18  |   11/8    |   [A4](#applications)                  |  HW9          |
+|  18  |   11/8    |   [A4](#financial-applications)        |  HW9          |
 |  19  |   11/10   |   [P6](#python)                        |               |
-|  20  |   11/15   |   [A5](#applications)                  |  HW10         |
+|  20  |   11/15   |   [A5](#financial-applications)        |  HW10         |
 |  21  |   11/17   |   cont.                                |               |
 |  22  |   11/22   |   [D4](#financial-data)                |  HW11         |
 |  23  | **11/24** |  *Day before Thanksgiving; plan TBA*   |               |
-|  24  |   11/29   |   [A6](#applications)                  |               |
+|  24  |   11/29   |   [A6](#financial-applications)        |               |
 |  25  |   12/1    |   cont.                                |               |
-|  26  |   12/6    |   [A7](#applications)                  |  HW12         |
+|  26  |   12/6    |   [A7](#financial-applications)        |  HW12         |
 |  27  |   12/8    |   Final presentations                  |               |
 |  28  |   12/13   |   Final presentations                  |               |
 |  29  |   12/15   |   Wrap-up                              |               |
@@ -66,10 +66,10 @@ We will also have several **combined meetings** where multiple sections will mee
 
 | Module | Topic                                | Resources             |
 | :----: | ------------------------------------ | --------------------- |
-|   D1   |  pandas-datareader                   | [pdr documentation](https://pydata.github.io/pandas-datareader/) |
-|   D2   |  Bloomberg                           |                       |
+|   D1   |  pandas-datareader                   | [datareader documentation](https://pydata.github.io/pandas-datareader/) |
+|   D2   |  Bloomberg                           | TBA                   |
 |   D3   |  WRDS                                | [WRDS](http://wrds.wharton.upenn.edu/) Data documentation, Classroom, Research <br> [WRDS Python Data Access Library](https://github.com/wharton/wrds) |
-|   D4   |  Alternative data                    |                       |
+|   D4   |  Alternative data                    | TBA                   |
 
 ### Financial Applications
 
