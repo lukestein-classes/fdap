@@ -35,7 +35,7 @@ Additional packages that may be useful include [Pandas profiling](https://github
 - [pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/)
 
 ### Other References
-- Cheatsheets: [Python basics](cheatsheets/pythonbasics.pdf), [pandas basics](cheatsheets/pandasbasics.pdf), [pandas advanced](cheatsheets/pandas.pdf), [Seaborn](cheatsheets/seaborn.pdf), [NumPy](cheatsheets/numpy.pdf), and [importing data](cheatsheets/importingdata.pdf)
+- Datacamp cheatsheets: [Python basics](cheatsheets/pythonbasics.pdf), [pandas basics](cheatsheets/pandasbasics.pdf), [pandas advanced](cheatsheets/pandas.pdf), [Seaborn](cheatsheets/seaborn.pdf), [NumPy](cheatsheets/numpy.pdf), and [importing data](cheatsheets/importingdata.pdf)
 - [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
 - [Kaggle Welcome to Data Visualization](https://www.kaggle.com/residentmario/welcome-to-data-visualization) (uses Python, Pandas, and Seaborn)
 - [How to read most commonly used file formats in Data Science (using Python)`](https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/)
