@@ -46,7 +46,7 @@ We will also have several **combined meetings** where multiple sections will mee
 | :----: | ------------------------------------ | --------------------- |
 |   P1   |  Introduction to Python              | [TP](https://greenteapress.com/wp/think-python-2e/) 1–3, 8, 10–12 <br> [WTP](https://jakevdp.github.io/WhirlwindTourOfPython/) 1–7 <br> CfE Coding [1](https://aeturrell.github.io/coding-for-economists/code-preliminaries.html), [4](https://aeturrell.github.io/coding-for-economists/code-where.html), [2.1–2.8](https://aeturrell.github.io/coding-for-economists/code-basics.html)  |
 |   P2   |  Control flow and data structures    | [TP](https://greenteapress.com/wp/think-python-2e/) 5–7 <br> [WTP](https://jakevdp.github.io/WhirlwindTourOfPython/) 8–14 <br> CfE Coding [2.9–2.17](https://aeturrell.github.io/coding-for-economists/code-basics.html)  |
-|   P3   |  Data manipulation                   | PDSH [3](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#3.-Data-Manipulation-with-Pandas) <br> CfE Data [1](https://aeturrell.github.io/coding-for-economists/data-analysis-quickstart.html)–[2](https://aeturrell.github.io/coding-for-economists/data-intro.html)  |
+|   P3   |  Data manipulation                   | PDSH [3](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#3.-Data-Manipulation-with-Pandas) <br> CfE Data [1](https://aeturrell.github.io/coding-for-economists/data-analysis-quickstart.html), [2](https://aeturrell.github.io/coding-for-economists/data-intro.html)  |
 |   P4   |  Visualization                       | PDSH [4.14](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html)  <br>  [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html) API overview and Plotting functions |
 |   P5   |  Regression and statistics           |                       |
 |   P6   |  Numerical Python                    | PDSH [2](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#2.-Introduction-to-NumPy)                      |
@@ -55,20 +55,20 @@ We will also have several **combined meetings** where multiple sections will mee
 
 | Module | Topic                                | Resources             |
 | :----: | ------------------------------------ | --------------------- |
-|   S1   |  Introduction to data                |  IMS 1–3              |
-|   S2   |  Exploratory data analysis (EDA)     |  IMS 4–6              |
-|   S3   |  Regression modeling                 |  IMS 7–10             |
-|   S4   |  Foundations of inference            |  IMS 11–15            |
-|   S5   |  Statistical inference               |  IMS 16–23            |
-|   S6   |  Inferential modeling                |  IMS 24–27            |
+|   S1   |  Introduction to data                |  [IMS](https://openintro-ims.netlify.app) 1–3              |
+|   S2   |  Exploratory data analysis (EDA)     |  [IMS](https://openintro-ims.netlify.app) 4–6              |
+|   S3   |  Regression modeling                 |  [IMS](https://openintro-ims.netlify.app) 7–10             |
+|   S4   |  Foundations of inference            |  [IMS](https://openintro-ims.netlify.app) 11–15            |
+|   S5   |  Statistical inference               |  [IMS](https://openintro-ims.netlify.app) 16–23            |
+|   S6   |  Inferential modeling                |  [IMS](https://openintro-ims.netlify.app) 24–27            |
 
 ### Financial Data
 
 | Module | Topic                                | Resources             |
 | :----: | ------------------------------------ | --------------------- |
-|   D1   |  pandas-datareader                   |                       |
+|   D1   |  pandas-datareader                   | [pdr documentation](https://pydata.github.io/pandas-datareader/) |
 |   D2   |  Bloomberg                           |                       |
-|   D3   |  CRSP                                |                       |
+|   D3   |  WRDS                                | [WRDS](http://wrds.wharton.upenn.edu/) Data documentation, Classroom, Research <br> [WRDS Python Data Access Library](https://github.com/wharton/wrds) |
 |   D4   |  Alternative data                    |                       |
 
 ### Financial Applications
