@@ -39,12 +39,18 @@ Additional packages that may be useful include [Pandas profiling](https://github
 - [Kaggle Welcome to Data Visualization](https://www.kaggle.com/residentmario/welcome-to-data-visualization) (uses Python, Pandas, and Seaborn)
 - [How to read most commonly used file formats in Data Science (using Python)`](https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/)
 
-## Data
+## Statistics and Inference
+
+[Introduction to Modern Statistics](https://openintro-ims.netlify.app/) (and [repo](https://github.com/openintrostat/ims), [data repo](https://github.com/OpenIntroStat/openintro)), Mine Çetinkaya-Rundel and Johanna Hardin
+
+## Financial Data
 - [Bloomberg Anywhere](https://bba.bloomberg.com)
 - [Open Source Asset Pricing](https://www.openassetpricing.com/data/)
 - [Wharton Research Data Services (WRDS)](https://wrds-www.wharton.upenn.edu)
   - Datasets [by concept](https://wrds-www.wharton.upenn.edu/pages/browse-data-concept/) and [by product](https://wrds-www.wharton.upenn.edu/users/products/)
   - [CRSP Methodologies](http://www.crsp.org/products/documentation/crsp-calculations)
+
+## Financial Applications
 
 ## Other Tools
 
