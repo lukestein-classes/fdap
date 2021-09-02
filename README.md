@@ -51,7 +51,14 @@ Additional packages that may be useful include [Pandas profiling](https://github
   - Datasets [by concept](https://wrds-www.wharton.upenn.edu/pages/browse-data-concept/) and [by product](https://wrds-www.wharton.upenn.edu/users/products/)
   - [CRSP Methodologies](http://www.crsp.org/products/documentation/crsp-calculations)
 
+### Microsoft Excel
+
+[Data Analytics Using Microsoft Excel With Accounting and Finance Datasets](https://students.flatworldknowledge.com/course/2598350) (v.2.0), Joseph M. Manzo
+
+
 ## Financial Applications
+
+Relevant resources TBA
 
 ## Other Tools
 

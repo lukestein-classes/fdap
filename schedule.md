@@ -73,6 +73,11 @@ We will also have several **combined meetings** where multiple sections will mee
 |   D3   |  WRDS                                | [WRDS](http://wrds.wharton.upenn.edu/) Data documentation, Classroom, Research <br> [WRDS Python Data Access Library](https://github.com/wharton/wrds) |
 |   D4   |  Alternative data                    | TBA                   |
 
+
+### Microsoft Excel
+
+Excel will be used throughout the course, with coverage not divided into explicit modules.
+
 ### Financial Applications
 
 | Module | Topic                                | Resources             |
