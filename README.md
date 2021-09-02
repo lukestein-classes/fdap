@@ -32,17 +32,17 @@ Additional packages that may be useful include [Pandas profiling](https://github
 - [Python for Data Analysis](https://amzn.to/3joJQAa) (2nd ed.), Wes McKinney
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/), Arthur Turrell
 - [Introduction to Python for Econometrics, Statistics and Data Analysis](https://www.kevinsheppard.com/teaching/python/notes/) (4th ed.), Kevin Sheppard
-- [pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/)
 
 ### Other References
 - Datacamp cheatsheets: [Python basics](cheatsheets/pythonbasics.pdf), [pandas basics](cheatsheets/pandasbasics.pdf), [pandas advanced](cheatsheets/pandas.pdf), [Seaborn](cheatsheets/seaborn.pdf), [NumPy](cheatsheets/numpy.pdf), and [importing data](cheatsheets/importingdata.pdf)
 - [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
+- [pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/)
 - [Kaggle Welcome to Data Visualization](https://www.kaggle.com/residentmario/welcome-to-data-visualization) (uses Python, Pandas, and Seaborn)
 - [How to read most commonly used file formats in Data Science (using Python)`](https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/)
 
 ## Statistics and Inference
 
-[Introduction to Modern Statistics](https://openintro-ims.netlify.app/) (and [repo](https://github.com/openintrostat/ims), [data repo](https://github.com/OpenIntroStat/openintro)), Mine Çetinkaya-Rundel and Johanna Hardin
+[Introduction to Modern Statistics](https://openintro-ims.netlify.app/) (1st ed., and [repo](https://github.com/openintrostat/ims), [data repo](https://github.com/OpenIntroStat/openintro)), Mine Çetinkaya-Rundel and Johanna Hardin
 
 ## Financial Data
 - [Bloomberg Anywhere](https://bba.bloomberg.com)
