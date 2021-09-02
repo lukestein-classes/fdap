@@ -65,3 +65,7 @@ Relevant resources TBA
 ### Markdown
 - [Commonmark Markdown Tutorial](https://commonmark.org/help/tutorial/)
 - [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+
+
+# Acknowledgements
+Course design has benefitted from conversations with [Don Bowen](https://bowen.finance), [Michael Goldstein](https://faculty.babson.edu/goldstein/), [Grant McDermott](https://grantmcdermott.com), and [Cameron Pfiffer](https://cameron.pfiffer.org)
