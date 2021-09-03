@@ -10,7 +10,7 @@ We will also have several **combined meetings** where multiple sections will mee
 | Meeting | Date   | Topics/Modules                         | Deliverable       |
 | :--: | :-------: | -------------------------------------- | ----------------- |
 |      | **9/6**   |  *No class (Labor Day)*                |                   |
-|   1  |   9/8     |   Course introduction                  |                   |
+|   [1](https://babson.instructure.com/courses/3272573/pages/meeting-1)  |   9/8     |   Course introduction                  |                   |
 |   2  |   9/13    |   [S1](#statistics-and-inference)      |       HW1         |
 |   3  |   9/15    |   [P1](#python)                        |                   |
 |   4  |   9/20    |   [P2](#python)                        |       HW2         |
