@@ -412,7 +412,7 @@ GitHub The course
 \begin_inset CommandInset href
 LatexCommand href
 name "GitHub page"
-target "https://lukestein-classes.github.io/fdap_public/"
+target "https://lukestein-classes.github.io/fdap/"
 literal "false"
 
 \end_inset
@@ -422,7 +422,7 @@ g sample
 \begin_inset CommandInset href
 LatexCommand href
 name "data"
-target "https://lukestein-classes.github.io/fdap_public/data/"
+target "https://lukestein-classes.github.io/fdap/data/"
 literal "false"
 
 \end_inset
@@ -431,7 +431,7 @@ literal "false"
 \begin_inset CommandInset href
 LatexCommand href
 name "code"
-target "https://lukestein-classes.github.io/fdap_public/templates/"
+target "https://lukestein-classes.github.io/fdap/templates/"
 literal "false"
 
 \end_inset
@@ -440,7 +440,7 @@ literal "false"
 \begin_inset CommandInset href
 LatexCommand href
 name "updated course schedule"
-target "https://lukestein-classes.github.io/fdap_public/schedule"
+target "https://lukestein-classes.github.io/fdap/schedule"
 literal "false"
 
 \end_inset
@@ -491,12 +491,12 @@ linked online.
 \begin_inset CommandInset href
 LatexCommand href
 name "GitHub page"
-target "https://lukestein-classes.github.io/fdap_public/"
+target "https://lukestein-classes.github.io/fdap/"
 literal "false"
 
 \end_inset
 
-:
+
 \end_layout
 
 \begin_layout Subsubsection
