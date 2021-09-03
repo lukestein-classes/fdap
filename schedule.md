@@ -1,6 +1,6 @@
 # Schedule
 
-This course schedule **will** change during the semester. Topic changes may be ad hoc. Any meeting change announcements distributed via Discord; please ensure that you are monitoring the `#announcements` channel there.
+This course schedule **will** change during the semester. Ad hoc topic changes (unannounced) may be based on current events or class pace and interest. Announcement of any meeting changes will be distributed via Discord; please ensure that you are monitoring the `#announcements` channel there.
 
 We will also have several **combined meetings** where multiple sections will meet simultaneously (typically to accommodate a guest). These will of course be announced in advance, but please aim to be available during all course section times (9:45–2:30pm). Currently announced combined meetings are:
 1. **Monday 10/25**: Meeting 9:45–11:30am or 12:45–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
@@ -82,11 +82,11 @@ Excel will be used throughout the course, with coverage not divided into explici
 
 | Module | Topic                                | Resources             |
 | :----: | ------------------------------------ | --------------------- |
-|   A1   |  Fixed income                        |                       |
-|   A2   |  Equity returns                      |                       |
-|   A3   |  Professional ethics                 |                       |
-|   A4   |  Foreign exchange                    |                       |
-|   A5   |  Factor models                       |                       |
-|   A6   |  Capital budgeting                   |                       |
-|   A7   |  Derivatives                         |                       |
-|   A8   |  Equity portfolios                   |                       |
+|   A1   |  Fixed income                        |   TBA                 |
+|   A2   |  Equity returns                      |   TBA                 |
+|   A3   |  Professional ethics                 |   TBA                 |
+|   A4   |  Foreign exchange                    |   TBA                 |
+|   A5   |  Factor models                       |   TBA                 |
+|   A6   |  Capital budgeting                   |   TBA                 |
+|   A7   |  Derivatives                         |   TBA                 |
+|   A8   |  Equity portfolios                   |   TBA                 |
