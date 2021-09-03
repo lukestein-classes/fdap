@@ -39,7 +39,7 @@ We will also have several **combined meetings** where multiple sections will mee
 |  26  |   12/6    |   Group presentations                  |  Group project    |
 |  27  |   12/8    |   Group presentations                  |                   |
 |  28  |   12/13   |   Wrap-up                              |  Market report    |
-|  29  |   12/15   |   Final examination (take-home)        |                   |
+|      |   12/15   |                                        |  Final exam       |
 
 ## Modules
 ### Python
