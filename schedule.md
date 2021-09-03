@@ -36,7 +36,7 @@ We will also have several **combined meetings** where multiple sections will mee
 |  23  | **11/24** |  *Day before Thanksgiving; plan TBA*   |                   |
 |  24  |   11/29   |   [A7](#financial-applications)        |                   |
 |  25  |   12/1    |   [A8](#financial-applications)        |                   |
-|  26  |   12/6    |   Group presentations                  |  Group project    |
+|  26  |   12/6    |   Group presentations                  |  Final project    |
 |  27  |   12/8    |   Group presentations                  |                   |
 |  28  |   12/13   |   Wrap-up                              |  Market report    |
 |      |   12/15   |                                        |  Final exam       |
