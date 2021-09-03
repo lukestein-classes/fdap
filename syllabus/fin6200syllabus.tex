@@ -1,0 +1,405 @@
+%% LyX 2.3.6.2 created this file.  For more info, see http://www.lyx.org/.
+%% Do not edit unless you really know what you are doing.
+\documentclass[11pt,english,letterpaper, abstracton, abstract=false, titlepage=false, headings=normal, captions=tableheading, numbers=noenddot]{scrartcl}
+\usepackage{fourier}
+\usepackage{berasans}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage{geometry}
+\geometry{verbose,tmargin=1in,bmargin=1.3in,lmargin=1in,rmargin=1in}
+\usepackage{babel}
+\usepackage{booktabs}
+\usepackage{pdfpages}
+\usepackage[unicode=true,pdfusetitle,
+ bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
+ breaklinks=true,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=false]
+ {hyperref}
+
+\makeatletter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
+%% Because html converters don't know tabularnewline
+\providecommand{\tabularnewline}{\\}
+%% A simple dot to overcome graphicx limitations
+\newcommand{\lyxdot}{.}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
+\usepackage{multicol}
+
+\makeatother
+
+\begin{document}
+\title{Financial Data Analysis and Practice}
+\subtitle{Babson Finance~6200}
+\date{Fall 2021\thanks{Information is subject to change. This version updated \today.}}
+\author{Prof.~Luke~C.D.\ Stein\\
+\texttt{\href{mailto:lcdstein@babson.edu}{lcdstein@babson.edu}}}
+\maketitle
+
+\section{Course overview}
+
+This hands-on course teaches practical skills, reviews key issues
+of finance, trains students how to use different data sets for research,
+provides an introduction to the use of a Bloomberg terminal, provides
+an introduction to the Python computer language and environment, and
+provides some introduction to different aspects of the finance profession,
+including ethics and compliance.
+
+The main focus of this course is to teach students how to define and
+answer financial problems using financial data and\slash or analysis.
+Students will thus learn how to scope financial problems and then
+find, download, and analyze financial data, as well as how to read,
+interpret, and understand financial data analysis prepared by others.
+Different datasets, data sources, and analysis tools such as Bloomberg,
+CRSP, and WRDS will be introduced and students are expected to be
+able to use find and download data from them on their own. Programming
+and statistics will also be reviewed.
+
+In addition, students will be made aware of professional practices
+and standards in different financial professions to prepare students
+for rapid entry into the workplace, as well as an ethics and compliance
+module. At times, the course will mimic working in an actual workplace
+to provide a simulation of practical experience.
+
+\section{Course summary}
+
+In this hands-on project-and-skill-based course, MSF students will
+be exposed to key data sets across different areas, including (but
+not limited to) equities, bonds, and foreign exchange across a variety
+of US and international markets. Students will learn how to access,
+analyze, and use different data sets, as well as understand key components
+of data infrastructure, such as the basics of company and security-level
+data identifiers, US exchanges and trading venues, accessibility of
+key data sets, major data vendors, and licensing issues. Students
+develop their knowledge of Bloomberg, WRDS and CRSP, and other databases.
+Students will be exposed to programming in Python and should end the
+course with some familiarity of Python and some basic programming
+skills. Students will be exposed to Bloomberg and should end the course
+with some familiarity of Bloomberg and its functionality. Specific
+skills in certain datasets will be covered and students will apply
+these skills to specific projects. An ethics and compliance module
+will be taught and covered. Interspersed throughout the course will
+be topics regarding financial practice and professionalism.
+
+\section{Course logistics}
+
+\subsection{Class time and location}
+
+Classes will be held on Mondays and Wednesdays in the Cutler Center
+(Babson Commons~001), although some special sessions may be held
+at alternate times and locations to be announced in advance. Standard
+meeting times are Section~1: 9:45\textsc{am}\textendash 11:00\textsc{am},
+Section~2: 11:45\textsc{am}\textendash 1:00\textsc{pm}, and Section~3:
+1:15\textsc{pm}\textendash 2:30\textsc{pm.}
+
+Except with specific permission, students may only attend their registered
+section. Students who wish or need to attend specific course meetings
+remotely should do so via Webex; the relevant links will be announced
+via Canvas and Discord.
+
+\subsection{Instructor}
+
+Luke Stein can be contacted as follows:
+\begin{itemize}
+\item Via the course's Discord server: This is the preferred way to contact
+me for questions or comments that can be shared publicly, since other
+students may benefit from my response and resulting discussion
+\item Email: \texttt{\href{mailto:lcdstein@babson.edu}{lcdstein@babson.edu}}
+(please include ``6200'' in subject)
+\item Phone: (781)\,239-5060
+\item Office hours: By Appointment in Tomasso 224 or via Webex
+\end{itemize}
+I generally prefer that graduate students refer to me as ``Luke''
+in class and other casual settings, but appropriate professional forms
+of address include ``Dr.~Stein'' and ``Prof.~Stein.''
+
+\subsection{Prerequisites}
+
+Registration is limited to Babson Masters of Science in Finance students;
+exceptions require instructor approval.
+
+\section{Course materials}
+
+Outside of the classroom, course materials will distributed in three
+ways
+\begin{description}
+\item [{Canvas}] The course \href{https://babson.instructure.com/courses/3272573}{Canvas site}
+will serve mainly to distribute non-public materials (e.g., lecture
+slides and videos), and to collect and grade submissions (including
+peer reviews). Please ensure you are receiving Canvas announcements).
+\item [{GitHub}] The course \href{https://lukestein-classes.github.io/fdap_public/}{GitHub page}
+is where I will distribute links to useful resources, public material
+(including sample \href{https://lukestein-classes.github.io/fdap_public/data/}{data}
+and \href{https://lukestein-classes.github.io/fdap_public/templates/}{code}),
+and maintain an \href{https://lukestein-classes.github.io/fdap_public/schedule}{updated course schedule}.
+\item [{Discord}] The course Discord server serves as a place to chat formally
+and informally about topics related to our class. Questions and comments
+can engage anyone in the class, and you can tag participants by section,
+or expertise. High quality, professional engagement through Discord
+(especially answering classmates' questions) is a component of good
+class participation.
+\end{description}
+
+\subsection{Technology}
+
+In addition to technology available in the Cutler Center, and what
+is required to access and engage in class (access to the web, Discord,
+and\textemdash if joining remotely\textemdash Webex), you will likely
+want to be able to access on a personal computer:
+\begin{enumerate}
+\item Microsoft Excel.
+\item Standard, freely available data science software tools to be discussed
+in class including Python (and various related packages including
+pandas, NumPy, and Seaborn) and a text editor or software development
+environment.
+\end{enumerate}
+
+\subsection{Books and resources}
+
+Many resources will be useful in the course, and will discussed in
+class, posted, and\slash linked online. In addition several books
+will be useful; links to each are on the course \href{https://lukestein-classes.github.io/fdap_public/}{GitHub page}:
+
+\subsubsection{Required text}
+\begin{itemize}
+\item ``Introduction to Modern Statistics'' (1st~ed.), Mine Çetinkaya-Rundel
+and Johanna Hardin. Freely available on web, or purchase PDF or print
+edition.
+\end{itemize}
+
+\subsubsection{Recommended texts}
+\begin{itemize}
+\item ``Think Python'' (2nd~ed.), Allen B. Downey. Freely available on
+web or PDF, or purchase print edition. This is recommended for new
+Python programmers, and especially those without much programming
+experience generally.
+\item ``A Whirlwind Tour of Python,'' Jake VanderPlas. Freely available
+on web. This is recommended for more experienced programmers, or as
+an efficient review\slash reference after working through more basic
+Python texts.
+\item ``Python Data Science Handbook,'' Jake VanderPlas. Freely available
+on web, or purchase print edition. A key resource and reference for
+moving from basic python into more analysis-focused tools.
+\item ``Introduction to Python for Econometrics, Statistics and Data Analysis''
+(4th ed.), Kevin Sheppard. Freely available PDF. Another treatments
+of these topics, with paired video lessons.
+\item ``Coding for Economists,'' Arthur Turrell. Freely available on web.
+An applications-focused approach suitable for complete beginners who
+have never written any code before, with a number of worked examples.
+Has useful, opinionated, up-to-date advice on actually setting up
+a technology stack.
+\end{itemize}
+
+\subsubsection{Other optional texts}
+\begin{itemize}
+\item ``Python for Data Analysis'' (2nd~ed.), Wes McKinney. Available
+only as purchased print edition. The classic book on classic tools
+for using Python for Data Analysis. Goes into more detail on some
+topics than PDSH, but may be harder to follow as an introduction.
+\item ``Data Analytics Using Microsoft Excel With Accounting and Finance
+Datasets'' (v.~2.0), Joseph M. Manzo. Available only for purchase
+on web, PDF, or print. We will be using Excel throughout the course,
+where I will generally assume familiarity with basic functions and
+cover some more advanced ones (such as Pivot Tables) in class. Students
+looking to improve their skills or for a refresher may wish to consider
+this book, which has been used in FDAP in the past and (unlike many
+more generic Excel books) focuses on finance applications.
+\end{itemize}
+
+\section{Grading and course requirements}
+
+Your course grade will be calculated as follows:
+
+\begin{center}
+\begin{tabular}{lcrc}
+\toprule 
+Component & Type & Weight & Due Date\tabularnewline
+\midrule
+Class participation and professionalism & In class and on Discord & 20\% & Throughout\tabularnewline
+Homework and peer review & Online submission & 10\% & Throughout\tabularnewline
+Midterm project (group) & Written report & 10\% & 10/18\tabularnewline
+Professional ethics module & In class and written report & 15\% & 10/25\textendash 11/1\tabularnewline
+Final project (group) & In-class presentation & 15\% & 12/6\textendash 12/8\tabularnewline
+Market report (individual) & Written report & 15\% & 12/13\tabularnewline
+Final examination (take-home) & Online submission & 15\% & 12/13\textendash 12/15\tabularnewline
+\midrule
+\emph{Total} &  & \emph{100\%} & \tabularnewline
+\bottomrule
+\end{tabular}
+\par\end{center}
+
+Graded components and\slash or final course grades may be adjusted
+(i.e., ``curved''), but will only be ``curved up.'' That is, any
+such adjustment will guarantee that an unadjusted grade of 90\% corresponds
+to an A\textendash{} or better, 80\% to B\textendash{} or better,
+and 70\% to C or better. Any ``curve'' will therefore only help
+you relative to a traditional numerical rubric; you will never be
+``curved down.'' Information about such a ``curve'' will \emph{not}
+be provided during the semester; grades will only be adjusted (at
+the instructor's discretion) after the final examination.
+
+You are responsible for retaining copies of all your submitted work
+until final grades are submitted, and resubmitting or returning it
+to the instructor on request.
+
+\subsection{Class participation and professionalism}
+
+Students should be prepared and actively participate throughout the
+semester in the classroom and through the course Discord; high quality
+participation demonstrates thoughtful preparation for class and a
+knowledge of relevant current events, as well as engagement with in-class
+material. My goal is to see overall evidence of demonstrated commitment
+to learning and helping your classmates learn, which you can do in
+a variety of ways; I am looking for consistency and quality rather
+than quantity.
+
+\subsection{Homework and peer review}
+
+Approximately eight weekly homework assignments will be posted on
+Canvas, where they will also be submitted. Deadlines will be indicated
+on Canvas (typically Sundays at midnight). You will also need to conduct
+brief peer reviews of classmates' homework submissions, which will
+be assigned via Canvas. You should be prepared to discuss homework
+assignments in class any time after their due date.
+
+\emph{Homework assignments are designed principally for learning,
+not assessment. You are welcome (and even encouraged!) to consult
+with classmates or seek outside advice on homework, but you must write
+and submit your own work.}
+
+\subsection{Midterm group project}
+
+A midterm project will be assigned and submitted via Canvas.
+
+\emph{The project is designed for a mix of learning and assessment.
+You must complete it independently from other groups. You should not
+seek assistance from anyone outside your group (whether in the class
+or not), including posting questions on course-related topics or soliciting
+feedback on your work.}
+
+\subsection{Professional ethics module}
+
+You will be asked to prepare readings for discussion during an in-class
+module on professional ethics. There will also be a written deliverable
+addressing a practical ethical issue faced by financial professionals.
+You will be graded on the quality of your preparation and contribution
+to in-class discussion, and on your written deliverable.
+
+\emph{The written deliverable is designed for a mix of learning and
+assessment. You must complete it independently.}
+
+\subsection{Final group project}
+
+A final project will be assigned via Canvas. Each group will choose
+a topic relevant to the assignment, and will present their findings
+in class.
+
+\emph{The project is designed for a mix of learning and assessment.
+You are welcome (and even encouraged!) to consult with classmates
+or seek outside advice on your project, but the presentation and supporting
+analysis must be prepared by members of your group.}
+
+\subsection{Market report}
+
+You will be asked to choose a financial market and write a data-based
+report on it. The specific assignment will be described on Canvas,
+where you will submit your report.
+
+\emph{The project is designed for a mix of learning and assessment.
+You are welcome (and even encouraged!) to consult with classmates
+or seek outside advice on your project, but you must write and submit
+your own work.}
+
+\subsection{Final examination}
+
+The class will end with an individual, take-home final examination,
+which will be assigned and submitted via Canvas. You will have approximately
+36 hours to complete the examination.
+
+\emph{The final examination is designed principally for assessment,
+and it will be entirely ``open note''\textemdash you can use any
+pre-existing resources\textemdash but you must complete it independently.
+You should not seek assistance from anyone (whether in the class or
+not), including posting questions on course-related topics or soliciting
+feedback on your work.}
+
+\section{Course policies}
+
+\subsection{Classroom policies and professionalism}
+
+As a general rule, I ask that you demonstrate appropriate respect
+and professionalism. More specific classroom policies will be established
+and enforced only if this guiding principle proves insufficient to
+ensure a productive learning environment.
+
+Announcements will be distributed via the course's Discord server.
+Please ensure that you are signed up there for your enrolled course
+section, with notifications turned on (for example, for the \#announcements
+channel) as appropriate. You should not assume that class is cancelled
+without notice unless I (or any alternative instructor) have not arrived
+by 15 minutes past the scheduled class time.
+
+Course content, including lectures, may be copyrighted material and
+students may not sell notes taken during the conduct of the course.
+Course material including lecture recordings may not be distributed
+except with specific permission.
+
+\subsection{Academic integrity and ethical behavior}
+
+In this course, you are required to abide by the College's Academic
+Integrity Policies and Procedures as outlined in \href{https://www.babson.edu/code-of-ethics}{Babson's Student Code of Ethics}.
+Please review the College's Student Code of Ethics in its entirety,
+as it is your responsibility to take the appropriate steps to ensure
+your understanding of the Code. \emph{Ignorance of the policies is
+not a valid excuse for any violations.}
+
+Academic integrity is important for two reasons. First, independent
+and original scholarship ensures that students derive the most they
+can from their educational experience and the pursuit of knowledge.
+Second, academic misconduct violates the most fundamental values of
+an intellectual community and diminishes the achievements of the entire
+college community. Accordingly, Babson views academic misconduct as
+one of the most serious violations of the College's expectations that
+a student can commit while at Babson College. Specific behaviors that
+constitute academic misconduct, as defined in the Code, are \emph{cheating,
+fabrication, facilitating academic dishonesty, plagiarism, participation
+in academically dishonest activities, and unauthorized collaboration}.
+In the instance I am presented with evidence to suggest that you engaged
+in any of these behaviors, I will refer the incident to the \href{https://www.babson.edu/student-life/community-standards/}{Office of Community Standards}
+for review.
+
+For your coursework, you are required to affirm your understanding
+of and commitment to the academic honesty and integrity expectations
+set forth in the Code. You may be asked to write the following pledge:
+\begin{quote}
+\textquotedblleft I have abided by the Babson Code of Ethics in this
+work and pledge to be better than that which would compromise my integrity.\textquotedblright{}
+\end{quote}
+If you have questions relative to academic integrity expectations
+within the context of a particular assignment, please ask me directly.
+General questions can be directed to \href{mailto:communitystandards@babson.edu}{communitystandards@babson.edu}.
+
+\subsection{Accommodations\label{subsec:Accommodations}}
+
+If you are a student with a documented disability on record and wish
+to have a reasonable accommodation made for you in this class, please
+coordinate through the \href{https://www.babson.edu/academics/advising-and-support/accessibility-services/}{Department of Accessibility Services}
+promptly. Please keep in mind that accommodations cannot be provided
+retroactively.
+
+Accomodations may be appropriate in other settings, including for
+illness or other personal needs; religious practice; or university-sanctioned
+activities. Any such accommodation should be requested in writing
+as soon as possible (ideally at least one week in advance).
+
+\section{Course schedule}
+
+This schedule should be considered \emph{preliminary}, and will change
+during the semester. Topics and material may change based on class
+pace and interest.
+
+\pagebreak{}
+
+\includepdf[pages=-]{fin6200schedule}
+\end{document}
