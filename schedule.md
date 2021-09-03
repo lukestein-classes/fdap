@@ -3,8 +3,8 @@
 This course schedule **will** change during the semester. Topic changes may be ad hoc. Any meeting change announcements distributed via Discord; please ensure that you are monitoring the `#announcements` channel there.
 
 We will also have several **combined meetings** where multiple sections will meet simultaneously (typically to accommodate a guest). These will of course be announced in advance, but please aim to be available during all course section times (9:45–2:30pm). Currently announced combined meetings are:
-1. **Monday 10/25**: Meeting 9:45–11:30am and 12:45–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
-2. **Monday 11/1**: Meeting 9:45–11:30am and 12:45–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
+1. **Monday 10/25**: Meeting 9:45–11:30am or 12:45–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
+2. **Monday 11/1**: Meeting 9:45–11:30am or 12:45–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
 
 
 | Meeting | Date   | Topics/Modules                         | Deliverable       |
@@ -24,9 +24,9 @@ We will also have several **combined meetings** where multiple sections will mee
 |  11  |   10/13   |   [S3](#statistics-and-inference)      |                   |
 |  12  |   10/18   |   [P5](#python)                        |  Midterm project  |
 |  13  |   10/20   |   [S4](#statistics-and-inference), [D3](#financial-data) | |
-|  14  | **10/25** |  *Meeting 9:45–11:30am and 12:45–2:30pm* <br> [A3](#financial-applications)  |  |
+|  14  | **10/25** |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  |  |
 |  15  |   10/27   |   [S5](#statistics-and-inference)      |                   |
-|  16  | **11/1**  |  *Meeting 9:45–11:30am and 12:45–2:30pm* <br> [A3](#financial-applications)  |  Ethics report  |
+|  16  | **11/1**  |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  |  Ethics report  |
 |  17  |   11/3    |   [S6](#statistics-and-inference), [A4](#financial-applications)  |  |
 |  18  |   11/8    |   [A5](#financial-applications)        |       HW6         |
 |  19  |   11/10   |   [P6](#python)                        |                   |
