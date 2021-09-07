@@ -39,7 +39,7 @@ Additional packages that may be useful include [Pandas profiling](https://github
 - [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
 - [pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/)
 - [Kaggle Welcome to Data Visualization](https://www.kaggle.com/residentmario/welcome-to-data-visualization) (uses Python, Pandas, and Seaborn)
-- [How to read most commonly used file formats in Data Science (using Python)`](https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/)
+- [How to read most commonly used file formats in Data Science (using Python)](https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/)
 
 ## Statistics and Inference
 
