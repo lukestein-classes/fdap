@@ -10,7 +10,7 @@ This repository has material that supplements what is posted on the Babson FIN 6
 ## Python
 
 ### Installation
-Python notebooks can run in the cloud using [Google Colab](https://colab.research.google.com) or [Binder](https://mybinder.org), but will probably want a local installation. I strongly recommend using the [Anaconda](https://www.anaconda.com/products/individual) Python distribution.
+Python notebooks can run in the cloud using [Google Colab](https://colab.research.google.com) or [Binder](https://mybinder.org), but you will probably want a local installation. I strongly recommend using the [Anaconda](https://www.anaconda.com/products/individual) Python distribution.
 
 Anaconda includes (almost) everything you need to get going, but in line with [these recommendations](https://aeturrell.github.io/coding-for-economists/code-preliminaries.html#installing-an-integrated-development-environment-ide), I prefer to work in [Visual Studio Code](https://code.visualstudio.com) with some add-in extensions.
 - [My video demo: Installing Anaconda and Visual Studio Code for Python notebooks](https://www.youtube.com/watch?v=jY0o1nkW0ow)
