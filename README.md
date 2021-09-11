@@ -70,4 +70,4 @@ Relevant resources TBA
 
 
 # Acknowledgements
-Course design has benefitted from conversations with [Don Bowen](https://bowen.finance), [Michael Goldstein](https://faculty.babson.edu/goldstein/), [Grant McDermott](https://grantmcdermott.com), and [Cameron Pfiffer](https://cameron.pfiffer.org)
+Course designed with significant help from [Don Bowen](https://bowen.finance), [Michael Goldstein](https://faculty.babson.edu/goldstein/), [Grant McDermott](https://grantmcdermott.com), [Cameron Pfiffer](https://cameron.pfiffer.org), and [Seth Pruitt](https://sethpruitt.net/).
