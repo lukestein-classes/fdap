@@ -13,7 +13,7 @@ We will also have several **combined meetings** where multiple sections will mee
 |   [1](https://babson.instructure.com/courses/3272573/pages/meeting-1)  |   9/8     |   Course introduction                  |                   |
 |   [2](https://babson.instructure.com/courses/3272573/pages/meeting-2)  |   9/13    |   [S1](#statistics-and-inference)      |       [HW1](https://babson.instructure.com/courses/3272573/assignments/34318247)         |
 |   [3](https://babson.instructure.com/courses/3272573/pages/meeting-3)  |   9/15    |   [P1](#python)                        |   Peer review     |
-|   4  |   9/20    |   [P2](#python)                        |       HW2         |
+|   4  |   9/20    |   [P2](#python)                        |       [HW2](https://babson.instructure.com/courses/3272573/assignments/34399970)         |
 |   5  |   9/22    |   cont.                                |   Peer review     |
 |   6  |   9/27    |   [A1](#financial-applications)        |       HW3         |
 |   7  |   9/29    |   [P3](#python), [D1](#financial-data) |   Peer review     |
