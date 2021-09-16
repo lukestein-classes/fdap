@@ -13,32 +13,32 @@ We will also have several **combined meetings** where multiple sections will mee
 |   [1](https://babson.instructure.com/courses/3272573/pages/meeting-1)  |   9/8     |   Course introduction                  |                   |
 |   [2](https://babson.instructure.com/courses/3272573/pages/meeting-2)  |   9/13    |   [S1](#statistics-and-inference)      |       [HW1](https://babson.instructure.com/courses/3272573/assignments/34318247)         |
 |   [3](https://babson.instructure.com/courses/3272573/pages/meeting-3)  |   9/15    |   [P1](#python)                        |   Peer review     |
-|   4  |   9/20    |   [P2](#python)                        |       [HW2](https://babson.instructure.com/courses/3272573/assignments/34399970)         |
-|   5  |   9/22    |   cont.                                |   Peer review     |
-|   6  |   9/27    |   [A1](#financial-applications)        |       HW3         |
-|   7  |   9/29    |   [P3](#python), [D1](#financial-data) |   Peer review     |
-|   8  |   10/4    |   [S2](#statistics-and-inference)      |       HW4         |
-|   9  |   10/6    |   [P4](#python), [A2](#financial-applications)  | Peer review  |
+|   [4](https://babson.instructure.com/courses/3272573/pages/meeting-4)  |   9/20    |   [P2](#python)                        |       [HW2](https://babson.instructure.com/courses/3272573/assignments/34399970)         |
+|   [5](https://babson.instructure.com/courses/3272573/pages/meeting-5)  |   9/22    |   cont.                                |   Peer review     |
+|   [6](https://babson.instructure.com/courses/3272573/pages/meeting-6)  |   9/27    |   [A1](#financial-applications)        |       HW3         |
+|   [7](https://babson.instructure.com/courses/3272573/pages/meeting-7)  |   9/29    |   [P3](#python), [D1](#financial-data) |   Peer review     |
+|   [8](https://babson.instructure.com/courses/3272573/pages/meeting-8)  |   10/4    |   [S2](#statistics-and-inference)      |       HW4         |
+|   [9](https://babson.instructure.com/courses/3272573/pages/meeting-9)  |   10/6    |   [P4](#python), [A2](#financial-applications)  | Peer review  |
 |      | **10/11** |  *No class (Indigenous Peoples’ Day)*  |                   |
-|  10  | **10/12** |  *Tuesday class* <br> [D2](#financial-data)  | HW5         |
-|  11  |   10/13   |   [S3](#statistics-and-inference)      |   Peer review     |
-|  12  |   10/18   |   [P5](#python)                        |  Midterm project  |
-|  13  |   10/20   |   [S4](#statistics-and-inference), [D3](#financial-data) | |
-|  14  | **10/25** |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  |  |
-|  15  |   10/27   |   [S5](#statistics-and-inference)      |                   |
-|  16  | **11/1**  |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  |  Ethics report  |
-|  17  |   11/3    |   [S6](#statistics-and-inference), [A4](#financial-applications)  |  |
-|  18  |   11/8    |   [A5](#financial-applications)        |       HW6         |
-|  19  |   11/10   |   [P6](#python)                        |   Peer review     |
-|  20  |   11/15   |   [A6](#financial-applications)        |       HW7         |
-|  21  |   11/17   |   cont.                                |   Peer review     |
-|  22  |   11/22   |   [D4](#financial-data)                |       HW8         |
-|  23  | **11/24** |  *Day before Thanksgiving; plan TBA*   |   Peer review     |
-|  24  |   11/29   |   [A7](#financial-applications)        |                   |
-|  25  |   12/1    |   [A8](#financial-applications)        |                   |
-|  26  |   12/6    |   Group presentations                  |  Final project    |
-|  27  |   12/8    |   Group presentations                  |                   |
-|  28  |   12/13   |   Wrap-up                              |  Market report    |
+|  [10](https://babson.instructure.com/courses/3272573/pages/meeting-10)  | **10/12** |  *Tuesday class* <br> [D2](#financial-data)  | HW5         |
+|  [11](https://babson.instructure.com/courses/3272573/pages/meeting-11)  |   10/13   |   [S3](#statistics-and-inference)      |   Peer review     |
+|  [12](https://babson.instructure.com/courses/3272573/pages/meeting-12)  |   10/18   |   [P5](#python)                        |  Midterm project  |
+|  [13](https://babson.instructure.com/courses/3272573/pages/meeting-13)  |   10/20   |   [S4](#statistics-and-inference), [D3](#financial-data) | |
+|  [14](https://babson.instructure.com/courses/3272573/pages/meeting-14)  | **10/25** |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  |  |
+|  [15](https://babson.instructure.com/courses/3272573/pages/meeting-15)  |   10/27   |   [S5](#statistics-and-inference)      |                   |
+|  [16](https://babson.instructure.com/courses/3272573/pages/meeting-16)  | **11/1**  |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  |  Ethics report  |
+|  [17](https://babson.instructure.com/courses/3272573/pages/meeting-17)  |   11/3    |   [S6](#statistics-and-inference), [A4](#financial-applications)  |  |
+|  [18](https://babson.instructure.com/courses/3272573/pages/meeting-18)  |   11/8    |   [A5](#financial-applications)        |       HW6         |
+|  [19](https://babson.instructure.com/courses/3272573/pages/meeting-19)  |   11/10   |   [P6](#python)                        |   Peer review     |
+|  [20](https://babson.instructure.com/courses/3272573/pages/meeting-20)  |   11/15   |   [A6](#financial-applications)        |       HW7         |
+|  [21](https://babson.instructure.com/courses/3272573/pages/meeting-21)  |   11/17   |   cont.                                |   Peer review     |
+|  [22](https://babson.instructure.com/courses/3272573/pages/meeting-22)  |   11/22   |   [D4](#financial-data)                |       HW8         |
+|  [23](https://babson.instructure.com/courses/3272573/pages/meeting-23)  | **11/24** |  *Day before Thanksgiving; plan TBA*   |   Peer review     |
+|  [24](https://babson.instructure.com/courses/3272573/pages/meeting-24)  |   11/29   |   [A7](#financial-applications)        |                   |
+|  [25](https://babson.instructure.com/courses/3272573/pages/meeting-25)  |   12/1    |   [A8](#financial-applications)        |                   |
+|  [26](https://babson.instructure.com/courses/3272573/pages/meeting-26)  |   12/6    |   Group presentations                  |  Final project    |
+|  [27](https://babson.instructure.com/courses/3272573/pages/meeting-27)  |   12/8    |   Group presentations                  |                   |
+|  [28](https://babson.instructure.com/courses/3272573/pages/meeting-28)  |   12/13   |   Wrap-up                              |  Market report    |
 |      |   12/15   |                                        |  Final exam       |
 
 ## Modules
