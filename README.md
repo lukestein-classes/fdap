@@ -22,7 +22,7 @@ These are the critical packages we will rely on; if you need a package not inclu
 - [pandas](https://pandas.pydata.org) (data analysis)
 - [Pandas data reader](https://pydata.github.io/pandas-datareader/) (access to sources including Yahoo Finance and FRED)
 - [Seaborn](https://seaborn.pydata.org) (data visualization) and an [overview of Python visualization tools](https://pbpython.com/visualization-tools-1.html)
-- [NumPy](https://numpy.org) (scientific computing)
+- [NumPy](https://numpy.org) and [SciPy](https://www.scipy.org) (scientific computing)
 - [WRDS](https://github.com/wharton/wrds) (access to the authoritative source of historical financial data)
 
 Additional packages that may be useful include [Pandas profiling](https://github.com/pandas-profiling/pandas-profiling) (automated EDA), [Pyjanitor](https://pyjanitor.readthedocs.io) (data cleaning), and [dataprep](https://pypi.org/project/dataprep/) (data cleaning and automated EDA)
@@ -41,6 +41,7 @@ Additional packages that may be useful include [Pandas profiling](https://github
 - [pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/)
 - [Kaggle Welcome to Data Visualization](https://www.kaggle.com/residentmario/welcome-to-data-visualization) (uses Python, Pandas, and Seaborn)
 - [How to read most commonly used file formats in Data Science (using Python)](https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/)
+- [Stata to Python equivalents](http://www.danielmsullivan.com/pages/tutorial_stata_to_python.html), Daniel M. Sullivan
 
 ## Statistics and Inference
 
