@@ -1,4 +1,15 @@
 .DS_Store
 .ipynb_checkpoints
+.vscode/
+
+# LyX temporary/backup
 *.lyx~
 *.lyx#
+
+# Office temporary/backup
+~$*.xls*
+*.xlk
+~$*.ppt*
+~$*.doc*
+Backup of *.doc*
+*.tmp
