@@ -71,4 +71,4 @@ Relevant resources TBA
 
 
 # Acknowledgements
-Course designed with significant help from [Don Bowen](https://bowen.finance), [Michael Goldstein](https://faculty.babson.edu/goldstein/), [Grant McDermott](https://grantmcdermott.com), [Cameron Pfiffer](https://cameron.pfiffer.org), and [Seth Pruitt](https://sethpruitt.net/).
+Course designed with significant advice/help/inspiration from [Don Bowen](https://bowen.finance), [Michael Goldstein](https://faculty.babson.edu/goldstein/), [Grant McDermott](https://grantmcdermott.com), [Cameron Pfiffer](https://cameron.pfiffer.org), [Seth Pruitt](https://sethpruitt.net/), and [Arthur Turrell](http://aeturrell.com)
