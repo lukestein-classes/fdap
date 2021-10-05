@@ -20,7 +20,7 @@ We will also have several **combined meetings** where multiple sections will mee
 |   [8](https://babson.instructure.com/courses/3272573/pages/meeting-8)   |   10/4    |   [A1](#financial-applications)        |       [HW4](https://babson.instructure.com/courses/3272573/assignments/34570696)         |
 |   [9](https://babson.instructure.com/courses/3272573/pages/meeting-9)   |   10/6    |   [P3](#python), [D1](#financial-data) | Peer review  |
 |                                                                         | **10/11** |  *No class (Indigenous Peoples’ Day)*  |                   |
-|  [10](https://babson.instructure.com/courses/3272573/pages/meeting-10)  | **10/12** |  *Tuesday class* <br> [S2](#statistics-and-inference), [P4](#python)  | HW5         |
+|  [10](https://babson.instructure.com/courses/3272573/pages/meeting-10)  | **10/12** |  *Tuesday class* <br> [S2](#statistics-and-inference), [P4](#python)  | [HW5](https://babson.instructure.com/courses/3272573/assignments/34623650)         |
 |  [11](https://babson.instructure.com/courses/3272573/pages/meeting-11)  |   10/13   |   [A2](#financial-applications), [D2](#financial-data), [S3](#statistics-and-inference)      |   Peer review     |
 |  [12](https://babson.instructure.com/courses/3272573/pages/meeting-12)  |   10/18   |   [P5](#python)                        |  Midterm project  |
 |  [13](https://babson.instructure.com/courses/3272573/pages/meeting-13)  |   10/20   |   [S4](#statistics-and-inference), [D3](#financial-data) | |
