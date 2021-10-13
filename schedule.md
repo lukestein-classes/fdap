@@ -22,9 +22,9 @@ We will also have several **combined meetings** where multiple sections will mee
 |                                                                         | **10/11** |  *No class (Indigenous Peoples’ Day)*  |                   |
 |  [10](https://babson.instructure.com/courses/3272573/pages/meeting-10)  | **10/12** |  *Tuesday class* <br> [S2](#statistics-and-inference), [P4](#python)  | [HW5](https://babson.instructure.com/courses/3272573/assignments/34623650)         |
 |  [11](https://babson.instructure.com/courses/3272573/pages/meeting-11)  |   10/13   |   [A2](#financial-applications), [D2](#financial-data), [S3](#statistics-and-inference)      |   Peer review     |
-|  [12](https://babson.instructure.com/courses/3272573/pages/meeting-12)  |   10/18   |   [P5](#python)                        |  Midterm project  |
+|  [12](https://babson.instructure.com/courses/3272573/pages/meeting-12)  |   10/18   |   [P5](#python)                        |    |
 |  [13](https://babson.instructure.com/courses/3272573/pages/meeting-13)  |   10/20   |   [S4](#statistics-and-inference), [D3](#financial-data) | |
-|  [14](https://babson.instructure.com/courses/3272573/pages/meeting-14)  | **10/25** |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  |  |
+|  [14](https://babson.instructure.com/courses/3272573/pages/meeting-14)  | **10/25** |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  | Midterm project |
 |  [15](https://babson.instructure.com/courses/3272573/pages/meeting-15)  |   10/27   |   [S5](#statistics-and-inference)      |                   |
 |  [16](https://babson.instructure.com/courses/3272573/pages/meeting-16)  | **11/1**  |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  |  Ethics report  |
 |  [17](https://babson.instructure.com/courses/3272573/pages/meeting-17)  |   11/3    |   [S6](#statistics-and-inference), [A4](#financial-applications)  |  |
