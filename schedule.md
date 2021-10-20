@@ -24,9 +24,9 @@ We will also have several **combined meetings** where multiple sections will mee
 |  [11](https://babson.instructure.com/courses/3272573/pages/meeting-11)  |   10/13   |   [A2](#financial-applications), [D2](#financial-data), [S3](#statistics-and-inference)      |   Peer review     |
 |  [12](https://babson.instructure.com/courses/3272573/pages/meeting-12)  |   10/18   |   [P5](#python)                        |    |
 |  [13](https://babson.instructure.com/courses/3272573/pages/meeting-13)  |   10/20   |   [S4](#statistics-and-inference), [D3](#financial-data) | |
-|  [14](https://babson.instructure.com/courses/3272573/pages/meeting-14)  | **10/25** |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  | [Midterm project](https://babson.instructure.com/courses/3272573/assignments/34665244) |
+|  [14](https://babson.instructure.com/courses/3272573/pages/meeting-14-professional-ethics-meeting-1)  | **10/25** |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  | [Midterm project](https://babson.instructure.com/courses/3272573/assignments/34665244) |
 |  [15](https://babson.instructure.com/courses/3272573/pages/meeting-15)  |   10/27   |   [S5](#statistics-and-inference)      |                   |
-|  [16](https://babson.instructure.com/courses/3272573/pages/meeting-16)  | **11/1**  |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  |  Ethics report  |
+|  [16](https://babson.instructure.com/courses/3272573/pages/meeting-16-professional-ethics-meeting-2)  | **11/1**  |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  |  [Ethics report(https://babson.instructure.com/courses/3272573/assignments/34704011)]  |
 |  [17](https://babson.instructure.com/courses/3272573/pages/meeting-17)  |   11/3    |   [S6](#statistics-and-inference), [A4](#financial-applications)  |  |
 |  [18](https://babson.instructure.com/courses/3272573/pages/meeting-18)  |   11/8    |   [A5](#financial-applications)        |       HW6         |
 |  [19](https://babson.instructure.com/courses/3272573/pages/meeting-19)  |   11/10   |   [P6](#python)                        |   Peer review     |
