@@ -28,7 +28,7 @@ We will also have several **combined meetings** where multiple sections will mee
 |  [15](https://babson.instructure.com/courses/3272573/pages/meeting-15)  |   10/27   |   [S5](#statistics-and-inference)      |                   |
 |  [16](https://babson.instructure.com/courses/3272573/pages/meeting-16-professional-ethics-meeting-2)  | **11/1**  |  *Meeting 9:45–11:30am or 12:45–2:30pm* <br> [A3](#financial-applications)  |  [Ethics report](https://babson.instructure.com/courses/3272573/assignments/34704011)  |
 |  [17](https://babson.instructure.com/courses/3272573/pages/meeting-17)  |   11/3    |   [S6](#statistics-and-inference), [A4](#financial-applications)  |  |
-|  [18](https://babson.instructure.com/courses/3272573/pages/meeting-18)  |   11/8    |   [A5](#financial-applications)        |       HW6         |
+|  [18](https://babson.instructure.com/courses/3272573/pages/meeting-18)  |   11/8    |   [A5](#financial-applications)        |       [HW6](https://babson.instructure.com/courses/3272573/assignments/34780323)         |
 |  [19](https://babson.instructure.com/courses/3272573/pages/meeting-19)  |   11/10   |   [P6](#python)                        |   Peer review     |
 |  [20](https://babson.instructure.com/courses/3272573/pages/meeting-20)  |   11/15   |   [A6](#financial-applications)        |       HW7         |
 |  [21](https://babson.instructure.com/courses/3272573/pages/meeting-21)  |   11/17   |   cont.                                |   Peer review     |
