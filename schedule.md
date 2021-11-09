@@ -30,7 +30,7 @@ We will also have several **combined meetings** where multiple sections will mee
 |  [17](https://babson.instructure.com/courses/3272573/pages/meeting-17)  |   11/3    |   [S6](#statistics-and-inference), [A4](#financial-applications)  |  |
 |  [18](https://babson.instructure.com/courses/3272573/pages/meeting-18)  |   11/8    |   [A5](#financial-applications)        |       [HW6](https://babson.instructure.com/courses/3272573/assignments/34780323)         |
 |  [19](https://babson.instructure.com/courses/3272573/pages/meeting-19)  |   11/10   |   [P6](#python)                        |   Peer review     |
-|  [20](https://babson.instructure.com/courses/3272573/pages/meeting-20)  |   11/15   |   [A6](#financial-applications)        |       HW7         |
+|  [20](https://babson.instructure.com/courses/3272573/pages/meeting-20)  |   11/15   |   [A6](#financial-applications)        |       [HW7](https://babson.instructure.com/courses/3272573/assignments/34829589)         |
 |  [21](https://babson.instructure.com/courses/3272573/pages/meeting-21)  |   11/17   |   cont.                                |   Peer review     |
 |  [22](https://babson.instructure.com/courses/3272573/pages/meeting-22)  |   11/22   |   [D4](#financial-data)                |       HW8         |
 |  [23](https://babson.instructure.com/courses/3272573/pages/meeting-23)  | **11/24** |  *Day before Thanksgiving; plan TBA*   |   Peer review     |
