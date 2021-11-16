@@ -32,12 +32,12 @@ We will also have several **combined meetings** where multiple sections will mee
 |  [19](https://babson.instructure.com/courses/3272573/pages/meeting-19)  |   11/10   |   [P6](#python)                        |   Peer review     |
 |  [20](https://babson.instructure.com/courses/3272573/pages/meeting-20)  |   11/15   |   [A6](#financial-applications)        |       [HW7](https://babson.instructure.com/courses/3272573/assignments/34829589)         |
 |  [21](https://babson.instructure.com/courses/3272573/pages/meeting-21)  |   11/17   |   cont.                                |   Peer review     |
-|  [22](https://babson.instructure.com/courses/3272573/pages/meeting-22)  |   11/22   |   [D4](#financial-data)                |       HW8         |
+|  [22](https://babson.instructure.com/courses/3272573/pages/meeting-22)  |   11/22   |   [D4](#financial-data)                |                   |
 |  [23](https://babson.instructure.com/courses/3272573/pages/meeting-23)  | **11/24** |  *Day before Thanksgiving; plan TBA*   |   Peer review     |
 |  [24](https://babson.instructure.com/courses/3272573/pages/meeting-24)  |   11/29   |   [A7](#financial-applications)        |                   |
 |  [25](https://babson.instructure.com/courses/3272573/pages/meeting-25)  |   12/1    |   [A8](#financial-applications)        |                   |
-|  [26](https://babson.instructure.com/courses/3272573/pages/meeting-26)  |   12/6    |   Group presentations                  |  Final project    |
-|  [27](https://babson.instructure.com/courses/3272573/pages/meeting-27)  |   12/8    |   Group presentations                  |                   |
+|  [26](https://babson.instructure.com/courses/3272573/pages/meeting-26)  |   12/6    |   tba                                  |                   |
+|  [27](https://babson.instructure.com/courses/3272573/pages/meeting-27)  |   12/8    |   Group presentations                  |  Final project    |
 |  [28](https://babson.instructure.com/courses/3272573/pages/meeting-28)  |   12/13   |   Wrap-up                              |  Market report    |
 |                                                                         |   12/15   |                                        |  Final exam       |
 
