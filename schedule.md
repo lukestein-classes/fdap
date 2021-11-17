@@ -2,9 +2,10 @@
 
 This course schedule **will** change during the semester. Ad hoc topic changes (unannounced) may be based on current events or class pace and interest. Announcement of any meeting changes will be distributed via Discord; please ensure that you are monitoring the `#announcements` channel there.
 
-We will also have several **combined meetings** where multiple sections will meet simultaneously (typically to accommodate a guest). These will of course be announced in advance, but please aim to be available during all course section times (9:45–2:30pm). Currently announced combined meetings are:
-1. **Monday 10/25**: Meeting 9:45–11:30am or 12:45–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
-2. **Monday 11/1**: Meeting 9:45–11:30am or 12:45–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
+We will also have several **combined meetings** where multiple sections will meet simultaneously (typically to accommodate a guest). These will of course be announced in advance, but please aim to be available during all course section times (9:45am–2:30pm). Currently announced combined meetings are:
+1. **Monday 10/25**: Meeting 9:45–11:30am or 12:45am–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
+2. **Monday 11/1**: Meeting 9:45–11:30am or 12:45am–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
+3. **Wednesday 11/24**: Meeting 11:45am–1:00pm *online* (day before Thanksgiving)
 
 
 | Meeting | Date   | Topics/Modules                         | Deliverable       |
@@ -33,7 +34,7 @@ We will also have several **combined meetings** where multiple sections will mee
 |  [20](https://babson.instructure.com/courses/3272573/pages/meeting-20)  |   11/15   |   [A6](#financial-applications)        |       [HW7](https://babson.instructure.com/courses/3272573/assignments/34829589)         |
 |  [21](https://babson.instructure.com/courses/3272573/pages/meeting-21)  |   11/17   |   cont.                                |   Peer review     |
 |  [22](https://babson.instructure.com/courses/3272573/pages/meeting-22)  |   11/22   |   [D4](#financial-data)                |                   |
-|  [23](https://babson.instructure.com/courses/3272573/pages/meeting-23)  | **11/24** |  *Day before Thanksgiving; plan TBA*   |   Peer review     |
+|  [23](https://babson.instructure.com/courses/3272573/pages/meeting-23)  | **11/24** |  *Meeting 11:45am–1:00pm online*   |                     |
 |  [24](https://babson.instructure.com/courses/3272573/pages/meeting-24)  |   11/29   |   [A7](#financial-applications)        |                   |
 |  [25](https://babson.instructure.com/courses/3272573/pages/meeting-25)  |   12/1    |   [A8](#financial-applications)        |                   |
 |  [26](https://babson.instructure.com/courses/3272573/pages/meeting-26)  |   12/6    |   tba                                  |                   |
