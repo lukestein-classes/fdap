@@ -35,5 +35,16 @@ sp500m.to_csv(r'sp500m.csv')
 
 Source: [Cameron Pfiffer](https://cameron.pfiffer.org)
 
+## Public companies with identifiers and industry codes (`compustat_firms_2020.csv`)
+[Download](compustat_firms_2020.csv)
+
+Source: Compustat via WRDS
+
+See WRDS for variable documentation; note
+- `indfmt`: Firms report differently as financial services firms or industrials (or both!)
+- `popsrc`: The data includes both domestic (US and Canada) and International populations
+- `exchg`: Primary stock exchange
+- `stko`: Stock ownership type—not all are easily purchasable
+ 
 
 ### Additional submissions welcome!
