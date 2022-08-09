@@ -2,7 +2,7 @@
 
 This course schedule **will** change during the semester. Ad hoc topic changes (unannounced) may be based on current events or class pace and interest. Announcement of any meeting changes will be distributed via Discord; please ensure that you are monitoring the `#announcements` channel there.
 
-We will also have several **combined meetings** where multiple sections will meet simultaneously (typically to accommodate a guest). These will of course be announced in advance, but please aim to be available during all course section times (9:45am–2:30pm). Currently announced combined meetings are:
+We will also have several **combined meetings** where multiple sections will meet simultaneously (typically to accommodate a guest). These will of course be announced in advance, but please aim to be available during all course section times (8:15am–2:30pm). Currently announced combined meetings are:
 1. **Monday 10/24**: Meeting 8:15–10:00am or 12:45am–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
 2. **Monday 10/31**: Meeting 8:15–10:00am or 12:45am–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
 
@@ -47,10 +47,10 @@ We will also have several **combined meetings** where multiple sections will mee
 | :----: | ------------------------------------ | --------------------- |
 |   P1   |  Introduction to Python              | [TP](https://greenteapress.com/wp/think-python-2e/) 1–3, 8, 10–12 <br> [WTP](https://jakevdp.github.io/WhirlwindTourOfPython/) 1–7 <br> CfE Coding [1](https://aeturrell.github.io/coding-for-economists/code-preliminaries.html), [4](https://aeturrell.github.io/coding-for-economists/code-where.html), [2.1–2.8](https://aeturrell.github.io/coding-for-economists/code-basics.html) <br> [PESDA](https://www.kevinsheppard.com/teaching/python/notes/) 2, 4, 10 <br> [PDA](https://amzn.to/3joJQAa) 2.3, 3.1  |
 |   P2   |  Control flow and data structures    | [TP](https://greenteapress.com/wp/think-python-2e/) 5–7 <br> [WTP](https://jakevdp.github.io/WhirlwindTourOfPython/) 8–14 <br> CfE Coding [2.9–2.17](https://aeturrell.github.io/coding-for-economists/code-basics.html) <br> [PESDA](https://www.kevinsheppard.com/teaching/python/notes/) 12 <br> [PDA](https://amzn.to/3joJQAa) 3.2  |
-|   P3   |  Data manipulation                   | PDSH [3](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#3.-Data-Manipulation-with-Pandas) <br> [PESDA](https://www.kevinsheppard.com/teaching/python/notes/) 8–9, 15 <br> CfE Data [1](https://aeturrell.github.io/coding-for-economists/data-analysis-quickstart.html), [2](https://aeturrell.github.io/coding-for-economists/data-intro.html) <br> [PDA](https://amzn.to/3joJQAa) 5, 7–8, 10-12  |
+|   P3   |  Data manipulation                   | PDSH [3](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#3.-Data-Manipulation-with-Pandas) <br> [PESDA](https://www.kevinsheppard.com/teaching/python/notes/) 8–9, 16 <br> CfE Data [1](https://aeturrell.github.io/coding-for-economists/data-analysis-quickstart.html), [2](https://aeturrell.github.io/coding-for-economists/data-intro.html) <br> [PDA](https://amzn.to/3joJQAa) 5, 7–8, 10-12  |
 |   P4   |  Visualization                       | PDSH [4.14](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html)  <br>  [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html) API overview and Plotting functions |
-|   P5   |  Regression and statistics           |  [PESDA](https://www.kevinsheppard.com/teaching/python/notes/) 19                     |
-|   P6   |  Numerical Python                    | PDSH [2](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#2.-Introduction-to-NumPy)  <br> [PDA](https://amzn.to/3joJQAa) 4 <br> [PESDA](https://www.kevinsheppard.com/teaching/python/notes/) 3, 11, 18   |
+|   P5   |  Regression and statistics           |  [PESDA](https://www.kevinsheppard.com/teaching/python/notes/) 21                     |
+|   P6   |  Numerical Python                    | PDSH [2](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#2.-Introduction-to-NumPy)  <br> [PDA](https://amzn.to/3joJQAa) 4 <br> [PESDA](https://www.kevinsheppard.com/teaching/python/notes/) 3, 11, 19   |
 
 ### Statistics and Inference
 

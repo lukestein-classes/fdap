@@ -33,7 +33,7 @@ Additional packages that may be useful include [Pandas profiling](https://github
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (and [repo](https://github.com/jakevdp/PythonDataScienceHandbook)), Jake VanderPlas
 - [Python for Data Analysis](https://amzn.to/3joJQAa) (2nd ed.), Wes McKinney
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/), Arthur Turrell
-- [Introduction to Python for Econometrics, Statistics and Data Analysis](https://www.kevinsheppard.com/teaching/python/notes/) (4th ed.), Kevin Sheppard
+- [Introduction to Python for Econometrics, Statistics and Data Analysis](https://www.kevinsheppard.com/teaching/python/notes/) (5th ed.), Kevin Sheppard
 
 ### Other References
 - Datacamp cheatsheets: [Python basics](cheatsheets/pythonbasics.pdf), [pandas basics](cheatsheets/pandasbasics.pdf), [pandas advanced](cheatsheets/pandas.pdf), [Seaborn](cheatsheets/seaborn.pdf), [NumPy](cheatsheets/numpy.pdf), and [importing data](cheatsheets/importingdata.pdf)
