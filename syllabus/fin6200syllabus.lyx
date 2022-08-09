@@ -107,7 +107,7 @@ Babson Finance
 \end_layout
 
 \begin_layout Date
-Fall 2021
+Fall 2022
 \begin_inset Foot
 status open
 
@@ -240,17 +240,17 @@ Classes will be held on Mondays and Wednesdays in the Cutler Center (Babson
 \begin_inset space ~
 \end_inset
 
-001), although some special sessions may be held at alternate times and
+001), although some special sessions will be held at alternate times and
  locations to be announced in advance.
  Standard meeting times are Section
 \begin_inset space ~
 \end_inset
 
-1: 9:45
+1: 8:15
 \shape smallcaps
 am
 \shape default
-–11:00
+–9:30
 \shape smallcaps
 am
 \shape default
@@ -282,8 +282,18 @@ pm.
 \begin_layout Standard
 Except with specific permission, students may only attend their registered
  section.
- Students who wish or need to attend specific course meetings remotely should
+ 
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+Students who wish or need to attend specific course meetings remotely should
  do so via Webex; the relevant links will be announced via Canvas and Discord.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -380,8 +390,11 @@ Prerequisites
 \end_layout
 
 \begin_layout Standard
-Registration is limited to Babson Masters of Science in Finance students;
- exceptions require instructor approval.
+Registration is limited to Babson M.S.
+\begin_inset space \space{}
+\end_inset
+
+in Finance students; exceptions require instructor approval.
 \end_layout
 
 \begin_layout Section
@@ -397,13 +410,13 @@ Canvas The course
 \begin_inset CommandInset href
 LatexCommand href
 name "Canvas site"
-target "https://babson.instructure.com/courses/3272573"
+target "https://babson.instructure.com/courses/3515245"
 literal "false"
 
 \end_inset
 
- will serve mainly to distribute non-public materials (e.g., lecture slides
- and videos), and to collect and grade submissions (including peer reviews).
+ will serve mainly to distribute non-public materials (e.g., lecture slides,
+ homework), and to collect and grade submissions (including peer reviews).
  Please ensure you are receiving Canvas announcements).
 \end_layout
 
@@ -452,7 +465,7 @@ literal "false"
 Discord The course Discord server serves as a place to chat formally and
  informally about topics related to our class.
  Questions and comments can engage anyone in the class, and you can tag
- participants by section, or expertise.
+ participants by name, section, or expertise.
  High quality, professional engagement through Discord (especially answering
  classmates' questions) is a component of good class participation.
 \end_layout
@@ -463,9 +476,8 @@ Technology
 
 \begin_layout Standard
 In addition to technology available in the Cutler Center, and what is required
- to access and engage in class (access to the web, Discord, and—if joining
- remotely—Webex), you will likely want to be able to access on a personal
- computer:
+ to access and engage in class (access to the web and Discord), you will
+ likely want to be able to access on a personal computer:
 \end_layout
 
 \begin_layout Enumerate
@@ -579,7 +591,7 @@ Introduction to Python for Econometrics, Statistics and Data Analysis
 \begin_inset Quotes erd
 \end_inset
 
- (4th ed.), Kevin Sheppard.
+ (5th ed.), Kevin Sheppard.
  Freely available PDF.
  Another treatments of these topics, with paired video lessons.
 \end_layout
@@ -593,8 +605,8 @@ Coding for Economists,
 \end_inset
 
  Arthur Turrell.
- Freely available on web.
- An applications-focused approach suitable for complete beginners who have
+ Free website.
+ An application-focused approach suitable for complete beginners who have
  never written any code before, with a number of worked examples.
  Has useful, opinionated, up-to-date advice on actually setting up a technology
  stack.
@@ -813,7 +825,7 @@ Written report
 \begin_inset Text
 
 \begin_layout Plain Layout
-10/18
+10/17
 \end_layout
 
 \end_inset
@@ -851,7 +863,7 @@ In class and written report
 \begin_inset Text
 
 \begin_layout Plain Layout
-10/25–11/1
+10/24–10/31
 \end_layout
 
 \end_inset
@@ -889,7 +901,7 @@ In-class presentation
 \begin_inset Text
 
 \begin_layout Plain Layout
-12/6–12/8
+12/5
 \end_layout
 
 \end_inset
@@ -927,7 +939,7 @@ Written report
 \begin_inset Text
 
 \begin_layout Plain Layout
-12/13
+12/7
 \end_layout
 
 \end_inset
@@ -965,7 +977,7 @@ Online submission
 \begin_inset Text
 
 \begin_layout Plain Layout
-12/13–12/15
+12/7–12
 \end_layout
 
 \end_inset
@@ -1112,8 +1124,20 @@ Approximately eight weekly homework assignments will be posted on Canvas,
 
 \emph on
 Homework assignments are designed principally for learning, not assessment.
- You are welcome (and even encouraged!) to consult with classmates or seek
- outside advice on homework, but you must write and submit your own work.
+ You are welcome (and even encouraged!) to consult with classmates, but
+ you must write and submit all your own work individually.
+ You should cite all collaborators by name in your submission.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+You are explicitly prohibited from accessing or consulting prior-year Finance
+\begin_inset space ~
+\end_inset
+
+6200 homework assignments or solutions (including either students' or sample
+ solutions).
 \end_layout
 
 \begin_layout Subsection
@@ -1130,8 +1154,8 @@ A midterm project will be assigned and submitted via Canvas.
 The project is designed for a mix of learning and assessment.
  You must complete it independently from other groups.
  You should not seek assistance from anyone outside your group (whether
- in the class or not), including posting questions on course-related topics
- or soliciting feedback on your work.
+ in the class or not) except for the instructor, including posting questions
+ on course-related topics or soliciting feedback on your work.
 \end_layout
 
 \begin_layout Subsection
@@ -1151,7 +1175,7 @@ You will be asked to prepare readings for discussion during an in-class
 
 \emph on
 The written deliverable is designed for a mix of learning and assessment.
- You must complete it independently.
+ You must complete it entirely independently.
 \end_layout
 
 \begin_layout Subsection
@@ -1168,9 +1192,9 @@ A final project will be assigned via Canvas.
 
 \emph on
 The project is designed for a mix of learning and assessment.
- You are welcome (and even encouraged!) to consult with classmates or seek
- outside advice on your project, but the presentation and supporting analysis
- must be prepared by members of your group.
+ You are welcome (and even encouraged!) to consult with classmates, but
+ the presentation and supporting analysis must be prepared solely by members
+ of your group.
 \end_layout
 
 \begin_layout Subsection
@@ -1188,9 +1212,8 @@ You will be asked to choose a financial market and write a data-based report
 
 \emph on
 The project is designed for a mix of learning and assessment.
- You are welcome (and even encouraged!) to consult with classmates or seek
- outside advice on your project, but you must write and submit your own
- work.
+ You are welcome (and even encouraged!) to consult with classmates on your
+ project, but you must write and submit your own work.
 \end_layout
 
 \begin_layout Subsection
@@ -1200,7 +1223,7 @@ Final examination
 \begin_layout Standard
 The class will end with an individual, take-home final examination, which
  will be assigned and submitted via Canvas.
- You will have approximately 36 hours to complete the examination.
+ You will have several days to complete the examination.
 \end_layout
 
 \begin_layout Standard
@@ -1215,7 +1238,8 @@ open note
 \begin_inset Quotes erd
 \end_inset
 
-—you can use any pre-existing resources—but you must complete it independently.
+—you can use any pre-existing resources—but you must complete it entirely
+ independently.
  You should not seek assistance from anyone (whether in the class or not),
  including posting questions on course-related topics or soliciting feedback
  on your work.
@@ -1310,9 +1334,8 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-For your coursework, you are required to affirm your understanding of and
- commitment to the academic honesty and integrity expectations set forth
- in the Code.
+For coursework, you are required to affirm your understanding of and commitment
+ to the academic honesty and integrity expectations set forth in the Code.
  You may be asked to write the following pledge:
 \end_layout
 

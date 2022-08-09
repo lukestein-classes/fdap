@@ -8,6 +8,7 @@
 \usepackage{geometry}
 \geometry{verbose,tmargin=1in,bmargin=1.3in,lmargin=1in,rmargin=1in}
 \usepackage{babel}
+\usepackage{verbatim}
 \usepackage{booktabs}
 \usepackage{pdfpages}
 \usepackage[unicode=true,pdfusetitle,
@@ -32,7 +33,7 @@
 \begin{document}
 \title{Financial Data Analysis and Practice}
 \subtitle{Babson Finance~6200}
-\date{Fall 2021\thanks{Information is subject to change. This version updated \today.}}
+\date{Fall 2022\thanks{Information is subject to change. This version updated \today.}}
 \author{Prof.~Luke~C.D.\ Stein\\
 \texttt{\href{mailto:lcdstein@babson.edu}{lcdstein@babson.edu}}}
 \maketitle
@@ -87,16 +88,20 @@ will be topics regarding financial practice and professionalism.
 \subsection{Class time and location}
 
 Classes will be held on Mondays and Wednesdays in the Cutler Center
-(Babson Commons~001), although some special sessions may be held
+(Babson Commons~001), although some special sessions will be held
 at alternate times and locations to be announced in advance. Standard
-meeting times are Section~1: 9:45\textsc{am}\textendash 11:00\textsc{am},
+meeting times are Section~1: 8:15\textsc{am}\textendash 9:30\textsc{am},
 Section~2: 11:45\textsc{am}\textendash 1:00\textsc{pm}, and Section~3:
 1:15\textsc{pm}\textendash 2:30\textsc{pm.}
 
 Except with specific permission, students may only attend their registered
-section. Students who wish or need to attend specific course meetings
-remotely should do so via Webex; the relevant links will be announced
-via Canvas and Discord.
+section. %
+\begin{comment}
+Students who wish or need to attend specific course meetings remotely
+should do so via Webex; the relevant links will be announced via Canvas
+and Discord.
+\end{comment}
+
 
 \subsection{Instructor}
 
@@ -116,17 +121,17 @@ of address include ``Dr.~Stein'' and ``Prof.~Stein.''
 
 \subsection{Prerequisites}
 
-Registration is limited to Babson Masters of Science in Finance students;
-exceptions require instructor approval.
+Registration is limited to Babson M.S.\ in Finance students; exceptions
+require instructor approval.
 
 \section{Course materials}
 
 Outside of the classroom, course materials will distributed in three
 ways
 \begin{description}
-\item [{Canvas}] The course \href{https://babson.instructure.com/courses/3272573}{Canvas site}
+\item [{Canvas}] The course \href{https://babson.instructure.com/courses/3515245}{Canvas site}
 will serve mainly to distribute non-public materials (e.g., lecture
-slides and videos), and to collect and grade submissions (including
+slides, homework), and to collect and grade submissions (including
 peer reviews). Please ensure you are receiving Canvas announcements).
 \item [{GitHub}] The course \href{https://lukestein-classes.github.io/fdap/}{GitHub page}
 is where I will distribute links to useful resources, public material
@@ -135,18 +140,17 @@ and \href{https://lukestein-classes.github.io/fdap/templates/}{code}),
 and maintain an \href{https://lukestein-classes.github.io/fdap/schedule}{updated course schedule}.
 \item [{Discord}] The course Discord server serves as a place to chat formally
 and informally about topics related to our class. Questions and comments
-can engage anyone in the class, and you can tag participants by section,
-or expertise. High quality, professional engagement through Discord
-(especially answering classmates' questions) is a component of good
-class participation.
+can engage anyone in the class, and you can tag participants by name,
+section, or expertise. High quality, professional engagement through
+Discord (especially answering classmates' questions) is a component
+of good class participation.
 \end{description}
 
 \subsection{Technology}
 
 In addition to technology available in the Cutler Center, and what
-is required to access and engage in class (access to the web, Discord,
-and\textemdash if joining remotely\textemdash Webex), you will likely
-want to be able to access on a personal computer:
+is required to access and engage in class (access to the web and Discord),
+you will likely want to be able to access on a personal computer:
 \begin{enumerate}
 \item Microsoft Excel.
 \item Standard, freely available data science software tools to be discussed
@@ -182,13 +186,12 @@ Python texts.
 on web, or purchase print edition. A key resource and reference for
 moving from basic python into more analysis-focused tools.
 \item ``Introduction to Python for Econometrics, Statistics and Data Analysis''
-(4th ed.), Kevin Sheppard. Freely available PDF. Another treatments
+(5th ed.), Kevin Sheppard. Freely available PDF. Another treatments
 of these topics, with paired video lessons.
-\item ``Coding for Economists,'' Arthur Turrell. Freely available on web.
-An applications-focused approach suitable for complete beginners who
-have never written any code before, with a number of worked examples.
-Has useful, opinionated, up-to-date advice on actually setting up
-a technology stack.
+\item ``Coding for Economists,'' Arthur Turrell. Free website. An application-focused
+approach suitable for complete beginners who have never written any
+code before, with a number of worked examples. Has useful, opinionated,
+up-to-date advice on actually setting up a technology stack.
 \end{itemize}
 
 \subsubsection{Other optional texts}
@@ -218,11 +221,11 @@ Component & Type & Weight & Due Date\tabularnewline
 \midrule
 Class participation and professionalism & In class and on Discord & 20\% & Throughout\tabularnewline
 Homework and peer review & Online submission & 10\% & Throughout\tabularnewline
-Midterm project (group) & Written report & 10\% & 10/18\tabularnewline
-Professional ethics module & In class and written report & 15\% & 10/25\textendash 11/1\tabularnewline
-Final project (group) & In-class presentation & 15\% & 12/6\textendash 12/8\tabularnewline
-Market report (individual) & Written report & 15\% & 12/13\tabularnewline
-Final examination (take-home) & Online submission & 15\% & 12/13\textendash 12/15\tabularnewline
+Midterm project (group) & Written report & 10\% & 10/17\tabularnewline
+Professional ethics module & In class and written report & 15\% & 10/24\textendash 10/31\tabularnewline
+Final project (group) & In-class presentation & 15\% & 12/5\tabularnewline
+Market report (individual) & Written report & 15\% & 12/7\tabularnewline
+Final examination (take-home) & Online submission & 15\% & 12/7\textendash 12\tabularnewline
 \midrule
 \emph{Total} &  & \emph{100\%} & \tabularnewline
 \bottomrule
@@ -265,8 +268,12 @@ assignments in class any time after their due date.
 
 \emph{Homework assignments are designed principally for learning,
 not assessment. You are welcome (and even encouraged!) to consult
-with classmates or seek outside advice on homework, but you must write
-and submit your own work.}
+with classmates, but you must write and submit all your own work individually.
+You should cite all collaborators by name in your submission.}
+
+\emph{You are explicitly prohibited from accessing or consulting prior-year
+Finance~6200 homework assignments or solutions (including either
+students' or sample solutions).}
 
 \subsection{Midterm group project}
 
@@ -275,8 +282,8 @@ A midterm project will be assigned and submitted via Canvas.
 \emph{The project is designed for a mix of learning and assessment.
 You must complete it independently from other groups. You should not
 seek assistance from anyone outside your group (whether in the class
-or not), including posting questions on course-related topics or soliciting
-feedback on your work.}
+or not) except for the instructor, including posting questions on
+course-related topics or soliciting feedback on your work.}
 
 \subsection{Professional ethics module}
 
@@ -287,7 +294,7 @@ You will be graded on the quality of your preparation and contribution
 to in-class discussion, and on your written deliverable.
 
 \emph{The written deliverable is designed for a mix of learning and
-assessment. You must complete it independently.}
+assessment. You must complete it entirely independently.}
 
 \subsection{Final group project}
 
@@ -296,9 +303,9 @@ a topic relevant to the assignment, and will present their findings
 in class.
 
 \emph{The project is designed for a mix of learning and assessment.
-You are welcome (and even encouraged!) to consult with classmates
-or seek outside advice on your project, but the presentation and supporting
-analysis must be prepared by members of your group.}
+You are welcome (and even encouraged!) to consult with classmates,
+but the presentation and supporting analysis must be prepared solely
+by members of your group.}
 
 \subsection{Market report}
 
@@ -308,21 +315,20 @@ where you will submit your report.
 
 \emph{The project is designed for a mix of learning and assessment.
 You are welcome (and even encouraged!) to consult with classmates
-or seek outside advice on your project, but you must write and submit
-your own work.}
+on your project, but you must write and submit your own work.}
 
 \subsection{Final examination}
 
 The class will end with an individual, take-home final examination,
-which will be assigned and submitted via Canvas. You will have approximately
-36 hours to complete the examination.
+which will be assigned and submitted via Canvas. You will have several
+days to complete the examination.
 
 \emph{The final examination is designed principally for assessment,
 and it will be entirely ``open note''\textemdash you can use any
-pre-existing resources\textemdash but you must complete it independently.
-You should not seek assistance from anyone (whether in the class or
-not), including posting questions on course-related topics or soliciting
-feedback on your work.}
+pre-existing resources\textemdash but you must complete it entirely
+independently. You should not seek assistance from anyone (whether
+in the class or not), including posting questions on course-related
+topics or soliciting feedback on your work.}
 
 \section{Course policies}
 
@@ -369,9 +375,9 @@ In the instance I am presented with evidence to suggest that you engaged
 in any of these behaviors, I will refer the incident to the \href{https://www.babson.edu/student-life/community-standards/}{Office of Community Standards}
 for review.
 
-For your coursework, you are required to affirm your understanding
-of and commitment to the academic honesty and integrity expectations
-set forth in the Code. You may be asked to write the following pledge:
+For coursework, you are required to affirm your understanding of and
+commitment to the academic honesty and integrity expectations set
+forth in the Code. You may be asked to write the following pledge:
 \begin{quote}
 \textquotedblleft I have abided by the Babson Code of Ethics in this
 work and pledge to be better than that which would compromise my integrity.\textquotedblright{}
