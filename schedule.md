@@ -38,7 +38,7 @@ We will also have several **combined meetings** where multiple sections will mee
 |  [24](https://babson.instructure.com/courses/3272573/pages/meeting-24)  |   11/29   |   [A7](#financial-applications)        |                   |
 |  [25](https://babson.instructure.com/courses/3272573/pages/meeting-25)  |   12/1    |   [A8](#financial-applications)        |                   |
 |  [26](https://babson.instructure.com/courses/3272573/pages/meeting-26)  |   12/6    |   tba                                  |                   |
-|  [27](https://babson.instructure.com/courses/3272573/pages/meeting-27)  |   12/8    |   Group presentations                  |  Final project    |
+|   27                                                                    |   12/8    |   Group presentations                  |  Final project    |
 |                                                                         | **12/13** |  *No class (Final exam distributed 6pm)*  |  Market report    |
 |                                                                         |   12/15   |                                        |  Final exam       |
 
