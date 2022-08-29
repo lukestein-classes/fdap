@@ -4,6 +4,7 @@ This repository has material that supplements what is posted on the Babson FIN 6
 
 - [Syllabus](syllabus/fin6200syllabus.pdf)
 - [Course schedule](schedule)
+- [Teaser/welcome video](https://youtu.be/eIX4FKDDkbI)
 - [Data files](data)
 - [Template notebooks](templates)
 
