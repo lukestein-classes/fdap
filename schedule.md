@@ -19,11 +19,13 @@ We will also have several **combined meetings** where multiple sections will mee
 |   [7](https://babson.instructure.com/courses/3515245/pages/meeting-7)   |   9/28    |   cont.                                |   Peer review     |
 |   [8](https://babson.instructure.com/courses/3515245/pages/meeting-8)   |   10/3    |   [A1](#financial-applications)        |       [HW4](https://babson.instructure.com/courses/3515245/assignments/37870016)         |
 |   [9](https://babson.instructure.com/courses/3515245/pages/meeting-9)   |   10/5    |   [P3](#python), [D1](#financial-data) | Peer review  |
-|                                                                         | **10/10** |  *No class (Indigenous Peoples’ Day)*  |                   |
-|  [10](https://babson.instructure.com/courses/3515245/pages/meeting-10)  | **10/11** |  *Tuesday class* <br> [S2](#statistics-and-inference), [P4](#python)  | [HW5](https://babson.instructure.com/courses/3515245/assignments/37870017)         |
-|  [11](https://babson.instructure.com/courses/3515245/pages/meeting-11)  |   10/12   |   [A2](#financial-applications), [D2](#financial-data), [S3](#statistics-and-inference)      |   Peer review     |
-|  [12](https://babson.instructure.com/courses/3515245/pages/meeting-12)  |   10/17   |   [P5](#python)                        |    |
-|  [13](https://babson.instructure.com/courses/3515245/pages/meeting-13)  |   10/19   |   [S4](#statistics-and-inference), [D3](#financial-data) | |
+|                                                                         |   10/6    |                                        | Excel Collegiate 1  |
+|                                                                         | **10/10** |  *No class (Indigenous Peoples’ Day)*  | Excel Collegiate 2a |
+|  [10](https://babson.instructure.com/courses/3515245/pages/meeting-10)  | **10/11** |  *Tuesday class* <br> [S2](#statistics-and-inference), [P4](#python)  |          |
+|  [11](https://babson.instructure.com/courses/3515245/pages/meeting-11)  |   10/12   |   [A2](#financial-applications), [D2](#financial-data), [S3](#statistics-and-inference)      |        |
+|                                                                         |   10/15    |                                        | Excel Collegiate 2b |
+|  [12](https://babson.instructure.com/courses/3515245/pages/meeting-12)  |   10/17   |   [P5](#python)                        |  [HW5](https://babson.instructure.com/courses/3515245/assignments/37870017)  |
+|  [13](https://babson.instructure.com/courses/3515245/pages/meeting-13)  |   10/19   |   [S4](#statistics-and-inference), [D3](#financial-data) | Peer review |
 |  [14](https://babson.instructure.com/courses/3515245/pages/meeting-14)  | **10/24** |  *Meeting 8:15–10:00am or 12:45–2:30pm* <br> [A3](#financial-applications)  | [Midterm project](https://babson.instructure.com/courses/3515245/assignments/37870021) |
 |  [15](https://babson.instructure.com/courses/3515245/pages/meeting-15)  |   10/26   |   [S5](#statistics-and-inference)      |                   |
 |  [16](https://babson.instructure.com/courses/3515245/pages/meeting-16)  | **10/31**  |  *Meeting 8:15–10:00am or 12:45–2:30pm* <br> [A3](#financial-applications)  |  [Ethics report](https://babson.instructure.com/courses/3515245/assignments/37870010)  |
