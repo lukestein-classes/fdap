@@ -712,7 +712,7 @@ Your course grade will be calculated as follows:
 \begin_layout Standard
 \align center
 \begin_inset Tabular
-<lyxtabular version="3" rows="9" columns="4">
+<lyxtabular version="3" rows="10" columns="4">
 <features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="center" valignment="top" width="0pt">
@@ -837,6 +837,44 @@ Throughout
 \begin_inset Text
 
 \begin_layout Plain Layout
+Microsoft Excel Collegiate Challenge
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Participation
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9/14–10/9
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 Midterm project (group)
 \end_layout
 
@@ -851,7 +889,7 @@ Written report
 
 \end_inset
 </cell>
-<cell alignment="right" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -893,7 +931,7 @@ In class and written report
 \begin_inset Text
 
 \begin_layout Plain Layout
-15%
+10%
 \end_layout
 
 \end_inset
@@ -1177,6 +1215,44 @@ You are explicitly prohibited from accessing or consulting prior-year Finance
 
 6200 homework assignments or solutions (including either students' or sample
  solutions).
+\end_layout
+
+\begin_layout Subsection
+Microsoft Excel Collegiate Challenge
+\end_layout
+
+\begin_layout Standard
+All students are expected to participate in the 
+\begin_inset Quotes eld
+\end_inset
+
+Training Ground
+\begin_inset Quotes erd
+\end_inset
+
+ and Round
+\begin_inset space ~
+\end_inset
+
+1 of the 
+\begin_inset CommandInset href
+LatexCommand href
+name "Microsoft Excel Collegiate Challenge"
+target "https://www.fmworldcup.com/microsoft-excel-collegiate-challenge/"
+literal "false"
+
+\end_inset
+
+.
+ Round
+\begin_inset space ~
+\end_inset
+
+2—and hopefully the finals—are optional but recommended.
+ You may register individually or with a team.
+ Your performance in the challenge will not count towards your course grade,
+ but participation (including appropriate contribution to a team effort)
+ will is required to receive credit for this deliverable.
 \end_layout
 
 \begin_layout Subsection
