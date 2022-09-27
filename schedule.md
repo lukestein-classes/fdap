@@ -15,29 +15,29 @@ We will also have several **combined meetings** where multiple sections will mee
 |   [3](https://babson.instructure.com/courses/3515245/pages/meeting-3)   |   9/14    |   [P1](#python)                        |   Peer review     |
 |   [4](https://babson.instructure.com/courses/3515245/pages/meeting-4)   |   9/19    |   cont.                                |       [HW2](https://babson.instructure.com/courses/3515245/assignments/37870014)         |
 |   [5](https://babson.instructure.com/courses/3515245/pages/meeting-5)   |   9/21    |   cont.                                |   Peer review     |
-|   [6](https://babson.instructure.com/courses/3515245/pages/meeting-6)   |   9/26    |   [P2](#python)                        |       [HW3](https://babson.instructure.com/courses/3515245/assignments/37870015)         |
-|   [7](https://babson.instructure.com/courses/3515245/pages/meeting-7)   |   9/28    |   cont.                                |   Peer review     |
-|   [8](https://babson.instructure.com/courses/3515245/pages/meeting-8)   |   10/3    |   [A1](#financial-applications)        |       [HW4](https://babson.instructure.com/courses/3515245/assignments/37870016)         |
+|   [6](https://babson.instructure.com/courses/3515245/pages/meeting-6)   |   9/26    |   [A1](#financial-applications)        |       [HW3](https://babson.instructure.com/courses/3515245/assignments/37870015)         |
+|   [7](https://babson.instructure.com/courses/3515245/pages/meeting-7)   |   9/28    |   [P2](#python)                        |   Peer review     |
+|   [8](https://babson.instructure.com/courses/3515245/pages/meeting-8)   |   10/3    |   [A2](#financial-applications)        |       [HW4](https://babson.instructure.com/courses/3515245/assignments/37870016)         |
 |   [9](https://babson.instructure.com/courses/3515245/pages/meeting-9)   |   10/5    |   [P3](#python), [D1](#financial-data) | Peer review  |
 |                                                                         |   10/6    |                                        | Excel CC 0   |
 |                                                                         | **10/10** |  *No class (Indigenous Peoples’ Day)*  | Excel CC 1   |
 |  [10](https://babson.instructure.com/courses/3515245/pages/meeting-10)  | **10/11** |  *Tuesday class* <br> [S2](#statistics-and-inference), [P4](#python)  |          |
-|  [11](https://babson.instructure.com/courses/3515245/pages/meeting-11)  |   10/12   |   [A2](#financial-applications), [D2](#financial-data), [S3](#statistics-and-inference)      |        |
+|  [11](https://babson.instructure.com/courses/3515245/pages/meeting-11)  |   10/12   |   [A3](#financial-applications), [D2](#financial-data), [S3](#statistics-and-inference)      |        |
 |                                                                         |   10/15    |                                        | Excel CC 2 (opt.) |
 |  [12](https://babson.instructure.com/courses/3515245/pages/meeting-12)  |   10/17   |   [P5](#python)                        |  [HW5](https://babson.instructure.com/courses/3515245/assignments/37870017)  |
 |  [13](https://babson.instructure.com/courses/3515245/pages/meeting-13)  |   10/19   |   [S4](#statistics-and-inference), [D3](#financial-data) | Peer review |
-|  [14](https://babson.instructure.com/courses/3515245/pages/meeting-14)  | **10/24** |  *Meeting 8:15–10:00am or 12:45–2:30pm* <br> [A3](#financial-applications)  | [Midterm project](https://babson.instructure.com/courses/3515245/assignments/37870021) |
+|  [14](https://babson.instructure.com/courses/3515245/pages/meeting-14)  | **10/24** |  *Meeting 8:15–10:00am or 12:45–2:30pm* <br> [A4](#financial-applications)  | [Midterm project](https://babson.instructure.com/courses/3515245/assignments/37870021) |
 |  [15](https://babson.instructure.com/courses/3515245/pages/meeting-15)  |   10/26   |   [S5](#statistics-and-inference)      |                   |
-|  [16](https://babson.instructure.com/courses/3515245/pages/meeting-16)  | **10/31**  |  *Meeting 8:15–10:00am or 12:45–2:30pm* <br> [A3](#financial-applications)  |  [Ethics report](https://babson.instructure.com/courses/3515245/assignments/37870010)  |
-|  [17](https://babson.instructure.com/courses/3515245/pages/meeting-17)  |   11/2    |   [S6](#statistics-and-inference), [A4](#financial-applications)  |  |
-|  [18](https://babson.instructure.com/courses/3515245/pages/meeting-18)  |   11/7    |   [A5](#financial-applications)        |       [HW6](https://babson.instructure.com/courses/3515245/assignments/37870018)         |
+|  [16](https://babson.instructure.com/courses/3515245/pages/meeting-16)  | **10/31**  |  *Meeting 8:15–10:00am or 12:45–2:30pm* <br> [A4](#financial-applications)  |  [Ethics report](https://babson.instructure.com/courses/3515245/assignments/37870010)  |
+|  [17](https://babson.instructure.com/courses/3515245/pages/meeting-17)  |   11/2    |   [S6](#statistics-and-inference), [A5](#financial-applications)  |  |
+|  [18](https://babson.instructure.com/courses/3515245/pages/meeting-18)  |   11/7    |   [A6](#financial-applications)        |       [HW6](https://babson.instructure.com/courses/3515245/assignments/37870018)         |
 |  [19](https://babson.instructure.com/courses/3515245/pages/meeting-19)  |   11/9    |   [P6](#python)                        |   Peer review     |
-|  [20](https://babson.instructure.com/courses/3515245/pages/meeting-20)  |   11/14   |   [A6](#financial-applications)        |       [HW7](https://babson.instructure.com/courses/3515245/assignments/37870019)         |
+|  [20](https://babson.instructure.com/courses/3515245/pages/meeting-20)  |   11/14   |   [A7](#financial-applications)        |       [HW7](https://babson.instructure.com/courses/3515245/assignments/37870019)         |
 |  [21](https://babson.instructure.com/courses/3515245/pages/meeting-21)  |   11/16   |   cont.                                |   Peer review     |
 |  [22](https://babson.instructure.com/courses/3515245/pages/meeting-22)  |   11/21   |   [D4](#financial-data)                |                   |
 |                                                                         | **11/23** |  *No class (Thanksgiving break)*       |                   |
-|  [23](https://babson.instructure.com/courses/3515245/pages/meeting-23)  |   11/28   |   [A7](#financial-applications)        |                   |
-|  [24](https://babson.instructure.com/courses/3515245/pages/meeting-24)  |   11/30   |   [A8](#financial-applications)        |                   |
+|  [23](https://babson.instructure.com/courses/3515245/pages/meeting-23)  |   11/28   |   [A8](#financial-applications)        |                   |
+|  [24](https://babson.instructure.com/courses/3515245/pages/meeting-24)  |   11/30   |   [A9](#financial-applications)        |                   |
 |  [25](https://babson.instructure.com/courses/3515245/pages/meeting-25)  |   12/5    |   Group presentations                  |  [Final project](https://babson.instructure.com/courses/3515245/assignments/37870012)    |
 |  [26](https://babson.instructure.com/courses/3515245/pages/meeting-26)  |   12/7    |   Group presentations <br> *(Final exam distributed)* |  [Market report](https://babson.instructure.com/courses/3515245/assignments/37870020)    |
 |                                                                         | **12/12** |  *No class (Final exam due)*           |  [Final exam](https://babson.instructure.com/courses/3515245/assignments/37870011)       |
@@ -83,11 +83,12 @@ Excel will be used throughout the course, with coverage not divided into explici
 
 | Module | Topic                                | Resources             |
 | :----: | ------------------------------------ | --------------------- |
-|   A1   |  Fixed income                        |   TBA                 |
-|   A2   |  Equity returns                      |   TBA                 |
-|   A3   |  Professional ethics                 |   TBA                 |
-|   A4   |  Foreign exchange                    |   TBA                 |
-|   A5   |  Factor models                       |   TBA                 |
-|   A6   |  Capital budgeting                   |   TBA                 |
-|   A7   |  Derivatives                         |   TBA                 |
-|   A8   |  Equity portfolios                   |   TBA                 |
+|   A1   |  Monte Carlo simulation              |   TBA                 |
+|   A2   |  Fixed income                        |   TBA                 |
+|   A3   |  Equity returns                      |   TBA                 |
+|   A4   |  Professional ethics                 |   TBA                 |
+|   A5   |  Foreign exchange                    |   TBA                 |
+|   A6   |  Factor models                       |   TBA                 |
+|   A7   |  Capital budgeting                   |   TBA                 |
+|   A8   |  Derivatives                         |   TBA                 |
+|   A9   |  Equity portfolios                   |   TBA                 |
