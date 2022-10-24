@@ -28,10 +28,10 @@ We will also have several **combined meetings** where multiple sections will mee
 |  [13](https://babson.instructure.com/courses/3515245/pages/meeting-13)  |   10/19   |   [S4](#statistics-and-inference), [D3](#financial-data) | Peer review |
 |  [14](https://babson.instructure.com/courses/3515245/pages/meeting-14)  | **10/24** |  *Meeting 8:15–10:00am or 12:45–2:30pm* <br> [A4](#financial-applications)  | [Midterm project](https://babson.instructure.com/courses/3515245/assignments/37870021) |
 |  [15](https://babson.instructure.com/courses/3515245/pages/meeting-15)  |   10/26   |   [S5](#statistics-and-inference)      |                   |
-|  [16](https://babson.instructure.com/courses/3515245/pages/meeting-16)  | **10/31**  |  *Meeting 8:15–10:00am or 12:45–2:30pm* <br> [A4](#financial-applications)  |  [Ethics report](https://babson.instructure.com/courses/3515245/assignments/37870010)  |
-|  [17](https://babson.instructure.com/courses/3515245/pages/meeting-17)  |   11/2    |   [S6](#statistics-and-inference), [A5](#financial-applications)  |  |
-|  [18](https://babson.instructure.com/courses/3515245/pages/meeting-18)  |   11/7    |   [A6](#financial-applications)        |       [HW6](https://babson.instructure.com/courses/3515245/assignments/37870018)         |
-|  [19](https://babson.instructure.com/courses/3515245/pages/meeting-19)  |   11/9    |   [P6](#python)                        |   Peer review     |
+|  [16](https://babson.instructure.com/courses/3515245/pages/meeting-16)  |   10/31   |   [S6](#statistics-and-inference), [A5](#financial-applications)  |       [HW6](https://babson.instructure.com/courses/3515245/assignments/37870018)         |
+|  [17](https://babson.instructure.com/courses/3515245/pages/meeting-17)  |   11/2    |   [A6](#financial-applications)        |   Peer review     |
+|  [18](https://babson.instructure.com/courses/3515245/pages/meeting-18)  | **11/7**  |   *Meeting 8:15–10:00am or 12:45–2:30pm* <br> [A4](#financial-applications)  |  [Ethics report](https://babson.instructure.com/courses/3515245/assignments/37870010)  |
+|  [19](https://babson.instructure.com/courses/3515245/pages/meeting-19)  |   11/9    |   [P6](#python)                        |                   |
 |  [20](https://babson.instructure.com/courses/3515245/pages/meeting-20)  |   11/14   |   [A7](#financial-applications)        |       [HW7](https://babson.instructure.com/courses/3515245/assignments/37870019)         |
 |  [21](https://babson.instructure.com/courses/3515245/pages/meeting-21)  |   11/16   |   cont.                                |   Peer review     |
 |  [22](https://babson.instructure.com/courses/3515245/pages/meeting-22)  |   11/21   |   [D4](#financial-data)                |                   |
@@ -41,6 +41,8 @@ We will also have several **combined meetings** where multiple sections will mee
 |  [25](https://babson.instructure.com/courses/3515245/pages/meeting-25)  |   12/5    |   Group presentations                  |  [Final project](https://babson.instructure.com/courses/3515245/assignments/37870012)    |
 |  [26](https://babson.instructure.com/courses/3515245/pages/meeting-26)  |   12/7    |   Group presentations <br> *(Final exam distributed)* |  [Market report](https://babson.instructure.com/courses/3515245/assignments/37870020)    |
 |                                                                         | **12/12** |  *No class (Final exam due)*           |  [Final exam](https://babson.instructure.com/courses/3515245/assignments/37870011)       |
+
+
 
 ## Modules
 ### Python
