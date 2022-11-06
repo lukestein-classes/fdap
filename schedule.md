@@ -3,8 +3,8 @@
 This course schedule **will** change during the semester. Ad hoc topic changes (unannounced) may be based on current events or class pace and interest. Announcement of any meeting changes will be distributed via Discord; please ensure that you are monitoring the `#announcements` channel there.
 
 We will also have several **combined meetings** where multiple sections will meet simultaneously (typically to accommodate a guest). These will of course be announced in advance, but please aim to be available during all course section times (8:15am–2:30pm). Currently announced combined meetings are:
-1. **Monday 10/24**: Meeting 8:15–10:00am or 12:45am–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
-2. **Monday 10/31**: Meeting 8:15–10:00am or 12:45am–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
+1. **Monday 10/24**: Meeting 8:15–10:00am or 12:45–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php))
+2. **Monday 11/07**: Meeting 8:15–10:00am or 12:45–2:30pm (Professional ethics session with [Glenn Migliozzi](https://www.babson.edu/academics/faculty/faculty-profiles/glenn-migliozzi.php); **note date change**)
 
 
 | Meeting | Date   | Topics/Modules                         | Deliverable       |
