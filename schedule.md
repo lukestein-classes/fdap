@@ -36,7 +36,7 @@ We will also have several **combined meetings** where multiple sections will mee
 |  [21](https://babson.instructure.com/courses/3515245/pages/meeting-21)  |   11/16   |   cont.                                |   Peer review     |
 |  [22](https://babson.instructure.com/courses/3515245/pages/meeting-22)  |   11/21   |   [D4](#financial-data)                |                   |
 |                                                                         | **11/23** |  *No class (Thanksgiving break)*       |                   |
-|  [23](https://babson.instructure.com/courses/3515245/pages/meeting-23)  |   11/28   |   [A8](#financial-applications)        |                   |
+|  [23](https://babson.instructure.com/courses/3515245/pages/meeting-23)  |   11/28   |   [A8](#financial-applications)        |       [HW8](https://babson.instructure.com/courses/3515245/assignments/39393983)         |
 |  [24](https://babson.instructure.com/courses/3515245/pages/meeting-24)  |   11/30   |   [A9](#financial-applications)        |                   |
 |  [25](https://babson.instructure.com/courses/3515245/pages/meeting-25)  |   12/5    |   Group presentations                  |  [Final project](https://babson.instructure.com/courses/3515245/assignments/37870012)    |
 |  [26](https://babson.instructure.com/courses/3515245/pages/meeting-26)  |   12/7    |   Group presentations <br> *(Final exam distributed)* |  [Market report](https://babson.instructure.com/courses/3515245/assignments/37870020)    |
