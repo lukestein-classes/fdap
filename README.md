@@ -17,6 +17,7 @@ Anaconda includes (almost) everything you need to get going, but in line with [t
 - [My video demo: Installing Anaconda and Visual Studio Code for Python notebooks](https://www.youtube.com/watch?v=jY0o1nkW0ow)
 - Arthur Turrell's [Python with Anaconda and VS Code installation instructions](https://aeturrell.github.io/coding-for-economists/code-preliminaries.html#installing-python)
 - Microsoft [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) (and [video](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Getting-Started-with-Jupyter-Notebooks-in-VS-Code))
+- Microsoft's [Data Wrangler for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)
 
 ### Packages
 These are the critical packages we will rely on; if you need a package not included with Anaconda, you should *first* try to install it using `conda install` and only if that doesn’t work, install using `pip`
@@ -26,13 +27,13 @@ These are the critical packages we will rely on; if you need a package not inclu
 - [NumPy](https://numpy.org) and [SciPy](https://www.scipy.org) (scientific computing)
 - [WRDS](https://github.com/wharton/wrds) (access to the authoritative source of historical financial data)
 
-Additional packages that may be useful include [Pandas profiling](https://github.com/pandas-profiling/pandas-profiling) (automated EDA), [Pyjanitor](https://pyjanitor.readthedocs.io) (data cleaning), and [dataprep](https://pypi.org/project/dataprep/) (data cleaning and automated EDA)
+Additional packages that may be useful include [YData Profiling](https://github.com/ydataai/ydata-profiling) (automated EDA), [Pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) (data cleaning), and [dataprep](https://pypi.org/project/dataprep/) (data cleaning and automated EDA)
 
 ### Books
 - [Think Python](https://greenteapress.com/wp/think-python-2e/) (2nd ed., and [repo](https://github.com/AllenDowney/ThinkPython2)), Allen B. Downey
 - [Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) (and [repo](https://github.com/jakevdp/WhirlwindTourOfPython)), Jake VanderPlas
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (and [repo](https://github.com/jakevdp/PythonDataScienceHandbook)), Jake VanderPlas
-- [Python for Data Analysis](https://amzn.to/3joJQAa) (2nd ed.), Wes McKinney
+- [Python for Data Analysis](https://amzn.to/3H4O7E4) (3rd ed.), Wes McKinney
 - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/), Arthur Turrell
 - [Introduction to Python for Econometrics, Statistics and Data Analysis](https://www.kevinsheppard.com/teaching/python/notes/) (5th ed.), Kevin Sheppard
 
@@ -57,7 +58,7 @@ Additional packages that may be useful include [Pandas profiling](https://github
 
 ### Microsoft Excel
 
-[Data Analytics Using Microsoft Excel With Accounting and Finance Datasets](https://students.flatworldknowledge.com/course/2598350) (v.2.0), Joseph M. Manzo
+Data Analytics Using Microsoft Excel With Accounting and Finance Datasets ([v2.0](https://students.flatworldknowledge.com/course/2598350) for Excel 2016 or [v3.0](https://catalog.flatworldknowledge.com/catalog/editions/microsoft-365-3) for Excel 365), Joseph M. Manzo
 
 
 ## Financial Applications
