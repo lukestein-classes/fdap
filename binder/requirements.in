@@ -5,3 +5,4 @@ seaborn
 statsmodels
 wrds
 pandas-datareader
+yfinance
