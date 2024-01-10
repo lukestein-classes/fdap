@@ -2,6 +2,7 @@
 .ipynb_checkpoints
 .empty
 .vscode/
+.virtual_documents/
 
 # LyX temporary/backup
 *.lyx~
