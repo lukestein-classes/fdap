@@ -1,4 +1,4 @@
-%% LyX 2.3.6.2 created this file.  For more info, see http://www.lyx.org/.
+%% LyX 2.3.7 created this file.  For more info, see http://www.lyx.org/.
 %% Do not edit unless you really know what you are doing.
 \documentclass[11pt,english,letterpaper, abstracton, abstract=false, titlepage=false, headings=normal, captions=tableheading, numbers=noenddot]{scrartcl}
 \usepackage{fourier}
@@ -8,6 +8,7 @@
 \usepackage{geometry}
 \geometry{verbose,tmargin=1in,bmargin=1.3in,lmargin=1in,rmargin=1in}
 \usepackage{babel}
+\usepackage{array}
 \usepackage{verbatim}
 \usepackage{booktabs}
 \usepackage{pdfpages}
@@ -19,6 +20,7 @@
 \makeatletter
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
+\newcommand{\noun}[1]{\textsc{#1}}
 %% Because html converters don't know tabularnewline
 \providecommand{\tabularnewline}{\\}
 %% A simple dot to overcome graphicx limitations
@@ -33,7 +35,7 @@
 \begin{document}
 \title{Financial Data Analysis and Practice}
 \subtitle{Babson Finance~6200}
-\date{Fall 2022\thanks{Information is subject to change. This version updated \today.}}
+\date{Spring 2024\thanks{Information is subject to change. This version updated \today.}}
 \author{Prof.~Luke~C.D.\ Stein\\
 \texttt{\href{mailto:lcdstein@babson.edu}{lcdstein@babson.edu}}}
 \maketitle
@@ -94,11 +96,11 @@ will be topics regarding financial practice and professionalism.
 \subsection{Class time and location}
 
 Classes will be held on Mondays and Wednesdays in the Cutler Center
-(Babson Commons~001), although some special sessions will be held
-at alternate times and locations to be announced in advance. Standard
-meeting times are Section~1: 8:15\textsc{am}\textendash 9:30\textsc{am},
-Section~2: 11:45\textsc{am}\textendash 1:00\textsc{pm}, and Section~3:
-1:15\textsc{pm}\textendash 2:30\textsc{pm.}
+(Babson Commons~001), although special sessions may be held at alternate
+times (and perhaps locations) to be announced in advance. Standard
+meeting times are Section~1: 8:\textsc{30}\textendash 9:\textsc{45am},
+Section~2: 10:00\textendash 11:\textsc{15am}, Section~3: 12:30\textendash 1:45\textsc{pm},
+and Section~4: 2:\textsc{00}\textendash 3:\textsc{15pm.}
 
 Except with specific permission, students may only attend their registered
 section. %
@@ -163,7 +165,7 @@ you will likely want to be able to access on a personal computer:
 \item Standard, freely available data science software tools to be discussed
 in class including Python (and various related packages including
 pandas, NumPy, and Seaborn) and a text editor or software development
-environment.
+environment (Visual Studio Code is highly recommended)
 \end{enumerate}
 
 \subsection{Books and resources}
@@ -203,18 +205,19 @@ up-to-date advice on actually setting up a technology stack.
 
 \subsubsection{Other optional texts}
 \begin{itemize}
-\item ``Python for Data Analysis'' (2nd~ed.), Wes McKinney. Available
+\item ``Python for Data Analysis'' (3rd~ed.), Wes McKinney. Available
 only as purchased print edition. The classic book on classic tools
 for using Python for Data Analysis. Goes into more detail on some
 topics than PDSH, but may be harder to follow as an introduction.
 \item ``Data Analytics Using Microsoft Excel With Accounting and Finance
-Datasets'' (v.~2.0), Joseph M. Manzo. Available only for purchase
-on web, PDF, or print. We will be using Excel throughout the course,
-where I will generally assume familiarity with basic functions and
-cover some more advanced ones (such as Pivot Tables) in class. Students
-looking to improve their skills or for a refresher may wish to consider
-this book, which has been used in FDAP in the past and (unlike many
-more generic Excel books) focuses on finance applications.
+Datasets'' (v.~2.0 for Excel 2016 or v.~3.0 for Excel 365), Joseph
+M. Manzo. Available only for purchase on web, PDF, or print. We will
+be using Excel throughout the course, where I will generally assume
+familiarity with basic functions and cover some more advanced ones
+(such as Pivot Tables) in class. Students looking to improve their
+skills or for a refresher may wish to consider this book, which has
+been used in FDAP in the past and (unlike many more generic Excel
+books) focuses on finance applications.
 \end{itemize}
 
 \section{Grading and course deliverables}
@@ -222,21 +225,29 @@ more generic Excel books) focuses on finance applications.
 Your course grade will be calculated as follows:
 
 \begin{center}
-\begin{tabular}{lcrc}
+\begin{tabular}{l>{\centering}p{1.8in}rc}
 \toprule 
 Component & Type & Weight & Due Date\tabularnewline
 \midrule
-Class participation and professionalism & In class and on Discord & 20\% & Throughout\tabularnewline
-Homework and peer review & Online submission & 10\% & Throughout\tabularnewline
-Microsoft Excel Collegiate Challenge & Participation & 5\% & 9/14\textendash 10/9\tabularnewline
-Midterm project (group) & Written report & 10\% & 10/23\tabularnewline
-Professional ethics module & In class and written report & 10\% & 10/24\textendash 10/31\tabularnewline
-Final project (group) & In-class presentation & 15\% & 12/5\tabularnewline
-Market report (individual) & Written report & 15\% & 12/6\tabularnewline
-Final examination (take-home) & Online submission & 15\% & 12/7\textendash 12\tabularnewline
+Class participation and professionalism & In class and on Discord & 15\% & Throughout\tabularnewline
+Homework & Online submission & 15\% & Throughout\tabularnewline
+Peer reviews & Online submission & 10\% & Throughout\tabularnewline
+Midterm group project & Online submission & 10\% & 2/20\tabularnewline
+Professional ethics module & In class participation and
+
+online submission & 10\% & 2/21 and 3/27\textsuperscript{{*}}\tabularnewline
+Data/methods demonstration & Online submission and
+
+in-class presentation & 10\% & 3/4\textsuperscript{{*}}\tabularnewline
+Final group project & Online submission and
+
+in-class presentation & 15\% & 4/17\textsuperscript{{*}}\tabularnewline
+Final examination & In-person examination & 15\% & 4/24\tabularnewline
 \midrule
 \emph{Total} &  & \emph{100\%} & \tabularnewline
-\bottomrule
+\midrule
+\multicolumn{4}{l}{\textsuperscript{{*}}Note: Online submission due the night \emph{before}
+graded participation or in-class presentations.}\tabularnewline
 \end{tabular}
 \par\end{center}
 
@@ -265,33 +276,45 @@ to learning and helping your classmates learn, which you can do in
 a variety of ways; I am looking for consistency and quality rather
 than quantity.
 
-\subsection{Homework and peer review}
+\subsection{Homework}
 
 Approximately eight weekly homework assignments will be posted on
 Canvas, where they will also be submitted. Deadlines will be indicated
-on Canvas (typically Sundays at midnight). You will also need to conduct
-brief peer reviews of classmates' homework submissions, which will
-be assigned via Canvas. You should be prepared to discuss homework
-assignments in class any time after their due date.
+on Canvas (typically Sundays or Tuesdays at 11\textsc{pm}). You should
+be prepared to discuss homework assignments in class any time after
+their due date.
 
 \emph{Homework assignments are designed principally for learning,
-not assessment. You are welcome (and even encouraged!) to consult
-with classmates, but you must write and submit all your own work individually.
-You should cite all collaborators by name in your submission.}
+not assessment. You are welcome to consult with classmates, and you
+are required to clearly list all collaborators by name in your submission.
+Note that while consultation with classmates is allowed, }\emph{\noun{you
+must write and submit all your own work individually}}\emph{. This
+implies that your code and text should typically not have more than
+trivial verbatim overlap with others'. Even if you share ideas with
+classmates (appropriate), or if you view their code (appropriate),
+}\emph{\noun{it is not appropriate to simply copy classmates' work,
+even if you then update it}}\emph{. You should clearly cite sources
+that you rely on, including the names of any generative software (e.g.,
+AI assistants or ``copilots'') that contributed to your work.}
 
 \emph{You are explicitly prohibited from accessing or consulting prior-year
 Finance~6200 homework assignments or solutions (including either
-students' or sample solutions).}
+students' or sample solutions), unless distributed to the class by
+the instructor.}
 
-\subsection{Microsoft Excel Collegiate Challenge}
+\subsection{Peer reviews}
 
-All students are expected to participate in the ``Training Ground''
-and Round~1 of the \href{https://www.fmworldcup.com/microsoft-excel-collegiate-challenge/}{Microsoft Excel Collegiate Challenge}.
-Round~2\textemdash and hopefully the finals\textemdash are optional
-but recommended. You may register individually or with a team. Your
-performance in the challenge will not count towards your course grade,
-but participation (including appropriate contribution to a team effort)
-will is required to receive credit for this deliverable.
+You are required to conduct brief, anonymous peer reviews of classmates'
+homework submissions and other assignments. You should provide a score
+using an assigned rubric, as well as concise comments useful both
+to your classmate and to the instructor. Peer reviews will be assigned
+via Canvas, where they will also be submitted. Deadlines will be indicated
+on Canvas (typically Sundays or Tuesdays at 11\textsc{pm}).
+
+\emph{Peer reviews are designed for a mix of learning and assessment.
+Homework assignments are designed principally for learning, not assessment.
+You are welcome to consult with classmates, and you are required to
+clearly list all collaborators by name in your}
 
 \subsection{Midterm group project}
 
@@ -301,52 +324,77 @@ A midterm project will be assigned and submitted via Canvas.
 You must complete it independently from other groups. You should not
 seek assistance from anyone outside your group (whether in the class
 or not) except for the instructor, including posting questions on
-course-related topics or soliciting feedback on your work.}
+course-related topics or soliciting feedback on your work. You should
+clearly cite sources that you rely on, including the names of any
+generative software (e.g., AI assistants or ``copilots'') that contributed
+to your work. You are explicitly prohibited from accessing or consulting
+prior-year Finance~6200 project assignments or solutions (including
+either students' or sample solutions), unless distributed to the class
+by the instructor.}
 
 \subsection{Professional ethics module}
 
 You will be asked to prepare readings for discussion during an in-class
-module on professional ethics. There will also be a written deliverable
-addressing a practical ethical issue faced by financial professionals.
-You will be graded on the quality of your preparation and contribution
-to in-class discussion, and on your written deliverable.
+module on professional ethics on 2/21 and 3/27. \noun{In-class attendance
+and engaged participation are expected.} There will also be a written
+deliverable addressing a practical ethical issue faced by financial
+professionals. You will be graded on the quality of your preparation
+and contribution to in-class discussion, and on your written deliverable.
 
 \emph{The written deliverable is designed for a mix of learning and
-assessment. You must complete it entirely independently.}
+assessment. You must complete it entirely independently. You should
+clearly cite sources that you rely on, including the names of any
+generative software (e.g., AI assistants or ``copilots'') that contributed
+to your work. You are explicitly prohibited from accessing or consulting
+prior-year Finance~6200 ethics modules assignments or solutions (including
+either students' or sample solutions), unless distributed to the class
+by the instructor.}
+
+\subsection{Data/methods demonstration}
+
+A ``data/methods demonstration'' project will be assigned via Canvas.
+Each group will choose a topic relevant to the assignment, and will
+present their findings in class. You will also be expected to submit
+supporting materials via Canvas.
+
+\emph{The project is designed for a mix of learning and assessment.
+You must complete it independently from other groups. You should not
+seek assistance from anyone outside your group (whether in the class
+or not) except for the instructor, including posting questions on
+course-related topics or soliciting feedback on your work. You should
+clearly cite sources that you rely on, including the names of any
+generative software (e.g., AI assistants or ``copilots'') that contributed
+to your work. You are explicitly prohibited from accessing or consulting
+prior-year Finance~6200 project assignments or solutions (including
+either students' or sample solutions), unless distributed to the class
+by the instructor.}
 
 \subsection{Final group project}
 
 A final project will be assigned via Canvas. Each group will choose
 a topic relevant to the assignment, and will present their findings
-in class.
+in class. Groups will also be expected to submit a copy of their presentation
+materials via Canvas.
 
 \emph{The project is designed for a mix of learning and assessment.
-You are welcome (and even encouraged!) to consult with classmates,
-but the presentation and supporting analysis must be prepared solely
-by members of your group.}
-
-\subsection{Market report}
-
-You will be asked to choose a financial market and write a data-based
-report on it. The specific assignment will be described on Canvas,
-where you will submit your report.
-
-\emph{The project is designed for a mix of learning and assessment.
-You are welcome (and even encouraged!) to consult with classmates
-on your project, but you must write and submit your own work.}
+You must complete it independently from other groups. You should not
+seek assistance from anyone outside your group (whether in the class
+or not) except for the instructor, including posting questions on
+course-related topics or soliciting feedback on your work. You should
+clearly cite sources that you rely on, including the names of any
+generative software (e.g., AI assistants or ``copilots'') that contributed
+to your work. You are explicitly prohibited from accessing or consulting
+prior-year Finance~6200 project assignments or solutions (including
+either students' or sample solutions), unless distributed to the class
+by the instructor.}
 
 \subsection{Final examination}
 
-The class will end with an individual, take-home final examination,
-which will be assigned and submitted via Canvas. You will have several
-days to complete the examination.
+The class will end with an individual final examination.
 
-\emph{The final examination is designed principally for assessment,
-and it will be entirely ``open note''\textemdash you can use any
-pre-existing resources\textemdash but you must complete it entirely
-independently. You should not seek assistance from anyone (whether
-in the class or not), including posting questions on course-related
-topics or soliciting feedback on your work.}
+\emph{The final examination is designed principally for assessment.
+You must complete it entirely independently, using only explicitly
+allowed resources.}
 
 \section{Course policies}
 

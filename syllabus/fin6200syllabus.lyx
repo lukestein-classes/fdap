@@ -107,7 +107,7 @@ Babson Finance
 \end_layout
 
 \begin_layout Date
-Fall 2022
+Spring 2024
 \begin_inset Foot
 status open
 
@@ -270,29 +270,33 @@ Classes will be held on Mondays and Wednesdays in the Cutler Center (Babson
 \begin_inset space ~
 \end_inset
 
-001), although some special sessions will be held at alternate times and
- locations to be announced in advance.
+001), although special sessions may be held at alternate times (and perhaps
+ locations) to be announced in advance.
  Standard meeting times are Section
 \begin_inset space ~
 \end_inset
 
-1: 8:15
+1: 8:
 \shape smallcaps
-am
+30
 \shape default
-–9:30
+–9:
 \shape smallcaps
-am
+45am
 \shape default
 , Section
 \begin_inset space ~
 \end_inset
 
-2: 11:45
+2: 10:00–11:
 \shape smallcaps
-am
+15am
 \shape default
-–1:00
+, Section
+\begin_inset space ~
+\end_inset
+
+3: 12:30–1:45
 \shape smallcaps
 pm
 \shape default
@@ -300,13 +304,13 @@ pm
 \begin_inset space ~
 \end_inset
 
-3: 1:15
+4: 2:
 \shape smallcaps
-pm
+00
 \shape default
-–2:30
+–3:
 \shape smallcaps
-pm.
+15pm.
 \end_layout
 
 \begin_layout Standard
@@ -526,7 +530,8 @@ Microsoft Excel.
 \begin_layout Enumerate
 Standard, freely available data science software tools to be discussed in
  class including Python (and various related packages including pandas,
- NumPy, and Seaborn) and a text editor or software development environment.
+ NumPy, and Seaborn) and a text editor or software development environment
+ (Visual Studio Code is highly recommended)
 \end_layout
 
 \begin_layout Subsection
@@ -663,7 +668,7 @@ Python for Data Analysis
 \begin_inset Quotes erd
 \end_inset
 
- (2nd
+ (3rd
 \begin_inset space ~
 \end_inset
 
@@ -686,7 +691,11 @@ Data Analytics Using Microsoft Excel With Accounting and Finance Datasets
 \begin_inset space ~
 \end_inset
 
-2.0), Joseph M.
+2.0 for Excel 2016 or v.
+\begin_inset space ~
+\end_inset
+
+3.0 for Excel 365), Joseph M.
  Manzo.
  Available only for purchase on web, PDF, or print.
  We will be using Excel throughout the course, where I will generally assume
@@ -712,10 +721,10 @@ Your course grade will be calculated as follows:
 \begin_layout Standard
 \align center
 \begin_inset Tabular
-<lyxtabular version="3" rows="10" columns="4">
+<lyxtabular version="3" rows="11" columns="4">
 <features booktabs="true" tabularvalignment="middle">
 <column alignment="left" valignment="top">
-<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="1.8in">
 <column alignment="right" valignment="top" width="0pt">
 <column alignment="center" valignment="top" width="0pt">
 <row>
@@ -779,7 +788,7 @@ In class and on Discord
 \begin_inset Text
 
 \begin_layout Plain Layout
-20%
+15%
 \end_layout
 
 \end_inset
@@ -799,7 +808,45 @@ Throughout
 \begin_inset Text
 
 \begin_layout Plain Layout
-Homework and peer review
+Homework
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Online submission
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Throughout
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Peer reviews
 \end_layout
 
 \end_inset
@@ -833,11 +880,11 @@ Throughout
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" usebox="none">
+<cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-Microsoft Excel Collegiate Challenge
+Midterm group project
 \end_layout
 
 \end_inset
@@ -846,45 +893,7 @@ Microsoft Excel Collegiate Challenge
 \begin_inset Text
 
 \begin_layout Plain Layout
-Participation
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="right" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-5%
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-9/14–10/9
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Midterm project (group)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Written report
+Online submission
 \end_layout
 
 \end_inset
@@ -902,7 +911,7 @@ Written report
 \begin_inset Text
 
 \begin_layout Plain Layout
-10/23
+2/20
 \end_layout
 
 \end_inset
@@ -922,7 +931,11 @@ Professional ethics module
 \begin_inset Text
 
 \begin_layout Plain Layout
-In class and written report
+In class participation and
+\end_layout
+
+\begin_layout Plain Layout
+online submission
 \end_layout
 
 \end_inset
@@ -940,7 +953,16 @@ In class and written report
 \begin_inset Text
 
 \begin_layout Plain Layout
-10/24–10/31
+2/21 and 3/27
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+*
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -951,7 +973,7 @@ In class and written report
 \begin_inset Text
 
 \begin_layout Plain Layout
-Final project (group)
+Data/methods demonstration
 \end_layout
 
 \end_inset
@@ -960,7 +982,62 @@ Final project (group)
 \begin_inset Text
 
 \begin_layout Plain Layout
-In-class presentation
+Online submission and
+\end_layout
+
+\begin_layout Plain Layout
+in-class presentation
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3/4
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+*
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Final group project
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Online submission and
+\end_layout
+
+\begin_layout Plain Layout
+in-class presentation
 \end_layout
 
 \end_inset
@@ -978,45 +1055,16 @@ In-class presentation
 \begin_inset Text
 
 \begin_layout Plain Layout
-12/5
+4/17
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+*
 \end_layout
 
 \end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
 
-\begin_layout Plain Layout
-Market report (individual)
-\end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Written report
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-15%
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-12/6
 \end_layout
 
 \end_inset
@@ -1027,7 +1075,7 @@ Written report
 \begin_inset Text
 
 \begin_layout Plain Layout
-Final examination (take-home)
+Final examination
 \end_layout
 
 \end_inset
@@ -1036,7 +1084,7 @@ Final examination (take-home)
 \begin_inset Text
 
 \begin_layout Plain Layout
-Online submission
+In-person examination
 \end_layout
 
 \end_inset
@@ -1054,7 +1102,7 @@ Online submission
 \begin_inset Text
 
 \begin_layout Plain Layout
-12/7–12
+4/24
 \end_layout
 
 \end_inset
@@ -1093,6 +1141,56 @@ Total
 \end_inset
 </cell>
 <cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multicolumn="1" alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+*
+\end_layout
+
+\end_inset
+
+Note: Online submission due the night 
+\emph on
+before
+\emph default
+ graded participation or in-class presentations.
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1184,15 +1282,18 @@ Students should be prepared and actively participate throughout the semester
 \end_layout
 
 \begin_layout Subsection
-Homework and peer review
+Homework
 \end_layout
 
 \begin_layout Standard
 Approximately eight weekly homework assignments will be posted on Canvas,
  where they will also be submitted.
- Deadlines will be indicated on Canvas (typically Sundays at midnight).
- You will also need to conduct brief peer reviews of classmates' homework
- submissions, which will be assigned via Canvas.
+ Deadlines will be indicated on Canvas (typically Sundays or Tuesdays at
+ 11
+\shape smallcaps
+pm
+\shape default
+).
  You should be prepared to discuss homework assignments in class any time
  after their due date.
 \end_layout
@@ -1201,9 +1302,32 @@ Approximately eight weekly homework assignments will be posted on Canvas,
 
 \emph on
 Homework assignments are designed principally for learning, not assessment.
- You are welcome (and even encouraged!) to consult with classmates, but
- you must write and submit all your own work individually.
- You should cite all collaborators by name in your submission.
+ You are welcome to consult with classmates, and you are required to clearly
+ list all collaborators by name in your submission.
+ Note that while consultation with classmates is allowed, 
+\noun on
+you must write and submit all your own work individually
+\noun default
+.
+ This implies that your code and text should typically not have more than
+ trivial verbatim overlap with others'.
+ Even if you share ideas with classmates (appropriate), or if you view their
+ code (appropriate), 
+\noun on
+it is not appropriate to simply copy classmates' work, even if you then
+ update it
+\noun default
+.
+ You should clearly cite sources that you rely on, including the names of
+ any generative software (e.g., AI assistants or 
+\begin_inset Quotes eld
+\end_inset
+
+copilots
+\begin_inset Quotes erd
+\end_inset
+
+) that contributed to your work.
 \end_layout
 
 \begin_layout Standard
@@ -1214,45 +1338,34 @@ You are explicitly prohibited from accessing or consulting prior-year Finance
 \end_inset
 
 6200 homework assignments or solutions (including either students' or sample
- solutions).
+ solutions), unless distributed to the class by the instructor.
 \end_layout
 
 \begin_layout Subsection
-Microsoft Excel Collegiate Challenge
+Peer reviews
 \end_layout
 
 \begin_layout Standard
-All students are expected to participate in the 
-\begin_inset Quotes eld
-\end_inset
+You are required to conduct brief, anonymous peer reviews of classmates'
+ homework submissions and other assignments.
+ You should provide a score using an assigned rubric, as well as concise
+ comments useful both to your classmate and to the instructor.
+ Peer reviews will be assigned via Canvas, where they will also be submitted.
+ Deadlines will be indicated on Canvas (typically Sundays or Tuesdays at
+ 11
+\shape smallcaps
+pm
+\shape default
+).
+\end_layout
 
-Training Ground
-\begin_inset Quotes erd
-\end_inset
+\begin_layout Standard
 
- and Round
-\begin_inset space ~
-\end_inset
-
-1 of the 
-\begin_inset CommandInset href
-LatexCommand href
-name "Microsoft Excel Collegiate Challenge"
-target "https://www.fmworldcup.com/microsoft-excel-collegiate-challenge/"
-literal "false"
-
-\end_inset
-
-.
- Round
-\begin_inset space ~
-\end_inset
-
-2—and hopefully the finals—are optional but recommended.
- You may register individually or with a team.
- Your performance in the challenge will not count towards your course grade,
- but participation (including appropriate contribution to a team effort)
- will is required to receive credit for this deliverable.
+\emph on
+Peer reviews are designed for a mix of learning and assessment.
+ Homework assignments are designed principally for learning, not assessment.
+ You are welcome to consult with classmates, and you are required to clearly
+ list all collaborators by name in your
 \end_layout
 
 \begin_layout Subsection
@@ -1271,6 +1384,22 @@ The project is designed for a mix of learning and assessment.
  You should not seek assistance from anyone outside your group (whether
  in the class or not) except for the instructor, including posting questions
  on course-related topics or soliciting feedback on your work.
+ You should clearly cite sources that you rely on, including the names of
+ any generative software (e.g., AI assistants or 
+\begin_inset Quotes eld
+\end_inset
+
+copilots
+\begin_inset Quotes erd
+\end_inset
+
+) that contributed to your work.
+ You are explicitly prohibited from accessing or consulting prior-year Finance
+\begin_inset space ~
+\end_inset
+
+6200 project assignments or solutions (including either students' or sample
+ solutions), unless distributed to the class by the instructor.
 \end_layout
 
 \begin_layout Subsection
@@ -1279,7 +1408,12 @@ Professional ethics module
 
 \begin_layout Standard
 You will be asked to prepare readings for discussion during an in-class
- module on professional ethics.
+ module on professional ethics on 2/21 and 3/27.
+ 
+\noun on
+In-class attendance and engaged participation are expected.
+
+\noun default
  There will also be a written deliverable addressing a practical ethical
  issue faced by financial professionals.
  You will be graded on the quality of your preparation and contribution
@@ -1291,6 +1425,67 @@ You will be asked to prepare readings for discussion during an in-class
 \emph on
 The written deliverable is designed for a mix of learning and assessment.
  You must complete it entirely independently.
+ You should clearly cite sources that you rely on, including the names of
+ any generative software (e.g., AI assistants or 
+\begin_inset Quotes eld
+\end_inset
+
+copilots
+\begin_inset Quotes erd
+\end_inset
+
+) that contributed to your work.
+ You are explicitly prohibited from accessing or consulting prior-year Finance
+\begin_inset space ~
+\end_inset
+
+6200 ethics modules assignments or solutions (including either students'
+ or sample solutions), unless distributed to the class by the instructor.
+\end_layout
+
+\begin_layout Subsection
+Data/methods demonstration
+\end_layout
+
+\begin_layout Standard
+A 
+\begin_inset Quotes eld
+\end_inset
+
+data/methods demonstration
+\begin_inset Quotes erd
+\end_inset
+
+ project will be assigned via Canvas.
+ Each group will choose a topic relevant to the assignment, and will present
+ their findings in class.
+ You will also be expected to submit supporting materials via Canvas.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+The project is designed for a mix of learning and assessment.
+ You must complete it independently from other groups.
+ You should not seek assistance from anyone outside your group (whether
+ in the class or not) except for the instructor, including posting questions
+ on course-related topics or soliciting feedback on your work.
+ You should clearly cite sources that you rely on, including the names of
+ any generative software (e.g., AI assistants or 
+\begin_inset Quotes eld
+\end_inset
+
+copilots
+\begin_inset Quotes erd
+\end_inset
+
+) that contributed to your work.
+ You are explicitly prohibited from accessing or consulting prior-year Finance
+\begin_inset space ~
+\end_inset
+
+6200 project assignments or solutions (including either students' or sample
+ solutions), unless distributed to the class by the instructor.
 \end_layout
 
 \begin_layout Subsection
@@ -1301,34 +1496,34 @@ Final group project
 A final project will be assigned via Canvas.
  Each group will choose a topic relevant to the assignment, and will present
  their findings in class.
+ Groups will also be expected to submit a copy of their presentation materials
+ via Canvas.
 \end_layout
 
 \begin_layout Standard
 
 \emph on
 The project is designed for a mix of learning and assessment.
- You are welcome (and even encouraged!) to consult with classmates, but
- the presentation and supporting analysis must be prepared solely by members
- of your group.
-\end_layout
+ You must complete it independently from other groups.
+ You should not seek assistance from anyone outside your group (whether
+ in the class or not) except for the instructor, including posting questions
+ on course-related topics or soliciting feedback on your work.
+ You should clearly cite sources that you rely on, including the names of
+ any generative software (e.g., AI assistants or 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Subsection
-Market report
-\end_layout
+copilots
+\begin_inset Quotes erd
+\end_inset
 
-\begin_layout Standard
-You will be asked to choose a financial market and write a data-based report
- on it.
- The specific assignment will be described on Canvas, where you will submit
- your report.
-\end_layout
+) that contributed to your work.
+ You are explicitly prohibited from accessing or consulting prior-year Finance
+\begin_inset space ~
+\end_inset
 
-\begin_layout Standard
-
-\emph on
-The project is designed for a mix of learning and assessment.
- You are welcome (and even encouraged!) to consult with classmates on your
- project, but you must write and submit your own work.
+6200 project assignments or solutions (including either students' or sample
+ solutions), unless distributed to the class by the instructor.
 \end_layout
 
 \begin_layout Subsection
@@ -1336,28 +1531,15 @@ Final examination
 \end_layout
 
 \begin_layout Standard
-The class will end with an individual, take-home final examination, which
- will be assigned and submitted via Canvas.
- You will have several days to complete the examination.
+The class will end with an individual final examination.
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-The final examination is designed principally for assessment, and it will
- be entirely 
-\begin_inset Quotes eld
-\end_inset
-
-open note
-\begin_inset Quotes erd
-\end_inset
-
-—you can use any pre-existing resources—but you must complete it entirely
- independently.
- You should not seek assistance from anyone (whether in the class or not),
- including posting questions on course-related topics or soliciting feedback
- on your work.
+The final examination is designed principally for assessment.
+ You must complete it entirely independently, using only explicitly allowed
+ resources.
 \end_layout
 
 \begin_layout Section
