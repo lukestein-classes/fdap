@@ -12,4 +12,6 @@ You can run the notebooks in your web browser using
 
 - [Read daily S&P 500 data](sp500d.ipynb) (`sp500d.ipynb`)
 - [Read monthly S&P 500 data](sp500m.ipynb) (`sp500m.ipynb`)
+- [Install and import a Python package to a personal account on a lab computer](user_install_package.ipynb) (`user_install_package.ipynb`)
+
 - *Additional submissions welcome!*
