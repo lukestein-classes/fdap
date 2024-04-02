@@ -1,6 +1,6 @@
 # FDAP Student Resources
 
-This repository has material that supplements what is posted on the [Babson FIN 6200 Canvas page](https://babson.instructure.com/courses/3515245/). It exists mainly to provide publicly accessible URLs for shared data files (in `/data/`) and template notebook files (in `/templates/`), a course schedule, and links to external resources.
+This repository has material that supplements what is posted on the [Babson FIN 6200 Canvas page](https://babson.instructure.com/courses/3871793/). It exists mainly to provide publicly accessible URLs for shared data files (in `/data/`) and template notebook files (in `/templates/`), a course schedule, and links to external resources.
 
 - [Syllabus](syllabus/fin6200syllabus.pdf)
 - [Course schedule](schedule)
