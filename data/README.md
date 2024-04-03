@@ -46,5 +46,20 @@ See WRDS for variable documentation; note
 - `exchg`: Primary stock exchange
 - `stko`: Stock ownership type—not all are easily purchasable
  
+## Canadian housing prices
+
+Sales Prices of Houses in the City of Windsor
+
+Source: [R Ecdat Data Sets for Econometrics](https://rdrr.io/cran/Ecdat/man/Housing.html)
+
+```python
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
+```
+
+```python
+houses = sm.datasets.get_rdataset("Housing", "Ecdat").data
+```
+
 
 ### Additional submissions welcome!
