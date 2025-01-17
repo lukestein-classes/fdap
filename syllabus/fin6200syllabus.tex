@@ -1,18 +1,19 @@
-%% LyX 2.3.7 created this file.  For more info, see http://www.lyx.org/.
+%% LyX 2.4.3 created this file.  For more info, see https://www.lyx.org/.
 %% Do not edit unless you really know what you are doing.
-\documentclass[11pt,english,letterpaper, abstracton, abstract=false, titlepage=false, headings=normal, captions=tableheading, numbers=noenddot]{scrartcl}
+\documentclass[fontsize=11,english,letterpaper, abstracton, abstract=false, titlepage=false, headings=normal, captions=tableheading, numbers=noenddot]{scrartcl}
 \usepackage{fourier}
 \usepackage{berasans}
 \usepackage[T1]{fontenc}
 \usepackage[latin9]{inputenc}
-\usepackage{geometry}
-\geometry{verbose,tmargin=1in,bmargin=1.3in,lmargin=1in,rmargin=1in}
 \usepackage{babel}
 \usepackage{array}
 \usepackage{verbatim}
 \usepackage{booktabs}
 \usepackage{pdfpages}
-\usepackage[unicode=true,pdfusetitle,
+\usepackage{varwidth}
+\usepackage{geometry}
+\geometry{verbose,tmargin=1in,bmargin=1.3in,lmargin=1in,rmargin=1in}
+\usepackage[pdfusetitle,
  bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
  breaklinks=true,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=false]
  {hyperref}
@@ -23,6 +24,10 @@
 \newcommand{\noun}[1]{\textsc{#1}}
 %% Because html converters don't know tabularnewline
 \providecommand{\tabularnewline}{\\}
+%% Variable width box for table cells
+\newenvironment{cellvarwidth}[1][t]
+    {\begin{varwidth}[#1]{\linewidth}}
+    {\@finalstrut\@arstrutbox\end{varwidth}}
 %% A simple dot to overcome graphicx limitations
 \newcommand{\lyxdot}{.}
 
@@ -35,7 +40,7 @@
 \begin{document}
 \title{Financial Data Analysis and Practice}
 \subtitle{Babson Finance~6200}
-\date{Spring 2024\thanks{Information is subject to change. This version updated \today.}}
+\date{Spring 2025\thanks{Information is subject to change. This version updated \today.}}
 \author{Prof.~Luke~C.D.\ Stein\\
 \texttt{\href{mailto:lcdstein@babson.edu}{lcdstein@babson.edu}}}
 \maketitle
@@ -95,12 +100,11 @@ will be topics regarding financial practice and professionalism.
 
 \subsection{Class time and location}
 
-Classes will be held on Mondays and Wednesdays in the Cutler Center
-(Babson Commons~001), although special sessions may be held at alternate
-times (and perhaps locations) to be announced in advance. Standard
-meeting times are Section~1: 8:\textsc{30}\textendash 9:\textsc{45am},
-Section~2: 10:00\textendash 11:\textsc{15am}, Section~3: 12:30\textendash 1:45\textsc{pm},
-and Section~4: 2:\textsc{00}\textendash 3:\textsc{15pm.}
+Classes will be held on Mondays and Wednesdays or Tuesdays and Fridays
+in the Cutler Center (Babson Commons~001), although special sessions
+may be held at alternate times (and perhaps locations) to be announced
+in advance. Standard meeting times are 9:45\textendash 11:\textsc{00am}
+or 11:15\textsc{am}\textendash 12:\textsc{30pm.}
 
 Except with specific permission, students may only attend their registered
 section. %
@@ -138,7 +142,7 @@ require instructor approval.
 Outside of the classroom, course materials will distributed in three
 ways
 \begin{description}
-\item [{Canvas}] The course \href{https://babson.instructure.com/courses/3515245}{Canvas site}
+\item [{Canvas}] The course \href{https://babson.instructure.com/courses/4139316}{Canvas site}
 will serve mainly to distribute non-public materials (e.g., lecture
 slides, homework), and to collect and grade submissions (including
 peer reviews). Please ensure you are receiving Canvas announcements).
@@ -176,17 +180,17 @@ will be useful; links to each are on the course \href{https://lukestein-classes.
 
 \subsubsection{Required text}
 \begin{itemize}
-\item ``Introduction to Modern Statistics'' (1st~ed.), Mine Çetinkaya-Rundel
+\item ``Introduction to Modern Statistics'' (2nd~ed.), Mine Çetinkaya-Rundel
 and Johanna Hardin. Freely available on web, or purchase PDF or print
 edition.
+\item ``Think Python'' (3rd~ed.), Allen B. Downey. Freely available on
+web, or purchase print edition. This is recommended for new Python
+programmers, and especially those without much programming experience
+generally.
 \end{itemize}
 
 \subsubsection{Recommended texts}
 \begin{itemize}
-\item ``Think Python'' (2nd~ed.), Allen B. Downey. Freely available on
-web or PDF, or purchase print edition. This is recommended for new
-Python programmers, and especially those without much programming
-experience generally.
 \item ``A Whirlwind Tour of Python,'' Jake VanderPlas. Freely available
 on web. This is recommended for more experienced programmers, or as
 an efficient review\slash reference after working through more basic
@@ -210,14 +214,13 @@ only as purchased print edition. The classic book on classic tools
 for using Python for Data Analysis. Goes into more detail on some
 topics than PDSH, but may be harder to follow as an introduction.
 \item ``Data Analytics Using Microsoft Excel With Accounting and Finance
-Datasets'' (v.~2.0 for Excel 2016 or v.~3.0 for Excel 365), Joseph
-M. Manzo. Available only for purchase on web, PDF, or print. We will
-be using Excel throughout the course, where I will generally assume
-familiarity with basic functions and cover some more advanced ones
-(such as Pivot Tables) in class. Students looking to improve their
-skills or for a refresher may wish to consider this book, which has
-been used in FDAP in the past and (unlike many more generic Excel
-books) focuses on finance applications.
+Datasets'' (v.~3.0), Joseph M. Manzo. Available only for purchase
+on web, PDF, or print. We will be using Excel throughout the course,
+where I will generally assume familiarity with basic functions and
+cover some more advanced ones (such as Pivot Tables) in class. Students
+looking to improve their skills or for a refresher may wish to consider
+this book, which has been used in FDAP in the past and (unlike many
+more generic Excel books) focuses on finance applications.
 \end{itemize}
 
 \section{Grading and course deliverables}
@@ -229,20 +232,42 @@ Your course grade will be calculated as follows:
 \toprule 
 Component & Type & Weight & Due Date\tabularnewline
 \midrule
-Class participation and professionalism & In class and on Discord & 15\% & Throughout\tabularnewline
-Homework & Online submission & 15\% & Throughout\tabularnewline
-Peer reviews & Online submission & 10\% & Throughout\tabularnewline
-Midterm group project & Online submission & 10\% & 2/20\tabularnewline
+Class participation and professionalism & In class and on Discord & 20\% & Throughout\tabularnewline
+Homework & Independent work & 0\% & Throughout\tabularnewline
+Midterm group project & Online submission{*} and
+
+in-class presentation & 10\% & \begin{cellvarwidth}[t]
+\centering
+{*}2/25
+
+2/26\textendash 27
+\end{cellvarwidth}\tabularnewline
 Professional ethics module & In class participation and
 
-online submission & 10\% & 2/21 and 3/27\textsuperscript{{*}}\tabularnewline
-Data/methods demonstration & Online submission and
+online submission{*} & 10\% & \begin{cellvarwidth}[t]
+\centering
+3/5\textendash 6 and 4/2\textendash 3
 
-in-class presentation & 10\% & 3/4\textsuperscript{{*}}\tabularnewline
-Final group project & Online submission and
+{*}4/1
+\end{cellvarwidth}\tabularnewline
+Data/methods demonstration & Online submission{*} and
 
-in-class presentation & 15\% & 4/17\textsuperscript{{*}}\tabularnewline
-Final examination & In-person examination & 15\% & 4/24\tabularnewline
+in-class presentation & 10\% & \begin{cellvarwidth}[t]
+\centering
+{*}3/25
+
+3/26\textendash 4/1
+\end{cellvarwidth}\tabularnewline
+Midterm examination & In-person examination & 15\% & Tentatively 4/4\tabularnewline
+Final group project & Online submission{*} and
+
+in-class presentation & 15\% & \begin{cellvarwidth}[t]
+\centering
+{*}4/21
+
+4/22\textendash 25
+\end{cellvarwidth}\tabularnewline
+Final examination & In-person examination & 20\% & Tentatively 5/7\tabularnewline
 \midrule
 \emph{Total} &  & \emph{100\%} & \tabularnewline
 \midrule
@@ -278,47 +303,22 @@ than quantity.
 
 \subsection{Homework}
 
-Approximately eight weekly homework assignments will be posted on
-Canvas, where they will also be submitted. Deadlines will be indicated
-on Canvas (typically Sundays or Tuesdays at 11\textsc{pm}). You should
-be prepared to discuss homework assignments in class any time after
-their due date.
+Approximately eight homework assignments will be posted on Canvas.
+Homework will not be collected or graded, but you should be prepared
+to discuss homework assignments in class any time after their due
+date (an element of strong class participation and professionalism).
 
-\emph{Homework assignments are designed principally for learning,
-not assessment. You are welcome to consult with classmates, and you
-are required to clearly list all collaborators by name in your submission.
-Note that while consultation with classmates is allowed, }\emph{\noun{you
-must write and submit all your own work individually}}\emph{. This
-implies that your code and text should typically not have more than
-trivial verbatim overlap with others'. Even if you share ideas with
-classmates (appropriate), or if you view their code (appropriate),
-}\emph{\noun{it is not appropriate to simply copy classmates' work,
-even if you then update it}}\emph{. You should clearly cite sources
-that you rely on, including the names of any generative software (e.g.,
-AI assistants or ``copilots'') that contributed to your work.}
+\emph{Homework assignments are designed for learning, not assessment.}
 
 \emph{You are explicitly prohibited from accessing or consulting prior-year
 Finance~6200 homework assignments or solutions (including either
 students' or sample solutions), unless distributed to the class by
 the instructor.}
 
-\subsection{Peer reviews}
-
-You are required to conduct brief, anonymous peer reviews of classmates'
-homework submissions and other assignments. You should provide a score
-using an assigned rubric, as well as concise comments useful both
-to your classmate and to the instructor. Peer reviews will be assigned
-via Canvas, where they will also be submitted. Deadlines will be indicated
-on Canvas (typically Sundays or Tuesdays at 11\textsc{pm}).
-
-\emph{Peer reviews are designed for a mix of learning and assessment.
-Homework assignments are designed principally for learning, not assessment.
-You are welcome to consult with classmates, and you are required to
-clearly list all collaborators by name in your}
-
 \subsection{Midterm group project}
 
-A midterm project will be assigned and submitted via Canvas.
+A midterm project will be assigned and submitted via Canvas. You may
+also be required to present your findings in class.
 
 \emph{The project is designed for a mix of learning and assessment.
 You must complete it independently from other groups. You should not
@@ -335,11 +335,12 @@ by the instructor.}
 \subsection{Professional ethics module}
 
 You will be asked to prepare readings for discussion during an in-class
-module on professional ethics on 2/21 and 3/27. \noun{In-class attendance
-and engaged participation are expected.} There will also be a written
-deliverable addressing a practical ethical issue faced by financial
-professionals. You will be graded on the quality of your preparation
-and contribution to in-class discussion, and on your written deliverable.
+module on professional ethics on 3/5\textendash 6 and 4/2\textendash 3.
+\noun{In-class attendance and engaged participation are expected.}
+There will also be a written deliverable addressing a practical ethical
+issue faced by financial professionals. You will be graded on the
+quality of your preparation and contribution to in-class discussion,
+and on your written deliverable.
 
 \emph{The written deliverable is designed for a mix of learning and
 assessment. You must complete it entirely independently. You should
@@ -368,6 +369,14 @@ to your work. You are explicitly prohibited from accessing or consulting
 prior-year Finance~6200 project assignments or solutions (including
 either students' or sample solutions), unless distributed to the class
 by the instructor.}
+
+\subsection{Midterm examination}
+
+The class will end with an individual final examination.
+
+\emph{The final examination is designed principally for assessment.
+You must complete it entirely independently, using only explicitly
+allowed resources.}
 
 \subsection{Final group project}
 
@@ -425,7 +434,7 @@ of students taking classes in the Blended Learning format. Although
 attendance in class is not mandatory, faculty members may and often
 do include class participation as a significant component in calculating
 a student\textquoteright s course grade. Therefore, students should
-plan to attend all class sessions,\footnote{Please however note Section~\ref{subsec:Accommodations} on accomodations,
+plan to attend all class sessions,\footnote{Please however note Section~\ref{subsec:Accommodations} on accommodations,
 as well as Massachusetts General Laws Chapter 151C, Section 2B: \textquotedblleft Any
 student in an educational or vocational training institution, other
 than a religious or denominational educational or vocational training
