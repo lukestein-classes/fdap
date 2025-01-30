@@ -1,72 +1,75 @@
 Timestamp,Which course section are you enrolled in?,Do you consider yourself (does not need to match any official status)…,Which (if any) have you completed? [Undergraduate degree],Which (if any) have you completed? [Graduate degree],"Core finance concepts (e.g., time-value of money, risk and return, NPV and IRR, stock and bond valuation, CAPM)","Hands-on, real-money trading, investment management, or portfolio construction",Computer programming (with any languages/application),Python,Microsoft Excel,Bloomberg Terminal,Data analysis and visualization (with any tools/applications),"Statistics, inference, prediction (with any tools/applications)",Would you say you generally prefer to work individually or in groups?,Would you say you generally prefer to work slowly and carefully (even if it takes too long to reach a conclusion) or quickly and decisively (even if you make some unnecessary mistakes)?,Would you say your overall preference for our FDAP course is to have a moderate workload (even if you learn less) or to learn as much as possible (even if you have to work very hard)?,"Suppose that the average course grade in our course winds up being a B+. (Note: There is not a forced curve; this is just a hypothetical to understand your style.) Would you say your overall preference is that the class receive a narrower distribution (e.g., relatively more A– and Bs) or a wider grade distribution (e.g., relatively more A and B–s)?"
-1/1/1970 00:00:00,8:30am,U.S. (domestic) student,Non-finance,Finance (or closely related field),10,3,8,7,9,2,9,9,3,2,6,5
-1/12/2024 20:57:40,8:30am,U.S. (domestic) student,Finance (or closely related field),None,3,0,7,2,5,3,7,7,3,2,8,2
-1/13/2024 8:57:54,8:30am,International student,Finance (or closely related field),Finance (or closely related field),9,7,3,4,9,8,6,7,10,0,10,10
-1/13/2024 15:41:23,12:30pm,International student,Non-finance,Finance (or closely related field),9,2,5,7,8,5,3,8,4,7,5,3
-1/13/2024 18:29:35,10:00am,International student,Non-finance,Finance (or closely related field),7,7,4,3,5,7,5,3,2,0,3,0
-1/13/2024 19:14:50,2:00pm,International student,Finance (or closely related field),None,8,6,1,0,8,7,3,5,3,4,2,8
-1/14/2024 5:32:15,10:00am,International student,Non-finance,None,6,6,7,6,8,8,7,7,8,7,5,3
-1/14/2024 19:09:19,8:30am,U.S. (domestic) student,Finance (or closely related field),None,8,0,4,0,7,3,6,7,2,3,7,8
-1/14/2024 19:18:36,8:30am,U.S. (domestic) student,Non-finance,None,7,5,1,0,7,7,2,4,2,1,10,8
-1/14/2024 20:21:06,10:00am,International student,Finance (or closely related field),None,9,5,5,1,9,8,6,6,6,7,8,5
-1/14/2024 20:27:25,12:30pm,International student,Finance (or closely related field),None,8,9,8,9,9,8,8,8,5,3,3,7
-1/14/2024 22:43:57,10:00am,International student,Finance (or closely related field),None,9,6,4,0,10,8,8,9,8,4,4,3
-1/15/2024 6:53:35,2:00pm,International student,Finance (or closely related field),None,8,6,1,0,8,7,6,6,0,8,0,3
-1/15/2024 10:56:17,12:30pm,International student,Finance (or closely related field),Finance (or closely related field),8,5,8,6,8,8,8,8,5,5,5,10
-1/15/2024 11:30:14,12:30pm,International student,Finance (or closely related field),None,8,8,8,0,7,5,5,5,10,5,10,0
-1/15/2024 12:07:28,10:00am,U.S. (domestic) student,Finance (or closely related field),Finance (or closely related field),8,7,0,0,8,8,5,5,3,7,10,3
-1/15/2024 12:08:17,10:00am,International student,Finance (or closely related field),None,9,5,0,0,8,8,1,4,7,5,8,9
-1/15/2024 13:32:55,8:30am,U.S. (domestic) student,Non-finance,Finance (or closely related field),8,8,0,0,8,7,3,7,3,8,8,10
-1/15/2024 14:22:25,10:00am,International student,Finance (or closely related field),None,7,8,5,6,7,7,4,5,3,8,5,7
-1/15/2024 15:00:29,2:00pm,International student,Non-finance,None,8,6,5,1,9,8,5,3,4,4,6,4
-1/16/2024 8:54:12,8:30am,International student,Non-finance,None,8,4,6,0,9,6,6,7,4,5,8,1
-1/16/2024 11:04:06,12:30pm,International student,Finance (or closely related field),Non-finance,9,0,1,1,9,8,0,0,4,6,0,0
-1/16/2024 14:30:04,2:00pm,U.S. (domestic) student,Finance (or closely related field),None,7,1,1,0,8,4,2,2,5,6,0,0
-1/16/2024 15:44:21,8:30am,International student,Finance (or closely related field),None,9,7,3,1,8,6,7,8,1,7,0,0
-1/16/2024 16:53:06,2:00pm,International student,Non-finance,Finance (or closely related field),7,2,7,5,6,6,0,0,6,3,4,5
-1/16/2024 16:59:41,8:30am,International student,Non-finance,Non-finance,9,2,2,2,10,8,6,6,8,8,7,0
-1/16/2024 17:28:36,2:00pm,U.S. (domestic) student,Finance (or closely related field),None,7,8,2,2,7,7,4,3,4,5,10,3
-1/16/2024 17:31:25,2:00pm,International student,Finance (or closely related field),Finance (or closely related field),9,4,3,2,7,7,5,4,4,2,7,7
-1/16/2024 18:08:14,12:30pm,U.S. (domestic) student,Finance (or closely related field),Finance (or closely related field),8,8,4,0,6,8,5,2,10,7,0,2
-1/16/2024 23:08:49,8:30am,International student,Finance (or closely related field),None,8,4,1,1,9,6,0,0,2,3,10,8
-1/17/2024 0:07:05,10:00am,U.S. (domestic) student,Finance (or closely related field),None,7,8,2,3,8,8,5,7,6,0,3,2
-1/17/2024 5:27:12,2:00pm,International student,Finance (or closely related field),None,7,9,0,1,7,7,0,0,4,1,10,5
-1/17/2024 8:54:18,2:00pm,International student,Non-finance,Finance (or closely related field),9,7,8,8,10,7,7,8,7,5,5,5
-1/17/2024 9:04:56,8:30am,International student,Finance (or closely related field),None,6,6,6,1,8,5,2,2,0,4,10,0
-1/17/2024 9:15:00,8:30am,U.S. (domestic) student,Finance (or closely related field),None,7,2,2,0,7,6,4,4,5,2,4,5
-1/17/2024 10:00:05,2:00pm,U.S. (domestic) student,Finance (or closely related field),None,8,6,3,0,8,4,5,4,7,3,4,3
-1/17/2024 10:59:33,10:00am,International student,Finance (or closely related field),Finance (or closely related field),8,6,7,7,9,8,7,0,5,7,10,10
-1/17/2024 11:32:21,8:30am,International student,Finance (or closely related field),Finance (or closely related field),8,9,4,4,8,8,5,2,7,8,10,8
-1/17/2024 11:58:03,2:00pm,International student,Finance (or closely related field),None,9,7,3,5,8,7,2,3,7,8,5,7
-1/17/2024 12:25:10,10:00am,U.S. (domestic) student,Non-finance,None,8,2,0,0,8,5,2,1,8,7,7,5
-1/17/2024 13:08:59,2:00pm,International student,Finance (or closely related field),None,9,5,5,1,9,9,7,2,5,3,5,0
-1/17/2024 13:14:20,10:00am,International student,Non-finance,None,5,0,4,3,6,2,1,7,10,3,8,10
-1/17/2024 13:22:06,10:00am,U.S. (domestic) student,Finance (or closely related field),None,9,6,5,5,8,5,6,6,6,2,5,5
-1/17/2024 14:50:43,12:30pm,International student,Finance (or closely related field),Finance (or closely related field),6,2,1,0,6,7,4,3,4,2,5,4
-1/17/2024 15:21:52,8:30am,International student,Finance (or closely related field),None,9,8,0,0,9,6,0,0,7,1,5,3
-1/17/2024 15:26:13,12:30pm,International student,Finance (or closely related field),Finance (or closely related field),7,7,1,0,6,4,4,3,7,6,9,4
-1/17/2024 15:34:25,12:30pm,U.S. (domestic) student,Finance (or closely related field),None,8,0,0,0,7,5,4,7,3,7,8,2
-1/17/2024 16:39:42,12:30pm,International student,Non-finance,None,7,6,9,9,8,7,8,7,0,0,0,10
-1/17/2024 17:13:58,8:30am,U.S. (domestic) student,Finance (or closely related field),None,8,3,3,3,8,7,5,5,7,3,6,2
-1/17/2024 17:52:17,10:00am,U.S. (domestic) student,Finance (or closely related field),None,7,2,5,0,7,4,6,7,4,1,3,3
-1/17/2024 20:17:58,2:00pm,U.S. (domestic) student,Finance (or closely related field),None,6,8,1,1,6,6,5,5,10,8,10,2
-1/17/2024 21:51:17,2:00pm,U.S. (domestic) student,Finance (or closely related field),None,7,3,3,0,7,4,4,6,8,3,5,5
-1/17/2024 22:43:48,8:30am,U.S. (domestic) student,Non-finance,None,7,0,2,1,4,2,4,4,2,10,0,5
-1/17/2024 22:53:49,12:30pm,U.S. (domestic) student,Finance (or closely related field),None,7,0,0,0,4,4,1,3,5,3,8,2
-1/17/2024 23:07:54,12:30pm,U.S. (domestic) student,Finance (or closely related field),None,7,8,3,3,5,4,5,3,3,4,8,7
-1/18/2024 0:28:17,12:30pm,International student,Finance (or closely related field),Finance (or closely related field),8,7,0,0,9,3,4,0,5,2,9,8
-1/18/2024 1:55:41,2:00pm,International student,Finance (or closely related field),None,7,4,0,0,8,7,0,0,7,0,8,5
-1/18/2024 5:05:13,10:00am,International student,Finance (or closely related field),None,7,8,0,0,7,6,5,6,8,2,6,5
-1/18/2024 7:49:50,10:00am,International student,Non-finance,Finance (or closely related field),8,6,8,8,8,8,8,8,7,7,2,10
-1/18/2024 11:28:18,12:30pm,International student,Finance (or closely related field),None,5,0,0,4,9,9,2,0,7,0,10,10
-1/18/2024 11:34:52,12:30pm,International student,Non-finance,None,7,3,1,1,6,6,7,3,6,4,2,3
-1/18/2024 12:01:16,2:00pm,U.S. (domestic) student,Finance (or closely related field),None,6,5,2,0,7,6,5,4,8,4,5,4
-1/18/2024 12:54:51,12:30pm,International student,Non-finance,Finance (or closely related field),9,3,6,6,10,6,6,4,2,2,8,5
-1/18/2024 17:22:38,10:00am,International student,Finance (or closely related field),Finance (or closely related field),7,5,7,7,9,8,5,5,1,0,10,0
-1/18/2024 17:30:43,10:00am,International student,Non-finance,None,7,2,3,1,7,6,5,3,6,2,5,3
-1/18/2024 17:42:15,8:30am,International student,Non-finance,None,7,3,5,5,7,5,5,6,7,1,6,6
-1/18/2024 19:58:05,2:00pm,International student,Finance (or closely related field),None,8,8,3,0,8,5,6,7,5,5,8,5
-1/18/2024 20:30:07,8:30am,International student,Finance (or closely related field),None,5,3,1,3,8,6,0,0,5,3,10,5
-1/18/2024 21:47:12,2:00pm,International student,Finance (or closely related field),Finance (or closely related field),7,5,0,0,9,7,4,4,6,0,4,0
-1/18/2024 22:32:26,10:00am,International student,Non-finance,Finance (or closely related field),8,6,2,2,8,7,5,7,7,4,8,3
-1/19/2024 1:05:44,2:00pm,International student,Non-finance,Finance (or closely related field),6,9,5,1,8,6,0,0,5,9,8,3
+1970/01/01 0:00:00 AM EST,Monday/Wednesday 9:45am,U.S. (domestic) student,Non-finance,Finance (or closely related field),10,3,8,7,9,2,9,9,3,2,6,5
+2025/01/21 4:14:41 PM EST,Tuesday/Thursday 9:45am,International student,Finance (or closely related field),None,8,7,5,5,8,7,7,7,5,5,7,5
+2025/01/21 4:23:08 PM EST,Tuesday/Thursday 11:15am,International student,Finance (or closely related field),None,8,7,5,7,8,8,5,6,4,5,10,10
+2025/01/21 4:34:17 PM EST,Tuesday/Thursday 11:15am,U.S. (domestic) student,Finance (or closely related field),None,8,0,1,2,8,6,6,8,4,0,7,3
+2025/01/21 5:06:17 PM EST,Monday/Wednesday 11:15am,International student,Finance (or closely related field),Finance (or closely related field),7,2,5,6,7,6,6,6,8,2,2,10
+2025/01/21 5:06:40 PM EST,Tuesday/Thursday 9:45am,International student,Non-finance,Non-finance,4,0,0,0,3,4,0,0,3,4,3,10
+2025/01/21 5:15:06 PM EST,Monday/Wednesday 9:45am,U.S. (domestic) student,Finance (or closely related field),None,7,4,6,4,9,8,7,6,8,8,10,3
+2025/01/21 5:29:28 PM EST,Monday/Wednesday 11:15am,International student,Finance (or closely related field),Finance (or closely related field),8,5,0,0,8,6,8,8,7,6,8,0
+2025/01/21 5:40:55 PM EST,Monday/Wednesday 9:45am,International student,Finance (or closely related field),None,8,8,3,2,9,7,2,8,5,2,8,5
+2025/01/21 6:26:59 PM EST,Monday/Wednesday 9:45am,U.S. (domestic) student,Finance (or closely related field),None,6,2,0,0,6,4,5,5,7,3,7,2
+2025/01/21 6:32:52 PM EST,Monday/Wednesday 11:15am,U.S. (domestic) student,Non-finance,None,6,1,1,1,7,5,5,4,6,6,10,10
+2025/01/21 7:43:27 PM EST,Monday/Wednesday 11:15am,U.S. (domestic) student,Finance (or closely related field),None,8,5,6,3,9,9,7,8,10,4,2,3
+2025/01/21 7:55:49 PM EST,Monday/Wednesday 9:45am,International student,Finance (or closely related field),None,2,0,0,1,5,5,2,2,7,7,5,3
+2025/01/21 9:03:44 PM EST,Monday/Wednesday 11:15am,U.S. (domestic) student,Finance (or closely related field),None,9,8,3,2,7,5,3,3,5,4,3,8
+2025/01/21 9:25:29 PM EST,Monday/Wednesday 11:15am,U.S. (domestic) student,Finance (or closely related field),None,8,2,3,0,7,4,3,3,4,6,8,7
+2025/01/21 11:03:14 PM EST,Tuesday/Thursday 11:15am,U.S. (domestic) student,Finance (or closely related field),None,8,7,0,0,7,7,5,2,7,4,6,4
+2025/01/22 8:13:48 AM EST,Monday/Wednesday 11:15am,International student,Finance (or closely related field),None,9,8,4,2,8,7,6,8,7,10,10,10
+2025/01/22 10:29:28 AM EST,Tuesday/Thursday 9:45am,International student,Finance (or closely related field),None,9,7,7,1,8,7,9,9,4,3,5,7
+2025/01/22 10:55:01 AM EST,Tuesday/Thursday 9:45am,International student,Non-finance,None,8,7,7,7,9,6,8,9,5,3,3,8
+2025/01/22 11:08:59 AM EST,Tuesday/Thursday 9:45am,U.S. (domestic) student,Finance (or closely related field),None,9,2,0,0,10,8,1,7,9,4,6,3
+2025/01/22 11:18:02 AM EST,Monday/Wednesday 11:15am,International student,Finance (or closely related field),None,8,0,3,2,8,7,7,5,5,6,10,8
+2025/01/22 11:22:54 AM EST,Monday/Wednesday 9:45am,International student,Finance (or closely related field),Finance (or closely related field),9,5,5,4,7,6,5,7,8,5,6,7
+2025/01/22 11:29:51 AM EST,Tuesday/Thursday 9:45am,International student,Finance (or closely related field),None,8,6,2,2,8,7,7,5,6,3,6,6
+2025/01/22 11:34:57 AM EST,Tuesday/Thursday 9:45am,International student,Finance (or closely related field),Finance (or closely related field),8,6,5,3,8,8,8,5,5,2,8,3
+2025/01/22 11:38:05 AM EST,Monday/Wednesday 9:45am,U.S. (domestic) student,Non-finance,None,5,2,0,0,8,7,2,4,6,1,1,2
+2025/01/22 12:59:59 PM EST,Tuesday/Thursday 11:15am,U.S. (domestic) student,Finance (or closely related field),None,9,4,4,1,8,7,5,2,7,2,10,5
+2025/01/22 1:07:31 PM EST,Tuesday/Thursday 9:45am,U.S. (domestic) student,Non-finance,None,4,1,1,1,4,2,2,2,8,1,5,3
+2025/01/22 1:46:31 PM EST,Tuesday/Thursday 11:15am,U.S. (domestic) student,Finance (or closely related field),None,6,7,3,3,8,7,5,3,7,5,7,3
+2025/01/22 1:48:52 PM EST,Tuesday/Thursday 11:15am,International student,Finance (or closely related field),None,6,6,0,0,8,6,6,3,7,5,8,5
+2025/01/22 2:12:51 PM EST,Monday/Wednesday 11:15am,U.S. (domestic) student,Non-finance,None,7,5,7,6,9,7,7,6,8,5,4,3
+2025/01/22 2:47:42 PM EST,Tuesday/Thursday 11:15am,International student,Finance (or closely related field),None,8,8,3,2,7,4,3,3,5,0,10,3
+2025/01/22 3:08:23 PM EST,Monday/Wednesday 9:45am,International student,Finance (or closely related field),None,8,8,2,4,8,7,6,7,3,1,2,1
+2025/01/22 3:22:57 PM EST,Monday/Wednesday 11:15am,International student,Finance (or closely related field),Finance (or closely related field),4,0,0,0,5,5,0,0,1,0,0,5
+2025/01/22 3:38:55 PM EST,Tuesday/Thursday 9:45am,International student,Finance (or closely related field),None,8,2,2,2,8,6,2,1,5,6,10,0
+2025/01/22 5:10:28 PM EST,Tuesday/Thursday 9:45am,International student,Non-finance,None,9,7,5,5,8,7,8,7,4,7,8,8
+2025/01/22 6:39:44 PM EST,Monday/Wednesday 9:45am,International student,Finance (or closely related field),None,8,4,2,3,8,5,6,6,3,1,7,8
+2025/01/22 8:04:04 PM EST,Tuesday/Thursday 11:15am,International student,Finance (or closely related field),None,9,6,5,6,9,5,6,6,4,7,9,9
+2025/01/22 8:06:03 PM EST,Tuesday/Thursday 11:15am,International student,Finance (or closely related field),None,10,10,7,7,10,8,5,8,2,1,10,10
+2025/01/22 8:12:18 PM EST,Tuesday/Thursday 9:45am,International student,Finance (or closely related field),None,9,2,2,1,8,7,6,6,8,2,8,5
+2025/01/22 8:16:36 PM EST,Tuesday/Thursday 9:45am,U.S. (domestic) student,Non-finance,Finance (or closely related field),6,3,1,1,8,6,4,5,7,2,5,4
+2025/01/22 8:30:38 PM EST,Tuesday/Thursday 9:45am,U.S. (domestic) student,Non-finance,None,5,3,4,0,10,6,8,9,5,5,1,0
+2025/01/22 8:30:52 PM EST,Monday/Wednesday 11:15am,International student,Finance (or closely related field),None,6,2,0,0,6,6,2,2,3,2,4,7
+2025/01/22 9:24:31 PM EST,Tuesday/Thursday 9:45am,International student,Non-finance,None,8,9,0,0,8,8,4,2,8,7,8,8
+2025/01/22 9:36:33 PM EST,Tuesday/Thursday 11:15am,International student,Finance (or closely related field),None,5,1,4,4,8,5,3,3,2,6,3,2
+2025/01/22 9:53:52 PM EST,Tuesday/Thursday 9:45am,International student,Finance (or closely related field),Finance (or closely related field),8,10,2,1,8,7,7,5,10,0,1,5
+2025/01/22 10:04:07 PM EST,Tuesday/Thursday 9:45am,International student,Finance (or closely related field),Finance (or closely related field),8,2,0,0,8,6,0,4,5,3,8,7
+2025/01/22 10:49:02 PM EST,Tuesday/Thursday 9:45am,International student,Non-finance,Finance (or closely related field),7,2,0,0,9,6,0,4,5,0,0,0
+2025/01/22 10:49:13 PM EST,Tuesday/Thursday 11:15am,U.S. (domestic) student,Finance (or closely related field),None,6,0,0,0,6,3,2,2,5,7,0,2
+2025/01/22 10:54:21 PM EST,Tuesday/Thursday 9:45am,International student,Finance (or closely related field),None,7,9,7,5,8,8,7,7,5,4,7,7
+2025/01/22 11:57:49 PM EST,Tuesday/Thursday 9:45am,International student,Non-finance,Finance (or closely related field),8,6,6,7,7,6,6,7,0,5,5,5
+2025/01/22 11:58:26 PM EST,Tuesday/Thursday 11:15am,International student,Finance (or closely related field),None,9,10,5,3,8,8,6,5,4,3,8,2
+2025/01/23 2:10:29 AM EST,Monday/Wednesday 11:15am,International student,Finance (or closely related field),Finance (or closely related field),7,2,3,4,6,3,5,4,8,5,2,5
+2025/01/23 6:11:57 AM EST,Monday/Wednesday 11:15am,International student,Finance (or closely related field),None,8,7,1,0,9,6,7,8,6,9,4,5
+2025/01/23 7:52:01 AM EST,Tuesday/Thursday 11:15am,U.S. (domestic) student,Non-finance,None,8,6,2,2,9,8,9,9,6,7,7,5
+2025/01/23 9:48:28 AM EST,Tuesday/Thursday 11:15am,International student,Finance (or closely related field),None,8,5,0,0,7,8,8,3,5,5,4,6
+2025/01/23 10:22:49 AM EST,Tuesday/Thursday 11:15am,International student,Finance (or closely related field),None,8,10,5,8,7,8,10,7,3,3,9,9
+2025/01/23 10:23:08 AM EST,Tuesday/Thursday 11:15am,International student,Finance (or closely related field),Finance (or closely related field),10,8,5,4,8,8,5,7,8,1,10,10
+2025/01/23 11:50:43 AM EST,Monday/Wednesday 11:15am,International student,Finance (or closely related field),None,8,5,0,0,9,7,2,2,8,1,8,2
+2025/01/23 12:23:24 PM EST,Monday/Wednesday 9:45am,International student,Non-finance,Non-finance,8,0,3,2,8,6,8,6,6,5,5,1
+2025/01/23 12:55:35 PM EST,Monday/Wednesday 9:45am,International student,Finance (or closely related field),None,6,2,1,0,7,5,2,2,7,4,8,3
+2025/01/23 1:26:38 PM EST,Monday/Wednesday 9:45am,International student,Finance (or closely related field),None,10,3,0,0,8,7,2,5,5,5,10,1
+2025/01/23 3:57:57 PM EST,Tuesday/Thursday 11:15am,International student,Finance (or closely related field),None,10,4,5,1,8,7,2,2,6,6,10,4
+2025/01/23 5:02:50 PM EST,Monday/Wednesday 9:45am,U.S. (domestic) student,Finance (or closely related field),None,8,7,7,4,9,7,6,6,6,6,7,5
+2025/01/23 5:20:17 PM EST,Monday/Wednesday 9:45am,International student,Non-finance,None,7,0,0,0,7,7,0,1,9,0,10,8
+2025/01/23 8:01:59 PM EST,Tuesday/Thursday 9:45am,International student,Finance (or closely related field),Finance (or closely related field),10,9,7,6,9,9,7,9,3,7,10,1
+2025/01/23 9:43:56 PM EST,Tuesday/Thursday 11:15am,U.S. (domestic) student,Finance (or closely related field),None,7,6,6,4,5,3,4,7,4,1,10,10
+2025/01/23 9:50:18 PM EST,Tuesday/Thursday 11:15am,International student,Finance (or closely related field),Finance (or closely related field),9,7,3,5,9,8,5,6,5,2,9,5
+2025/01/23 9:51:54 PM EST,Monday/Wednesday 9:45am,International student,Finance (or closely related field),Finance (or closely related field),8,7,4,3,9,8,7,5,8,4,7,0
+2025/01/23 10:21:17 PM EST,Tuesday/Thursday 11:15am,International student,Finance (or closely related field),Finance (or closely related field),7,0,0,0,9,8,8,7,5,5,10,2
+2025/01/23 10:45:16 PM EST,Monday/Wednesday 9:45am,International student,Finance (or closely related field),None,10,10,0,0,10,5,2,5,10,2,10,0
+2025/01/23 11:47:08 PM EST,Monday/Wednesday 11:15am,International student,Finance (or closely related field),None,9,6,2,1,8,5,5,7,8,2,10,8
+2025/01/24 8:01:49 AM EST,Monday/Wednesday 11:15am,International student,Finance (or closely related field),None,9,5,5,0,7,6,4,2,10,7,7,9
+2025/01/24 12:24:27 PM EST,Monday/Wednesday 9:45am,International student,Finance (or closely related field),Non-finance,9,4,3,1,9,8,5,5,5,4,7,5
+2025/01/24 12:30:17 PM EST,Monday/Wednesday 11:15am,International student,Finance (or closely related field),None,8,6,2,2,7,6,7,7,5,8,7,8
