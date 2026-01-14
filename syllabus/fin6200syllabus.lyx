@@ -116,7 +116,7 @@ Babson Finance
 \end_layout
 
 \begin_layout Date
-Spring 2025
+Spring 2026
 \begin_inset Foot
 status open
 
@@ -281,7 +281,7 @@ Class time and location
 \end_layout
 
 \begin_layout Standard
-Classes will be held on Mondays and Wednesdays or Tuesdays and Fridays in the Cutler Center (Babson Commons
+Classes will be held on Mondays and Wednesdays in the Cutler Center (Babson Commons
 \begin_inset space ~
 \end_inset
 
@@ -291,13 +291,21 @@ Classes will be held on Mondays and Wednesdays or Tuesdays and Fridays in the Cu
 \shape smallcaps
 00am
 \shape default
- or 11:15
+,
+ 11:15
 \shape smallcaps
 am
 \shape default
 –12:
 \shape smallcaps
-30pm.
+30pm
+\shape default
+,
+ or 1:45–3:
+\shape smallcaps
+00pm
+\shape default
+.
 \end_layout
 
 \begin_layout Standard
@@ -369,7 +377,7 @@ Phone:
 
 \begin_layout Itemize
 Office hours:
- By Appointment in Tomasso 224 or via Webex
+ By Appointment in Tomasso 320 or via Webex
 \end_layout
 
 \begin_layout Standard
@@ -445,7 +453,7 @@ Canvas The course
 \begin_inset CommandInset href
 LatexCommand href
 name "Canvas site"
-target "https://babson.instructure.com/courses/4139316"
+target "https://babson.instructure.com/courses/7773643"
 literal "false"
 
 \end_inset
@@ -527,7 +535,16 @@ Microsoft Excel.
 Standard,
  freely available data science software tools to be discussed in class including Python (and various related packages including pandas,
  NumPy,
- and Seaborn) and a text editor or software development environment (Visual Studio Code is highly recommended)
+ and Seaborn) and a text editor or software development environment (Visual Studio Code is recommended).
+\end_layout
+
+\begin_layout Enumerate
+Access to one or more generative AI/LLM tools.
+ This is an evolving landscape and that while no specific tool is required,
+ I expect students to be open minded and flexible about trying new tools,
+ and expect them to collaborate in helping share effective approaches with classmates in a collaborative learning environment.
+ Taking advantage of these tools may involve paid software subscriptions,
+ but many tools are available on a free or free trial basis to students.
 \end_layout
 
 \begin_layout Subsection
@@ -619,10 +636,11 @@ reference after working through more basic Python texts.
 \begin_inset Quotes eld
 \end_inset
 
-Python Data Science Handbook,
+Python Data Science Handbook
 \begin_inset Quotes erd
 \end_inset
 
+ (2nd ed.),
  Jake VanderPlas.
  Freely available on web,
  or purchase print edition.
@@ -659,7 +677,7 @@ Coding for Economists,
  with a number of worked examples.
  Has useful,
  opinionated,
- up-to-date advice on actually setting up a technology stack.
+ advice on setting up a technology stack.
 \end_layout
 
 \begin_layout Subsubsection
@@ -859,11 +877,11 @@ Midterm group project
 \begin_inset Text
 
 \begin_layout Plain Layout
-Online submission* and
+Online submission*
 \end_layout
 
 \begin_layout Plain Layout
-in-class presentation
+and
 \end_layout
 
 \end_inset
@@ -881,11 +899,49 @@ in-class presentation
 \begin_inset Text
 
 \begin_layout Plain Layout
-*2/25
+*2/17
 \end_layout
 
 \begin_layout Plain Layout
-2/26–27
+2/18
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Midterm examination
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+In-person examination
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2/27
 \end_layout
 
 \end_inset
@@ -927,11 +983,7 @@ online submission*
 \begin_inset Text
 
 \begin_layout Plain Layout
-3/5–6 and 4/2–3
-\end_layout
-
-\begin_layout Plain Layout
-*4/1
+TBD
 \end_layout
 
 \end_inset
@@ -951,11 +1003,11 @@ Data/methods demonstration
 \begin_inset Text
 
 \begin_layout Plain Layout
-Online submission* and
+Online submission*
 \end_layout
 
 \begin_layout Plain Layout
-in-class presentation
+and
 \end_layout
 
 \end_inset
@@ -973,49 +1025,11 @@ in-class presentation
 \begin_inset Text
 
 \begin_layout Plain Layout
-*3/25
+*4/5
 \end_layout
 
 \begin_layout Plain Layout
-3/26–4/1
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Midterm examination
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-In-person examination
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-15%
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Tentatively 4/4
+4/6–8
 \end_layout
 
 \end_inset
@@ -1035,11 +1049,11 @@ Final group project
 \begin_inset Text
 
 \begin_layout Plain Layout
-Online submission* and
+Online submission*
 \end_layout
 
 \begin_layout Plain Layout
-in-class presentation
+and
 \end_layout
 
 \end_inset
@@ -1061,7 +1075,7 @@ in-class presentation
 \end_layout
 
 \begin_layout Plain Layout
-4/22–25
+4/22–24
 \end_layout
 
 \end_inset
@@ -1099,7 +1113,7 @@ In-person examination
 \begin_inset Text
 
 \begin_layout Plain Layout
-Tentatively 5/7
+5/4
 \end_layout
 
 \end_inset
@@ -1344,11 +1358,27 @@ copilots
 \end_layout
 
 \begin_layout Subsection
+Midterm examination
+\end_layout
+
+\begin_layout Standard
+The class will end with an individual final examination.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+The final examination is designed principally for assessment.
+ You must complete it entirely independently,
+ using only explicitly allowed resources.
+\end_layout
+
+\begin_layout Subsection
 Professional ethics module
 \end_layout
 
 \begin_layout Standard
-You will be asked to prepare readings for discussion during an in-class module on professional ethics on 3/5–6 and 4/2–3.
+You will be asked to prepare readings for discussion during an in-class module on professional ethics on dates TBD.
  
 \noun on
 In-class attendance and engaged participation are expected.
@@ -1426,22 +1456,6 @@ copilots
 
 6200 project assignments or solutions (including either students' or sample solutions),
  unless distributed to the class by the instructor.
-\end_layout
-
-\begin_layout Subsection
-Midterm examination
-\end_layout
-
-\begin_layout Standard
-The class will end with an individual final examination.
-\end_layout
-
-\begin_layout Standard
-
-\emph on
-The final examination is designed principally for assessment.
- You must complete it entirely independently,
- using only explicitly allowed resources.
 \end_layout
 
 \begin_layout Subsection

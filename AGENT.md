@@ -51,3 +51,42 @@ The main task is updating the course materials for the upcoming semester by modi
 ### 3.4. Citing Agent Contributions
 
 When an agent makes a significant contribution to a file, a note should be added in the commit message to acknowledge the agent's role.
+
+## 4. Annual Syllabus Update Checklist
+
+This checklist outlines the information and steps required to update the course syllabus for a new academic year.
+
+### 4.1. Information to Request from the User
+
+Before starting the update process, ask the user for the following information:
+
+*   **Academic Year**: The new academic year and semester (e.g., "Spring 2026").
+*   **Instructor Information**: Any changes to instructor's name, contact information, or office location.
+*   **Class Schedule**:
+    *   The number of sections.
+    *   The meeting days (e.g., Monday/Wednesday).
+    *   The meeting times for each section.
+*   **Due Dates**: A list of all graded components and their due dates for the new semester. This should include:
+    *   Midterm Group Project (including online submission and presentation dates).
+    *   Midterm Exam.
+    *   Data/Methods Demonstration (including online submission and presentation dates).
+    *   Professional Ethics Module (and its deliverable due date).
+    *   Final Group Project (including online submission and presentation dates).
+    *   Final Exam.
+*   **Technology Updates**: Any new software, tools, or technology policies to be included (e.g., policies on AI/LLM tools).
+*   **Course Links**: The updated URL for the course's Canvas page.
+*   **Syllabus and Schedule Files**: Confirmation that the `fin6200syllabus.lyx` and `schedule.md` files in the root directory are the correct ones to edit.
+
+### 4.2. Update Process
+
+1.  **Update Syllabus Content**: In the new `fin6200syllabus.lyx` file, perform the following updates:
+    *   Update the academic year (e.g., "Spring 2025" to "Spring 2026").
+    *   Update all instructor-related information.
+    *   Update the class schedule (days and times).
+    *   Update the table of deliverables with the new due dates.
+    *   Incorporate any changes to the technology section or other policies.
+2.  **Check Books and Links**:
+    *   Extract all book titles and editions from the syllabus. Use web searches to check for newer editions.
+    *   Extract all URLs. Use web fetching tools to check for broken links.
+    *   Report any recommended updates to the user.
+3.  **Final Questions**: Ask the user any clarifying questions needed to finalize the syllabus (e.g., for TBD dates, or to confirm link updates).
