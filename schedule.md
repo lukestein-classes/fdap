@@ -44,7 +44,7 @@ Midterm and final examinations are tentatively scheduled for Friday 4/4 1–3pm,
 |                                                                                     | **W 5/7**   | **W 5/7**   | **Final examination**                                                                                                                                                        | [Final exam](https://babson.instructure.com/courses/4139316/assignments/49353542) <br> (9a–12p in Olin 120; subject to change) |
 
 
-## Updated schedule
+# 2025 updated schedule
 
 As promised, the course schedule changes throughout the semester. "\*" indicates topics covered only in some sections. The following reflects the latest updates:
 
