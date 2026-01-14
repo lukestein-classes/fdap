@@ -110,9 +110,11 @@ Your course grade will be calculated as follows:
 +-----------------------------------------+----------------------------+----------------------------+----------------------------+
 | Midterm examination                     | In-person examination      | 15%                        | 2/27                       |
 +-----------------------------------------+----------------------------+----------------------------+----------------------------+
-| Professional ethics module              | In class participation and | 10%                        | TBD                        |
-|                                         |                            |                            |                            |
+| Professional ethics module              | In class participation and | 10%                        | ::: varwidth               |
+|                                         |                            |                            | /4 and 4/1                 |
 |                                         | online submission\*        |                            |                            |
+|                                         |                            |                            | \*3/31                     |
+|                                         |                            |                            | :::                        |
 +-----------------------------------------+----------------------------+----------------------------+----------------------------+
 | Data/methods demonstration              | Online submission\*        | 10%                        | ::: varwidth               |
 |                                         |                            |                            | \*4/5                      |
@@ -164,9 +166,9 @@ The class will end with an individual final examination.
 
 ## Professional ethics module
 
-You will be asked to prepare readings for discussion during an in-class module on professional ethics on dates TBD. [In-class attendance and engaged participation are expected.]{.smallcaps} There will also be a written deliverable addressing a practical ethical issue faced by financial professionals. You will be graded on the quality of your preparation and contribution to in-class discussion, and on your written deliverable.
+You will be asked to prepare readings for discussion during an in-class module on professional ethics on 3/4 and 4/1. [In-class attendance and engaged participation are expected.]{.smallcaps} There will also be a written deliverable addressing a practical ethical issue faced by financial professionals. You will be graded on the quality of your preparation and contribution to in-class discussion, and on your written deliverable.
 
-*The written deliverable is designed for a mix of learning and assessment. You must complete it entirely independently. You should clearly cite sources that you rely on, including the names of any generative software (e.g., AI assistants or "copilots") that contributed to your work. You are explicitly prohibited from accessing or consulting prior-year Finance 6200 ethics modules assignments or solutions (including either students' or sample solutions), unless distributed to the class by the instructor.*
+*The written deliverable is designed for a mix of learning and assessment. You must complete it entirely independently. The assignment will offer specific guidance on allowable use of resources including generative software (e.g., AI assistants or "copilots"). You should only use tools and sources that are allowed, and should clearly cite any that contributed to your work. You are explicitly prohibited from accessing or consulting prior-year Finance 6200 ethics modules assignments or solutions (including either students' or sample solutions), unless distributed to the class by the instructor.*
 
 ## Data/methods demonstration
 
