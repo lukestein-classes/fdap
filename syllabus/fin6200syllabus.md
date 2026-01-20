@@ -95,45 +95,53 @@ Many resources will be useful in the course, and will discussed in class, posted
 Your course grade will be calculated as follows:
 
 ::: center
-+-----------------------------------------+----------------------------+----------------------------+----------------------------+
-| Component                               | Type                       | Weight                     | Due Date                   |
-+:========================================+:===========================+===========================:+:==========================:+
-| Class participation and professionalism | In class and on Discord    | 20%                        | Throughout                 |
-+-----------------------------------------+----------------------------+----------------------------+----------------------------+
-| Homework                                | Independent work           | 0%                         | Throughout                 |
-+-----------------------------------------+----------------------------+----------------------------+----------------------------+
-| Midterm group project                   | Online submission\*        | 10%                        | ::: varwidth               |
-|                                         |                            |                            | \*2/17                     |
-|                                         | and                        |                            |                            |
-|                                         |                            |                            | 2/18                       |
-|                                         |                            |                            | :::                        |
-+-----------------------------------------+----------------------------+----------------------------+----------------------------+
-| Midterm examination                     | In-person examination      | 15%                        | 2/27                       |
-+-----------------------------------------+----------------------------+----------------------------+----------------------------+
-| Professional ethics module              | In class participation and | 10%                        | ::: varwidth               |
-|                                         |                            |                            | /4 and 4/1                 |
-|                                         | online submission\*        |                            |                            |
-|                                         |                            |                            | \*3/31                     |
-|                                         |                            |                            | :::                        |
-+-----------------------------------------+----------------------------+----------------------------+----------------------------+
-| Data/methods demonstration              | Online submission\*        | 10%                        | ::: varwidth               |
-|                                         |                            |                            | \*4/5                      |
-|                                         | and                        |                            |                            |
-|                                         |                            |                            | 4/6                        |
-|                                         |                            |                            | :::                        |
-+-----------------------------------------+----------------------------+----------------------------+----------------------------+
-| Final group project                     | Online submission\*        | 15%                        | ::: varwidth               |
-|                                         |                            |                            | \*4/21                     |
-|                                         | and                        |                            |                            |
-|                                         |                            |                            | 4/22                       |
-|                                         |                            |                            | :::                        |
-+-----------------------------------------+----------------------------+----------------------------+----------------------------+
-| Final examination                       | In-person examination      | 20%                        | 5/4                        |
-+-----------------------------------------+----------------------------+----------------------------+----------------------------+
-| *Total*                                 |                            | *100%*                     |                            |
-+-----------------------------------------+----------------------------+----------------------------+----------------------------+
-| ^\*^Note: Online submission due the night *before* graded participation or in-class presentations.                             |
-+--------------------------------------------------------------------------------------------------------------------------------+
++-----------------------------------------+----------------------------+----------------------------+-----------------------------------+
+| Component                               | Type                       | Weight                     | Due Date                          |
++:========================================+:===========================+===========================:+:=================================:+
+| Class participation and professionalism | In class and on Discord    | 20%                        | Throughout                        |
++-----------------------------------------+----------------------------+----------------------------+-----------------------------------+
+| Homework                                | Independent work           | 0%                         | Throughout                        |
++-----------------------------------------+----------------------------+----------------------------+-----------------------------------+
+| Midterm group project                   | Online submission\*        | 10%                        | ::: varwidth                      |
+|                                         |                            |                            | \*2/17                            |
+|                                         | and                        |                            |                                   |
+|                                         |                            |                            | 2/18                              |
+|                                         |                            |                            | :::                               |
++-----------------------------------------+----------------------------+----------------------------+-----------------------------------+
+| Midterm examination                     | In-person examination      | 15%                        | ::: varwidth                      |
+|                                         |                            |                            | /27                               |
+|                                         |                            |                            |                                   |
+|                                         |                            |                            | [9am]{.smallcaps}[pm]{.smallcaps} |
+|                                         |                            |                            | :::                               |
++-----------------------------------------+----------------------------+----------------------------+-----------------------------------+
+| Professional ethics module              | In class participation and | 10%                        | ::: varwidth                      |
+|                                         |                            |                            | /4 and 4/1                        |
+|                                         | online submission\*        |                            |                                   |
+|                                         |                            |                            | \*3/31                            |
+|                                         |                            |                            | :::                               |
++-----------------------------------------+----------------------------+----------------------------+-----------------------------------+
+| Data/methods demonstration              | Online submission\*        | 10%                        | ::: varwidth                      |
+|                                         |                            |                            | \*4/5                             |
+|                                         | and                        |                            |                                   |
+|                                         |                            |                            | 4/6                               |
+|                                         |                            |                            | :::                               |
++-----------------------------------------+----------------------------+----------------------------+-----------------------------------+
+| Final group project                     | Online submission\*        | 15%                        | ::: varwidth                      |
+|                                         |                            |                            | \*4/21                            |
+|                                         | and                        |                            |                                   |
+|                                         |                            |                            | 4/22                              |
+|                                         |                            |                            | :::                               |
++-----------------------------------------+----------------------------+----------------------------+-----------------------------------+
+| Final examination                       | In-person examination      | 20%                        | ::: varwidth                      |
+|                                         |                            |                            | /4 or 5/6                         |
+|                                         |                            |                            |                                   |
+|                                         |                            |                            | (TBA)                             |
+|                                         |                            |                            | :::                               |
++-----------------------------------------+----------------------------+----------------------------+-----------------------------------+
+| *Total*                                 |                            | *100%*                     |                                   |
++-----------------------------------------+----------------------------+----------------------------+-----------------------------------+
+| ^\*^Note: Online submission due the night *before* graded participation or in-class presentations.                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
 :::
 
 Graded components and/or final course grades may be adjusted (i.e., "curved"), but will only be "curved up." That is, any such adjustment will guarantee that an unadjusted grade of 90% corresponds to an A or better, 80% to B or better, and 70% to C or better. Any "curve" will therefore only help you relative to a traditional numerical rubric; you will never be "curved down." Information about such a "curve" will *not* be provided during the semester; grades will only be adjusted (at the instructor's discretion) after the final examination.
@@ -228,6 +236,6 @@ Babson College is committed to providing an exceptional educational experience f
 
 This schedule should be considered *preliminary*, and will change during the semester. Topics and material may change based on class pace and interest.
 
-[^1]: Information is subject to change. This version updated 2026-01-14.
+[^1]: Information is subject to change. This version updated 2026-01-20.
 
 [^2]: Please however note Section [\[subsec:Accommodations\]](#subsec:Accommodations){reference-type="ref" reference="subsec:Accommodations"} on accommodations, as well as Massachusetts General Laws Chapter 151C, Section 2B: "Any student in an educational or vocational training institution, other than a religious or denominational educational or vocational training institution, who is unable, because of his religious beliefs, to attend classes or to participate in any examination, study, or work requirement on a particular day shall be excused from any such examination or study or work requirement, and shall be provided with an opportunity to make up such examination, study, or work requirement that he may have missed because of such absence on any particular day; provided, however, that such makeup examination or work shall not create an unreasonable burden upon such school. No fees of any kind shall be charged by the institution for making available to the said student such opportunity. No adverse or prejudicial effects shall result to any student because of his availing himself of the provisions of this section."

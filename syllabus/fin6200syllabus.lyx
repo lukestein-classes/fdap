@@ -944,6 +944,16 @@ In-person examination
 2/27
 \end_layout
 
+\begin_layout Plain Layout
+
+\shape smallcaps
+9am
+\shape default
+–12
+\shape smallcaps
+pm
+\end_layout
+
 \end_inset
 </cell>
 </row>
@@ -1117,7 +1127,11 @@ In-person examination
 \begin_inset Text
 
 \begin_layout Plain Layout
-5/4
+5/4 or 5/6
+\end_layout
+
+\begin_layout Plain Layout
+(TBA)
 \end_layout
 
 \end_inset
