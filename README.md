@@ -1,6 +1,6 @@
 # FDAP Student Resources
 
-This repository has material that supplements what is posted on the [Babson FIN 6200 Canvas page](https://babson.instructure.com/courses/4139316/). It exists mainly to provide publicly accessible URLs for shared data files (in `/data/`) and template notebook files (in `/templates/`), a course schedule, and links to external resources.
+This repository has material that supplements what is posted on the [Babson FIN 6200 Canvas page](https://babson.instructure.com/courses/7773643). It exists mainly to provide publicly accessible URLs for shared data files (in `/data/`) and template notebook files (in `/templates/`), a course schedule, and links to external resources.
 
 - [Syllabus](syllabus/fin6200syllabus.pdf)
 - [Course schedule](schedule)
@@ -20,9 +20,9 @@ Anaconda includes (almost) everything you need to get going, but in line with [t
 - Microsoft's [Data Wrangler for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)
 
 ### Packages
-These are the critical packages we will rely on; if you need a package not included with Anaconda, you should *first* try to install it using `conda install` and only if that doesn’t work, install using `pip`
+These are critical packages we will rely on; if you need a package not included with Anaconda, you should *first* try to install it using `conda install` and only if that doesn’t work, install using `pip`
 - [pandas](https://pandas.pydata.org) (data analysis)
-- - [Pandas data reader](https://pydata.github.io/pandas-datareader/) (access to various data sources including FRED)
+- [Pandas data reader](https://pydata.github.io/pandas-datareader/) (access to various data sources including FRED)
 - [yfinance](https://pypi.org/project/yfinance/) (access to Yahoo Finance data)
 - [Seaborn](https://seaborn.pydata.org) (data visualization) and an [overview of Python visualization tools](https://pbpython.com/visualization-tools-1.html)
 - [NumPy](https://numpy.org) and [SciPy](https://www.scipy.org) (scientific computing)
@@ -52,15 +52,13 @@ Additional packages that may be useful include [YData Profiling](https://github.
 [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) (2nd ed., and [repo](https://github.com/openintrostat/ims), [data repo](https://github.com/OpenIntroStat/openintro)), Mine Çetinkaya-Rundel and Johanna Hardin
 
 ## Financial Data
+- [Yahoo Finance](https://finance.yahoo.com)
 - [Bloomberg Anywhere](https://bba.bloomberg.com)
 - [Open Source Asset Pricing](https://www.openassetpricing.com/data/)
+- [FRED](https://fred.stlouisfed.org)
 - [Wharton Research Data Services (WRDS)](http://wrds.wharton.upenn.edu/)
   - Datasets [by concept](https://wrds-www.wharton.upenn.edu/pages/browse-data-concept/) and [by product](https://wrds-www.wharton.upenn.edu/users/products/)
   - [CRSP Methodologies](http://www.crsp.org/products/documentation/crsp-calculations)
-
-### Microsoft Excel
-
-[Data Analytics Using Microsoft Excel With Accounting and Finance Datasets](https://catalog.flatworldknowledge.com/catalog/editions/microsoft-365-3) (v3.0), Joseph M. Manzo
 
 
 ## Financial Applications
@@ -69,9 +67,18 @@ Relevant resources TBA
 
 ## Other Tools
 
+### LLMs (programmatic)
+
+- [Expected Parrot](https://www.expectedparrot.com/login?ref=9ASNZHZ5) (course signup / referral link)
+
+
 ### Markdown
 - [Commonmark Markdown Tutorial](https://commonmark.org/help/tutorial/)
 - [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+
+### Microsoft Excel
+
+[Data Analytics Using Microsoft Excel With Accounting and Finance Datasets](https://catalog.flatworldknowledge.com/catalog/editions/microsoft-365-3) (v3.0), Joseph M. Manzo
 
 
 # Acknowledgements
