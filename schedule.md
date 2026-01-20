@@ -41,7 +41,7 @@ Midterm and final examinations are scheduled for **Friday, February 27** and **M
 |  24   |          **F 4/24**          | **Monday classes meet on Friday (Babson Monday)** <br> *Group final project presentations*                                   |                                                                                                                       |
 |  25   |            M 4/27            | House price prediction <br> OLS in `statsmodels` <br> Interpreting regression outputs                                        |                                                                                                                       |
 |  26   |            W 4/29            | Final wrap-up <br> Review and catch-up                                                                                       |                                                                                                                       |
-|       | **M 5/4**<br>or<br>**W 5/6** | **Final examination** (precise date and time TBA)                                                                                       | [Final exam](https://babson.instructure.com/courses/7773643/assignments/54112572)                                     |
+|       | **M 5/4**<br>or<br>**W 5/6** | **Final examination** (precise date and time TBA)                                                                            | [Final exam](https://babson.instructure.com/courses/7773643/assignments/54112572)                                     |
 
 
 ## Updated schedule
@@ -51,3 +51,4 @@ As promised, the course schedule changes throughout the semester. "\*" indicates
 
 |       | Meeting | Financial topics | Technical topics | Deliverable |
 | :---: | ------- | ---------------- | ---------------- | ----------- |
+|       |         |                  |                  |             |
