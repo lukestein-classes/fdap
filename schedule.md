@@ -49,6 +49,7 @@ Midterm and final examinations are scheduled for **Friday, February 27** and **M
 As promised, the course schedule changes throughout the semester. "\*" indicates topics covered only in some sections. The following reflects the latest updates:
 
 
-|       | Meeting | Financial topics | Technical topics | Deliverable |
-| :---: | ------- | ---------------- | ---------------- | ----------- |
-|       |         |                  |                  |             |
+|       | Meeting                           | Financial topics          | Technical topics              | Deliverable                                                                |
+| :---: | --------------------------------- | ------------------------- | ----------------------------- | -------------------------------------------------------------------------- |
+|   1   | W 1/21 <br> *Course introduction* | Intraday risk and returns | Calculations in Excel         | [HW0](https://babson.instructure.com/courses/7773643/assignments/54112582) |
+|   2   | M 1/26 <br> *Python demo*         | Equity price data         | Python demo <br> Google Colab |                                                                            |
