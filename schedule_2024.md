@@ -1,4 +1,4 @@
-# Schedule
+# Schedule (2024)
 
 This course schedule **will** change during the semester. Ad hoc topic changes (unannounced) may be based on current events or class pace and interest. Announcement of any meeting changes will be distributed via Discord; please ensure that you are monitoring the `#announcements` channel there.
 
@@ -94,7 +94,7 @@ Excel will be used throughout the course, with coverage not divided into explici
 |   A9   | Equity portfolios      | TBA       |
 
 
-## Updated schedule
+## Updated schedule (2024)
 
 As promised, the course schedule changes throughout the semester. The following reflects the latest updates:
 

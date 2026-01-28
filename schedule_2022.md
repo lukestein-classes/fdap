@@ -1,4 +1,4 @@
-# Schedule
+# Schedule (2022)
 
 This course schedule **will** change during the semester. Ad hoc topic changes (unannounced) may be based on current events or class pace and interest. Announcement of any meeting changes will be distributed via Discord; please ensure that you are monitoring the `#announcements` channel there.
 

@@ -1,4 +1,4 @@
-# Schedule
+# Schedule (2025)
 
 This course schedule **will** change during the semester. Ad hoc topic changes (unannounced) may be based on current events or class pace and interest. Announcement of any meeting changes will be distributed via Discord; please ensure that you are monitoring the `#announcements` channel there.
 
@@ -44,7 +44,7 @@ Midterm and final examinations are tentatively scheduled for Friday 4/4 1–3pm,
 |                                                                                     | **W 5/7**   | **W 5/7**   | **Final examination**                                                                                                                                                        | [Final exam](https://babson.instructure.com/courses/4139316/assignments/49353542) <br> (9a–12p in Olin 120; subject to change) |
 
 
-## Updated schedule
+## Updated schedule (2025)
 
 As promised, the course schedule changes throughout the semester. "\*" indicates topics covered only in some sections. The following reflects the latest updates:
 
