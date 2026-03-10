@@ -30,6 +30,13 @@ db.close()
 sp500m.to_csv(r'sp500m.csv')
 ```
 
+## Wholesale banana prices (`bananas_wholesale.csv`)
+[Download](bananas_wholesale.csv)
+
+Source: FRED (legacy data merged with modern data)
+
+
+
 ## Monthly tech stock returns (`monthly-tech.csv`)
 [Download](monthly-tech.csv)
 
